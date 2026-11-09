@@ -1,0 +1,48 @@
+# ==============================================================================
+# GITIGNORE — SPAFIT COVER SIZER (Zero-Heavy-File & Anonymized Production Scope)
+# ==============================================================================
+
+# 1. Archives volumineuses & backups locaux
+assets.zip
+Cover Sizer.rar
+*.zip
+*.rar
+*.7z
+*.tar.gz
+
+# 2. Environnements virtuels Python & caches
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+*.log
+
+# 3. Caches de scraping et fichiers temporaires
+data/temp/
+data/cache/*.raw
+data/cache/temp_*
+temp_test/
+*.tmp
+
+# 4. Fichiers CAO 3D volumineux dépassant 100 Mo (GitHub Hard Limit)
+assets/_COVER_CAD/
+*.STEP
+*.step
+*.stp
+*.IGES
+*.iges
+
+# 5. Historiques bruts et archives internes de travail
+_ARCHIVE/
+image tests/
+vortex_*.png
+
+# 6. Checkpoints et traces de travail internes
+data/checkpoints/
+
+# 7. Outils temporaires internes
+scripts/anonymize_repository.py
+scripts/audit_branding.py
+scripts/verify_confidentiality.py

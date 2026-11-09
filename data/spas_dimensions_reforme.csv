@@ -1,0 +1,668 @@
+Groupe_Fabricant;Marque;Segment;Configuration_Zone;Serie_Collection;Modele;Sous_Modele_Version;Generation;Code_Usine;Annees;Dim_Pouces_WxLxH;Dim_Pieds_Pouces;Dim_Cm;Dim_Mm
+MAAX Spas;American Whirlpool;Spa Portable;N/A;100 Series;100;100 Round Tub;Gen 1;AW100;2018-2026;78x78x36;6pi6x6pi6x36po;198x198x91;1981x1981x914
+MAAX Spas;American Whirlpool;Spa Portable;N/A;100 Series;151;151 Small Space;Gen 1;AW151;2017-2026;63x83x30;5pi3x6pi11x30po;160x211x76;1600x2108x762
+MAAX Spas;American Whirlpool;Spa Portable;N/A;100 Series;160;160 Triangle Corner;Gen 1;AW160;2017-2026;71x71x35;5pi11x5pi11x35po;180x180x89;1803x1803x889
+MAAX Spas;American Whirlpool;Spa Portable;N/A;100 Series;171;171 Value Lounge;Gen 1;AW171;2017-2026;83x83x36;6pi11x6pi11x36po;211x211x91;2108x2108x914
+MAAX Spas;American Whirlpool;Spa Portable;N/A;200 Series;250;250 Compact Rectangular;Gen 1;AW250;2017-2026;83x63x33;6pi11x5pi3x33po;211x160x84;2108x1600x838
+MAAX Spas;American Whirlpool;Spa Portable;N/A;200 Series;261;261 Triangle Lounge;Gen 1;AW261;2017-2026;72x72x33;6pi0x6pi0x33po;183x183x84;1829x1829x838
+MAAX Spas;American Whirlpool;Spa Portable;N/A;200 Series;270;270 Mid Open;Gen 1;AW270;2017-2026;83x83x36;6pi11x6pi11x36po;211x211x91;2108x2108x914
+MAAX Spas;American Whirlpool;Spa Portable;N/A;200 Series;271;271 Mid Lounge;Gen 1;AW271;2017-2026;83x83x36;6pi11x6pi11x36po;211x211x91;2108x2108x914
+MAAX Spas;American Whirlpool;Spa Portable;N/A;200 Series;280;280 Large Open;Gen 1;AW280;2017-2026;92x92x36;7pi8x7pi8x36po;234x234x91;2337x2337x914
+MAAX Spas;American Whirlpool;Spa Portable;N/A;200 Series;281;281 Large Lounge;Gen 1;AW281;2017-2026;92x92x36;7pi8x7pi8x36po;234x234x91;2337x2337x914
+MAAX Spas;American Whirlpool;Spa Portable;N/A;200 Series;282;282 Dual Lounge;Gen 1;AW282;2017-2026;92x92x36;7pi8x7pi8x36po;234x234x91;2337x2337x914
+MAAX Spas;American Whirlpool;Spa Portable;N/A;400 Series;451;451 3-Person Lounge;Gen 1;AW451;2017-2026;81x64x31;6pi9x5pi4x31po;206x163x79;2057x1626x787
+MAAX Spas;American Whirlpool;Spa Portable;N/A;400 Series;460;460 Patio Open;Gen 1;AW460;2017-2026;78x78x35;6pi6x6pi6x35po;198x198x89;1981x1981x889
+MAAX Spas;American Whirlpool;Spa Portable;N/A;400 Series;461;461 Patio Lounge;Gen 1;AW461;2017-2026;78x78x35;6pi6x6pi6x35po;198x198x89;1981x1981x889
+MAAX Spas;American Whirlpool;Spa Portable;N/A;400 Series;470;470 Mid Open SteelFrame;Gen 1;AW470;2017-2026;87x87x35;7pi3x7pi3x35po;221x221x89;2210x2210x889
+MAAX Spas;American Whirlpool;Spa Portable;N/A;400 Series;471;471 Mid Lounge SteelFrame;Gen 1;AW471;2017-2026;87x87x35;7pi3x7pi3x35po;221x221x89;2210x2210x889
+MAAX Spas;American Whirlpool;Spa Portable;N/A;400 Series;472;472 Mid Dual Lounge;Gen 1;AW472;2017-2026;87x87x35;7pi3x7pi3x35po;221x221x89;2210x2210x889
+MAAX Spas;American Whirlpool;Spa Portable;N/A;400 Series;480;480 Large Open SteelFrame;Gen 1;AW480;2017-2026;91.5x91.5x38;7pi7.5x7pi7.5x38po;232x232x97;2324x2324x965
+MAAX Spas;American Whirlpool;Spa Portable;N/A;400 Series;481;481 Large Lounge SteelFrame;Gen 1;AW481;2017-2026;91.5x91.5x38;7pi7.5x7pi7.5x38po;232x232x97;2324x2324x965
+MAAX Spas;American Whirlpool;Spa Portable;N/A;800 Series;881;881 Deep Open Luxury;Gen 1;AW881;2017-2026;92x92x38;7pi8x7pi8x38po;234x234x97;2337x2337x965
+MAAX Spas;American Whirlpool;Spa Portable;N/A;800 Series;890;890 XL Lounge Luxury;Gen 1;AW890;2017-2026;91x100x38;7pi7x8pi4x38po;231x254x97;2311x2540x965
+MAAX Spas;American Whirlpool;Spa Portable;N/A;900 Series;982;982 Party XXL;Gen 1;AW982;2017-2026;91x133x38;7pi7x11pi1x38po;231x338x97;2311x3378x965
+MAAX Spas;American Whirlpool;Spa de Nage;Dual Zone;PowerPool;DM8;DM8 18ft Dual Temp SteelFrame;Gen 1;AW-DM8;2017-2026;90x218x53;7pi6x18pi2x53po;229x554x135;2286x5537x1346
+MAAX Spas;American Whirlpool;Spa de Nage;Single Zone;PowerPool;MB4;MB4 14ft Bench Swim;Gen 1;AW-MB4;2017-2026;90x168x50;7pi6x14pi0x50po;229x427x127;2286x4267x1270
+MAAX Spas;American Whirlpool;Spa de Nage;Single Zone;PowerPool;ML4;ML4 14ft Lounge Swim;Gen 1;AW-ML4;2017-2026;90x168x50;7pi6x14pi0x50po;229x427x127;2286x4267x1270
+MAAX Spas;American Whirlpool;Spa de Nage;Single Zone;PowerPool;MX5;MX5 15ft Deep Swim;Gen 1;AW-MX5;2019-2026;90x180x60;7pi6x15pi0x60po;229x457x152;2286x4572x1524
+MAAX Spas;American Whirlpool;Spa de Nage;Single Zone;PowerPool;MX6;MX6 16ft Deep 61po;Gen 1;AW-MX6-G1;2017-2021;90x190x61;7pi6x15pi10x61po;229x483x155;2286x4826x1549
+MAAX Spas;American Whirlpool;Spa de Nage;Single Zone;PowerPool;MX6;MX6 NEW 2022+ 60po;Gen 2;AW-MX6-G2;2022-2026;90x190x60;7pi6x15pi10x60po;229x483x152;2286x4826x1524
+MAAX Spas;American Whirlpool;Spa de Nage;Single Zone;RecPool;RB4;RB4 14ft Rec Bench;Gen 1;AW-RB4;2017-2026;90x168x50;7pi6x14pi0x50po;229x427x127;2286x4267x1270
+MAAX Spas;American Whirlpool;Spa de Nage;Single Zone;RecPool;RF2;RF2 12ft Fitness;Gen 1;AW-RF2;2017-2026;90x146x50;7pi6x12pi2x50po;229x371x127;2286x3708x1270
+MAAX Spas;American Whirlpool;Spa de Nage;Single Zone;RecPool;RL4;RL4 14ft Rec Lounge;Gen 1;AW-RL4;2017-2026;90x168x50;7pi6x14pi0x50po;229x427x127;2286x4267x1270
+MAAX Spas;American Whirlpool;Spa de Nage;Single Zone;RecPool;RS2;RS2 12ft Rec Swim;Gen 1;AW-RS2;2017-2026;90x144x50;7pi6x12pi0x50po;229x366x127;2286x3658x1270
+MAAX Spas;MAAX Spas;Spa Portable;N/A;100 Series;151;MAAX 151 Compact;Gen 1;MX151;2008-2017;83x63x30;6pi11x5pi3x30po;211x160x76;2108x1600x762
+MAAX Spas;MAAX Spas;Spa Portable;N/A;100 Series;160;MAAX 160 Corner;Gen 1;MX160;2008-2017;71x71x35;5pi11x5pi11x35po;180x180x89;1803x1803x889
+MAAX Spas;MAAX Spas;Spa Portable;N/A;100 Series;171;MAAX 171 Lounge;Gen 1;MX171;2008-2017;83x83x35;6pi11x6pi11x35po;211x211x89;2108x2108x889
+MAAX Spas;MAAX Spas;Spa Portable;N/A;200 Series;250;MAAX 250 3-Person;Gen 1;MX250;2008-2017;63x83x33;5pi3x6pi11x33po;160x211x84;1600x2108x838
+MAAX Spas;MAAX Spas;Spa Portable;N/A;200 Series;261;MAAX 261 Triangle;Gen 1;MX261;2008-2017;72x72x33;6pi0x6pi0x33po;183x183x84;1829x1829x838
+MAAX Spas;MAAX Spas;Spa Portable;N/A;200 Series;270 / 271;MAAX 270 Open & 271 Lounge;Gen 1;MX270-271;2008-2017;83x83x36;6pi11x6pi11x36po;211x211x91;2108x2108x914
+MAAX Spas;MAAX Spas;Spa Portable;N/A;200 Series;280 / 281 / 282;MAAX 280, 281 & 282;Gen 1;MX280-282;2008-2017;92x92x36;7pi8x7pi8x36po;234x234x91;2337x2337x914
+MAAX Spas;MAAX Spas;Spa Portable;N/A;400 Series;451;MAAX 451 Compact;Gen 1;MX451;2008-2017;64x81x31;5pi4x6pi9x31po;163x206x79;1626x2057x787
+MAAX Spas;MAAX Spas;Spa Portable;N/A;400 Series;461;MAAX 461 Mid;Gen 1;MX461;2008-2017;78x78x35;6pi6x6pi6x35po;198x198x89;1981x1981x889
+MAAX Spas;MAAX Spas;Spa Portable;N/A;400 Series;470 / 472;MAAX 470 & 472;Gen 1;MX470-472;2008-2017;88x88x35;7pi4x7pi4x35po;224x224x89;2235x2235x889
+MAAX Spas;MAAX Spas;Spa Portable;N/A;400 Series;480 / 481;MAAX 480 & 481;Gen 1;MX480-481;2008-2017;91.5x91.5x38;7pi7.5x7pi7.5x38po;232x232x97;2324x2324x965
+MAAX Spas;MAAX Spas;Spa Portable;N/A;800 Series;880 / 881;MAAX 880 & 881;Gen 1;MX880-881;2008-2017;92x92x38;7pi8x7pi8x38po;234x234x97;2337x2337x965
+MAAX Spas;MAAX Spas;Spa Portable;N/A;900 Series;982;MAAX 982 Party;Gen 1;MX982;2008-2017;91x133x38;7pi7x11pi1x38po;231x338x97;2311x3378x965
+MAAX Spas;Vita Spa;Spa Portable;N/A;100 Series;Amour;Amour 2-Person;Gen 1;VIT-AMR;2012-2026;66.5x78x30;5pi6.5x6pi6x30po;169x198x76;1689x1981x762
+MAAX Spas;Vita Spa;Spa Portable;N/A;300 Series;Image;Image Compact;Gen 1;VIT-IMG;2012-2026;69x82x32;5pi9x6pi10x32po;175x208x81;1753x2083x813
+MAAX Spas;Vita Spa;Spa Portable;N/A;300 Series;Joli;Joli Compact Lounge;Gen 1;VIT-JOL;2012-2026;69.5x82x32;5pi9.5x6pi10x32po;177x208x81;1765x2083x813
+MAAX Spas;Vita Spa;Spa Portable;N/A;300 Series;Trio;Trio 3-Person;Gen 1;VIT-TRI;2012-2026;83x66x30;6pi11x5pi6x30po;211x168x76;2108x1676x762
+MAAX Spas;Vita Spa;Spa Portable;N/A;300 Series;Voeux;Voeux Midsize (Corrige de V ux);Gen 1;VIT-VOE;2012-2026;74x84x34;6pi2x7pi0x34po;188x213x86;1880x2134x864
+MAAX Spas;Vita Spa;Spa Portable;N/A;500 Series;Elegant / Intrigue;Elegant Lounge & Intrigue Open;Gen 1;VIT-ELG-INT;2011-2026;83x78.5x37;6pi11x6pi6.5x37po;211x199x94;2108x1994x940
+MAAX Spas;Vita Spa;Spa Portable;N/A;500 Series;Monarque / Prestige;Monarque Open & Prestige Lounge;Gen 1;VIT-MON-PRS;2011-2026;83x83x38;6pi11x6pi11x38po;211x211x97;2108x2108x965
+MAAX Spas;Vita Spa;Spa Portable;N/A;500 Series;Luxe / Sensation;Luxe Lounge & Sensation Open;Gen 1;VIT-LUX-SNS;2011-2026;91x91x38;7pi7x7pi7x38po;231x231x97;2311x2311x965
+MAAX Spas;Vita Spa;Spa Portable;N/A;500 Series;Cabaret / Envie / Riviera / Salon;500 Series 92x92 Models;Gen 1;VIT-500-92;2011-2026;92x92x38;7pi8x7pi8x38po;234x234x97;2337x2337x965
+MAAX Spas;Vita Spa;Spa Portable;N/A;700 Series;Grand / Rendezvous / Vivre;700 Series 92x92 Luxury;Gen 1;VIT-700-92;2011-2026;92x92x38;7pi8x7pi8x38po;234x234x97;2337x2337x965
+MAAX Spas;Vita Spa;Spa Portable;N/A;700 Series;Mystique;Mystique XXL;Gen 1;VIT-MYS;2011-2026;90x114x38;7pi6x9pi6x38po;229x290x97;2286x2896x965
+MAAX Spas;Vita Spa;Spa de Nage;Single Zone;xStream;XF2;XF2 12ft Fitness;Gen 1;VIT-XF2;2014-2026;90x146x50;7pi6x12pi2x50po;229x371x127;2286x3708x1270
+MAAX Spas;Vita Spa;Spa de Nage;Single Zone;xStream;VB4 / VL4 / XB4 / XL4;14ft Swim Spas Bench & Lounge;Gen 1;VIT-14SWIM;2012-2026;90x168x50;7pi6x14pi0x50po;229x427x127;2286x4267x1270
+MAAX Spas;Vita Spa;Spa de Nage;Single Zone;xStream;VM6;VM6 16ft Deep Swim;Gen 1;VIT-VM6;2014-2026;90x190x61;7pi6x15pi10x61po;229x483x155;2286x4826x1549
+MAAX Spas;Vita Spa;Spa de Nage;Dual Zone;xStream;VM8;VM8 18ft Dual Temp;Gen 1;VIT-VM8;2014-2026;90x218x53;7pi6x18pi2x53po;229x554x135;2286x5537x1346
+LPI Inc;Aqua-Living;Spa de Nage;Single Zone;Swim Series;S-12;S-12 12ft Swim Spa;Gen 1;AL-S12;2015-2026;92x142x56;7pi8x11pi10x56po;234x361x142;2337x3607x1422
+LPI Inc;Aqua-Living;Spa de Nage;Dual Zone;Marathon;C-411;20ft Marathon Dual Temp C-411;Gen 1;AL-C411;2016-2026;90x236x54;7pi6x19pi8x54po;229x599x137;2286x5994x1372
+LPI Inc;Dr. Wellness;Spa de Nage;Single Zone;Swim Series;S-16;S-16 16ft Swim Spa;Gen 1;DW-S16;2015-2026;92x197x56;7pi8x16pi5x56po;234x500x142;2337x5004x1422
+LPI Inc;Catalina;Spa Portable;N/A;Classic;Armstrong;Armstrong Midsize;Gen 1;CAT-ARM;2005-2026;80x80x38;6pi8x6pi8x38po;203x203x97;2032x2032x965
+LPI Inc;Catalina;Spa Portable;N/A;Classic;Carlton;Carlton Square;Gen 1;CAT-CAR;2005-2026;84x84x38;7pi0x7pi0x38po;213x213x97;2134x2134x965
+LPI Inc;Catalina;Spa de Nage;Single Zone;Swim Series;Malibu;Malibu 12.5ft Party;Gen 1;CAT-MAL;2008-2026;90x151x42;7pi6x12pi7x42po;229x384x107;2286x3835x1067
+LPI Inc;Catalina;Spa de Nage;Single Zone;Swim Series;C-612;C-612 16ft Swim;Gen 1;CAT-C612;2010-2026;90x190.5x51;7pi6x15pi10.5x51po;229x484x130;2286x4839x1295
+LPI Inc;Catalina;Spa de Nage;Single Zone;Swim Series;Catalina D;Catalina D 16ft;Gen 1;CAT-D16;2008-2026;90x191x54;7pi6x15pi11x54po;229x485x137;2286x4851x1372
+LPI Inc;Catalina;Spa de Nage;Single Zone;Marathon;C-410;C-410 Marathon 18ft;Gen 1;CAT-C410;2008-2026;90x211x54;7pi6x17pi7x54po;229x536x137;2286x5359x1372
+LPI Inc;Catalina;Spa de Nage;Dual Zone;Dual Temp;Swim Spa 18ft;18ft Dual Temp;Gen 1;CAT-DT18;2010-2026;90x214x54;7pi6x17pi10x54po;229x544x137;2286x5436x1372
+LPI Inc;Catalina;Spa de Nage;Dual Zone;Marathon;C-411;C-411 Marathon 20ft Dual Temp;Gen 1;CAT-C411;2008-2026;90x236x54;7pi6x19pi8x54po;229x599x137;2286x5994x1372
+LPI Inc;Catalina;Spa de Nage;Dual Zone;Dual Temp;Swim Spa 20ft;20ft Dual Temp;Gen 1;CAT-DT20;2010-2026;90x237x54;7pi6x19pi9x54po;229x602x137;2286x6020x1372
+LPI Inc;Catalina;Spa de Nage;Dual Zone;Marathon;C-420;C-420 Marathon 21ft Dual Temp;Gen 1;CAT-C420;2008-2026;90x248x54;7pi6x20pi8x54po;229x630x137;2286x6299x1372
+LPI Inc;Premium Leisure;Spa Portable;N/A;Go Spas;GO 1206;GO 1206 Square;Gen 1;PL-GO1206;2010-2026;82x82x35;6pi10x6pi10x35po;208x208x89;2083x2083x889
+LPI Inc;Premium Leisure;Spa de Nage;Single Zone;Aquatic;AQ 11;AQ 11 / AQ X11 11ft;Gen 1;PL-AQ11;2012-2026;89x132x54;7pi5x11pi0x54po;226x335x137;2261x3353x1372
+LPI Inc;Premium Leisure;Spa de Nage;Single Zone;Aquatic;AQ 12;AQ 12 / AQ X12 12ft;Gen 1;PL-AQ12;2012-2026;89x148x54;7pi5x12pi4x54po;226x376x137;2261x3759x1372
+LPI Inc;Premium Leisure;Spa de Nage;Single Zone;Aquatic;AQ 14;AQ 14 / AQ X14 14ft;Gen 1;PL-AQ14;2012-2026;89x172x54;7pi5x14pi4x54po;226x437x137;2261x4369x1372
+LPI Inc;Premium Leisure;Spa de Nage;Single Zone;Exercise;ES 14;ES 14 14ft Swim;Gen 1;PL-ES14;2014-2026;92x173.3x50;7pi8x14pi5.3x50po;234x440x127;2337x4402x1270
+LPI Inc;Premium Leisure;Spa de Nage;Single Zone;Aquatic;AQ 16;AQ 16 / AQ X16 16ft;Gen 1;PL-AQ16;2012-2026;89x198x54;7pi5x16pi6x54po;226x503x137;2261x5029x1372
+LPI Inc;Premium Leisure;Spa de Nage;Dual Zone;Dual Temp;Dual Zone 18;18ft Dual Temp;Gen 1;PL-DZ18;2014-2026;89x213x58;7pi5x17pi9x58po;226x541x147;2261x5410x1473
+LPI Inc;Premium Leisure;Spa de Nage;Single Zone;Swimmer;Swimmer 18;18ft Single Zone;Gen 1;PL-SW18;2014-2026;89x215x58;7pi5x17pi11x58po;226x546x147;2261x5461x1473
+LPI Inc;Premium Leisure;Spa de Nage;Dual Zone;Aquatic;AQ 19;AQ 19 / AQ X19 Dual Zone;Gen 1;PL-AQ19;2014-2026;90x231x58;7pi6x19pi3x58po;229x587x147;2286x5867x1473
+LPI Inc;Premium Leisure;Spa de Nage;Dual Zone;Swimmer;Swimmer 19;19ft Deep Dual Zone;Gen 1;PL-SW19;2016-2026;93.8x234.3x62.8;7pi9.8x19pi6.3x62.8po;238x595x160;2383x5951x1595
+LPI Inc;Swim Spa Solutions;Spa de Nage;Dual Zone;OEM Premium Leisure;Vitality 19 Elite;Vitality 19 Elite Dual Zone (Moule AQ19);Gen 1;SSS-V19;2016-2026;90x231x58;7pi6x19pi3x58po;229x587x147;2286x5867x1473
+LPI Inc;Tuff Spas;Spa Portable;N/A;Tuff Top;TT150 / Getaway;TT150 & ZEN Getaway (Europe Spa);Gen 1;TT150;2007-2026;77x52x27.2;6pi5x4pi4x27.2po;196x132x69;1956x1321x691
+LPI Inc;Tuff Spas;Spa Portable;N/A;Tuff Top;TT250;TT250 Compact Plug & Play;Gen 1;TT250;2007-2026;77x60x29.5;6pi5x5pi0x29.5po;196x152x75;1956x1524x749
+LPI Inc;Tuff Spas;Spa Portable;N/A;Tuff Top;TT650;TT650 Square Tuff Top;Gen 1;TT650;2008-2026;77x77x29.5;6pi5x6pi5x29.5po;196x196x75;1956x1956x749
+Watkins Wellness;Aquaterra Spas;Spa Portable;N/A;Costco Line;Navarro;Navarro 6-Person;Gen 1;AQT-NAV;2015-2026;87x77x34;7pi3x6pi5x34po;221x196x86;2210x1956x864
+Watkins Wellness;Aquaterra Spas;Spa Portable;N/A;Costco Line;Ventura 96;Ventura 96-Jet Large;Gen 1;AQT-VEN;2016-2026;89x89x36;7pi5x7pi5x36po;226x226x91;2261x2261x914
+Watkins Wellness;Hot Spring Spas;Spa Portable;N/A;Highlife;Grandee;Grandee Classique (2005-2009);Gen 1;G;2005-2009;91x100x38;7pi7x8pi4x38po;231x254x97;2311x2540x965
+Watkins Wellness;Hot Spring Spas;Spa Portable;N/A;Highlife;Grandee;Grandee II (2010-2016);Gen 2;GG;2010-2016;91x100x38;7pi7x8pi4x38po;231x254x97;2311x2540x965
+Watkins Wellness;Hot Spring Spas;Spa Portable;N/A;Highlife;Grandee;Grandee NXT (2017-2022);Gen 3;GGN;2014-2022;91x100x38;7pi7x8pi4x38po;231x254x97;2311x2540x965
+Watkins Wellness;Hot Spring Spas;Spa Portable;N/A;Highlife;Grandee;Grandee Redesign (2023+);Gen 4;GGN23;2023-2026;91x100x38;7pi7x8pi4x38po;231x254x97;2311x2540x965
+Watkins Wellness;Hot Spring Spas;Spa Portable;N/A;Highlife;Vista;Vista XXL Highlife;Gen 1;VST;2005-2013;91x100x38;7pi7x8pi4x38po;231x254x97;2311x2540x965
+Watkins Wellness;Hot Spring Spas;Spa Portable;N/A;Highlife;Envoy;Envoy Classique / II;Gen 1;KK / KE;2005-2022;91x93x38;7pi7x7pi9x38po;231x236x97;2311x2362x965
+Watkins Wellness;Hot Spring Spas;Spa Portable;N/A;Highlife;Envoy;Envoy NXT;Gen 2;KKN;2014-2022;93x91x38;7pi9x7pi7x38po;236x231x97;2362x2311x965
+Watkins Wellness;Hot Spring Spas;Spa Portable;N/A;Highlife;Envoy;Envoy Redesign (2023+);Gen 3;KKN23;2023-2026;91x100x38;7pi7x8pi4x38po;231x254x97;2311x2540x965
+Watkins Wellness;Hot Spring Spas;Spa Portable;N/A;Highlife;Aria;Aria / Aria NXT;Gen 1;AR / ARN;2007-2026;87x87x36;7pi3x7pi3x36po;221x221x91;2210x2210x914
+Watkins Wellness;Hot Spring Spas;Spa Portable;N/A;Highlife;Vanguard;Vanguard / Vanguard NXT;Gen 1;V / VVN;2005-2026;87x87x36;7pi3x7pi3x36po;221x221x91;2210x2210x914
+Watkins Wellness;Hot Spring Spas;Spa Portable;N/A;Highlife;Sovereign;Sovereign Highlife;Gen 1;I / IIN;2005-2026;93x80x33;7pi9x6pi8x33po;236x203x84;2362x2032x838
+Watkins Wellness;Hot Spring Spas;Spa Portable;N/A;Highlife;Triumph;Triumph Double Lounge;Gen 1;TRHN;2019-2026;74x93x33;6pi2x7pi9x33po;188x236x84;1880x2362x838
+Watkins Wellness;Hot Spring Spas;Spa Portable;N/A;Highlife;Prodigy;Prodigy Highlife;Gen 1;H / HHN;2005-2026;84x78x33;7pi0x6pi6x33po;213x198x84;2134x1981x838
+Watkins Wellness;Hot Spring Spas;Spa Portable;N/A;Highlife;Jetsetter;Jetsetter Standard 29po;Gen 1;J / JJN;2005-2026;68x84x29;5pi8x7pi0x29po;173x213x74;1727x2134x737
+Watkins Wellness;Hot Spring Spas;Spa Portable;N/A;Highlife;Jetsetter LX;Jetsetter LX 33po;Gen 2;JTN;2014-2026;68x84x33;5pi8x7pi0x33po;173x213x84;1727x2134x838
+Watkins Wellness;Hot Spring Spas;Spa Portable;N/A;Limelight;Prism;Prism XXL;Gen 1;PSM;2018-2026;91x110x38;7pi7x9pi2x38po;231x279x97;2311x2794x965
+Watkins Wellness;Hot Spring Spas;Spa Portable;N/A;Limelight;Pulse;Pulse Open;Gen 1;PL / PLS;2008-2026;89x89x38;7pi5x7pi5x38po;226x226x97;2261x2261x965
+Watkins Wellness;Hot Spring Spas;Spa Portable;N/A;Limelight;Flair / Flash;Flair Lounge & Flash Open;Gen 1;FLR / FLS;2008-2026;84x84x36;7pi0x7pi0x36po;213x213x91;2134x2134x914
+Watkins Wellness;Hot Spring Spas;Spa Portable;N/A;Limelight;Beam;Beam 4-Person;Gen 1;BMI / BMII;2018-2026;80x80x33;6pi8x6pi8x33po;203x203x84;2032x2032x838
+Watkins Wellness;Hot Spring Spas;Spa Portable;N/A;Hot Spot;Relay / Rhythm;Relay Lounge & Rhythm Open;Gen 1;REL / RHY;2010-2026;84x84x36;7pi0x7pi0x36po;213x213x91;2134x2134x914
+Watkins Wellness;Hot Spring Spas;Spa Portable;N/A;Hot Spot;Pace / Propel;Pace Lounge & Propel Double Lounge;Gen 1;PAC / PRP;2020-2026;82x82x33;6pi10x6pi10x33po;208x208x84;2083x2083x838
+Watkins Wellness;Hot Spring Spas;Spa Portable;N/A;Hot Spot;Strobe;Strobe Compact;Gen 1;STB;2020-2026;82x77x33;6pi10x6pi5x33po;208x196x84;2083x1956x838
+Watkins Wellness;Hot Spring Spas;Spa Portable;N/A;Hot Spot;Stride;Stride 3-Person;Gen 1;STD;2014-2026;65x84x29;5pi5x7pi0x29po;165x213x74;1651x2134x737
+Watkins Wellness;Hot Spring Spas;Spa Portable;N/A;Hot Spot;SX;SX 3-Person;Gen 1;SX;2005-2026;72x77x33;6pi0x6pi5x33po;183x196x84;1829x1956x838
+Watkins Wellness;Hot Spring Spas;Spa Portable;N/A;Hot Spot;TX;TX Corner;Gen 1;TX;2005-2026;72x72x29;6pi0x6pi0x29po;183x183x74;1829x1829x737
+Watkins Wellness;Caldera Spas;Spa Portable;N/A;Utopia;Cantabria;Cantabria XXL (Corrige de Cantabria Caldera-Utopia);Gen 1;CAN;2007-2026;91x108x38;7pi7x9pi0x38po;231x274x97;2311x2743x965
+Watkins Wellness;Caldera Spas;Spa Portable;N/A;Utopia;Geneva / Niagara;Geneva Lounge & Niagara Open;Gen 1;GEN / NIA;2005-2026;89x89x38;7pi5x7pi5x38po;226x226x97;2261x2261x965
+Watkins Wellness;Caldera Spas;Spa Portable;N/A;Utopia;Tahitian / Florence;Tahitian Lounge & Florence Open;Gen 1;TAH / FLO;2005-2026;84x84x36;7pi0x7pi0x36po;213x213x91;2134x2134x914
+Watkins Wellness;Caldera Spas;Spa Portable;N/A;Utopia;Provence;Provence Dual Lounge;Gen 1;PRO;2017-2026;84x78x35;7pi0x6pi6x35po;213x198x89;2134x1981x889
+Watkins Wellness;Caldera Spas;Spa Portable;N/A;Utopia;Ravello;Ravello 3-Person;Gen 1;RAV;2020-2026;66.1x83.9x33;5pi6.1x7pi0x33po;168x213x84;1679x2131x838
+Watkins Wellness;Caldera Spas;Spa Portable;N/A;Paradise;Makena / Salina;Makena Lounge & Salina Open;Gen 1;MAK / SAL;2011-2026;89x89x36;7pi5x7pi5x36po;226x226x91;2261x2261x914
+Watkins Wellness;Caldera Spas;Spa Portable;N/A;Paradise;Martinique;Martinique Mid Lounge;Gen 1;MAR;2005-2026;76x89x34;6pi4x7pi5x34po;193x226x86;1930x2261x864
+Watkins Wellness;Caldera Spas;Spa Portable;N/A;Paradise;Reunion / Seychelles;Reunion Open & Seychelles Lounge;Gen 1;REU / SEY;2018-2026;84x84x36;7pi0x7pi0x36po;213x213x91;2134x2134x914
+Watkins Wellness;Caldera Spas;Spa Portable;N/A;Paradise;Kauai;Kauai 3-Person (Corrige de Kaui);Gen 1;KAU;2005-2026;84x65x29.5;7pi0x5pi5x29.5po;213x165x75;2134x1651x749
+Watkins Wellness;Caldera Spas;Spa Portable;N/A;Vacanza;Palatino;Palatino Large;Gen 1;PAL;2011-2026;89x89x38.5;7pi5x7pi5x38.5po;226x226x98;2261x2261x978
+Watkins Wellness;Caldera Spas;Spa Portable;N/A;Vacanza;Vanto / Marino;Vanto Open & Marino Lounge;Gen 1;VAN / MRN;2011-2026;84x84x36;7pi0x7pi0x36po;213x213x91;2134x2134x914
+Watkins Wellness;Caldera Spas;Spa Portable;N/A;Vacanza;Tarino;Tarino Mid;Gen 1;TAR;2013-2026;82x82x33;6pi10x6pi10x33po;208x208x84;2083x2083x838
+Watkins Wellness;Caldera Spas;Spa Portable;N/A;Vacanza;Celio;Celio 3-Person;Gen 1;CEL;2012-2026;65x84x29;5pi5x7pi0x29po;165x213x74;1651x2134x737
+Watkins Wellness;Caldera Spas;Spa Portable;N/A;Vacanza;Aventine;Aventine Corner;Gen 1;AVE;2010-2026;64x64x29;5pi4x5pi4x29po;163x163x74;1626x1626x737
+Watkins Wellness;Endless Pools;Spa de Nage;Single Zone;Fitness Systems;E500 / E550 / E700;Helice Axiale 15ft & 17ft;Gen 1;EP-E500-E700;2016-2026;89x180x58;7pi5x15pi0x58po;226x457x147;2261x4572x1473
+Watkins Wellness;Endless Pools;Spa de Nage;Dual Zone;Fitness / SwimCross;E2000 / X2000;20ft Dual Temp Double Zone;Gen 1;EP-2000;2017-2026;89x240x58;7pi5x20pi0x58po;226x610x147;2261x6096x1473
+Aquatica Group;Aquatica;Spa Portable;N/A;Architectural;Downtown 2 Spa;Downtown 2 Minimalist;Gen 1;AQ-DT2;2018-2026;78.8x78.8x32.3;6pi6.8x6pi6.8x32.3po;200x200x82;2002x2002x820
+Blue Falls Mfg;Arctic Spas;Spa Portable;N/A;Core / Custom;Otter;Otter 2-Person;Gen 1;ARC-OTT;2010-2026;46x86x30;3pi10x7pi2x30po;117x218x76;1168x2184x762
+Blue Falls Mfg;Arctic Spas;Spa Portable;N/A;Core / Custom;Ellesmere;Ellesmere Compact;Gen 1;ARC-ELL;2010-2026;62x86x39;5pi2x7pi2x39po;157x218x99;1575x2184x991
+Blue Falls Mfg;Arctic Spas;Spa Portable;N/A;Core / Custom;Arctic Fox;Arctic Fox 3-Person;Gen 1;ARC-FOX;2005-2026;68.8x85x39;5pi8.8x7pi1x39po;175x216x99;1748x2159x991
+Blue Falls Mfg;Arctic Spas;Spa Portable;N/A;Core / Custom;Timberwolf;Timberwolf Compact;Gen 1;ARC-TMW;2012-2026;69x85x39;5pi9x7pi1x39po;175x216x99;1753x2159x991
+Blue Falls Mfg;Arctic Spas;Spa Portable;N/A;Core / Custom;Husky;Husky Midsize;Gen 1;ARC-HSK;2012-2026;73x84x39;6pi1x7pi0x39po;185x213x99;1854x2134x991
+Blue Falls Mfg;Arctic Spas;Spa Portable;N/A;Core / Custom;Aurora;Aurora Round/Octagon;Gen 1;ARC-AUR;2008-2026;81x81x39;6pi9x6pi9x39po;206x206x99;2057x2057x991
+Blue Falls Mfg;Arctic Spas;Spa Portable;N/A;Core / Custom;Cub / Eagle / Totem / Yukon;Midsize 85x85 Models;Gen 1;ARC-85;2005-2026;85x85x41;7pi1x7pi1x41po;216x216x104;2159x2159x1041
+Blue Falls Mfg;Arctic Spas;Spa Portable;N/A;Core / Custom;Frontier;Frontier Family;Gen 1;ARC-FRT;2005-2026;85x93x39;7pi1x7pi9x39po;216x236x99;2159x2362x991
+Blue Falls Mfg;Arctic Spas;Spa Portable;N/A;Core / Custom;Grizzly / Orca;Grizzly & Orca 91x91;Gen 1;ARC-91;2010-2026;91x91x39;7pi7x7pi7x39po;231x231x99;2311x2311x991
+Blue Falls Mfg;Arctic Spas;Spa Portable;N/A;Core / Custom;Klondiker;Klondiker Lounge;Gen 1;ARC-KLN;2005-2026;92.8x92.8x39;7pi8.8x7pi8.8x39po;236x236x99;2357x2357x991
+Blue Falls Mfg;Arctic Spas;Spa Portable;N/A;Core / Custom;Kodiak / McKinley / Mustang / Summit / Tundra;Large 93x93 Flagship Models;Gen 1;ARC-93;2005-2026;93x93x39;7pi9x7pi9x39po;236x236x99;2362x2362x991
+Blue Falls Mfg;Arctic Spas;Spa Portable;N/A;Core / Custom;Summit XL;Summit XL Giant;Gen 1;ARC-SXL;2010-2026;93x117x39;7pi9x9pi9x39po;236x297x99;2362x2972x991
+Blue Falls Mfg;Arctic Spas;Spa de Nage;Single Zone;All-Weather Pools;Ocean / Wolverine / Hudson / Kingfisher / Okanagan / Athabascan / Columbia;All-Weather Pools 14ft Series;Gen 1;ARC-AWP14;2011-2026;93x172x51;7pi9x14pi4x51po;236x437x130;2362x4369x1295
+The Spa People;Artesian Spas;Spa Portable;N/A;Artesian Elite;Eagle Crest;Eagle Crest High Back;Gen 1;AE-ECR;2008-2026;84x84x42;7pi0x7pi0x42po;213x213x107;2134x2134x1067
+The Spa People;Artesian Spas;Spa Portable;N/A;Artesian Elite;Quail Ridge;Quail Ridge High Back;Gen 1;AE-QRD;2008-2026;79x91x42;6pi7x7pi7x42po;201x231x107;2007x2311x1067
+The Spa People;Artesian Spas;Spa Portable;N/A;Artesian Elite;Dove Canyon / Piper Glen;Dove Canyon & Piper Glen High Back;Gen 1;AE-DCN-PGL;2008-2026;91x91x42;7pi7x7pi7x42po;231x231x107;2311x2311x1067
+The Spa People;Artesian Spas;Spa Portable;N/A;Artesian Elite;Pelican Bay;Pelican Bay XXL High Back;Gen 1;AE-PBY;2008-2026;91x108x42;7pi7x9pi0x42po;231x274x107;2311x2743x1067
+The Spa People;Artesian Spas;Spa Portable;N/A;Garden Spas;Azalea;Azalea 2-Person;Gen 1;GS-AZA;2010-2026;46x76x32;3pi10x6pi4x32po;117x193x81;1168x1930x813
+The Spa People;Artesian Spas;Spa Portable;N/A;Garden Spas;Hibiscus;Hibiscus Triangle;Gen 1;GS-HIB;2010-2026;58x76x30;4pi10x6pi4x30po;147x193x76;1473x1930x762
+The Spa People;Artesian Spas;Spa Portable;N/A;Garden Spas;Iris;Iris Compact;Gen 1;GS-IRS;2010-2026;60x78x30;5pi0x6pi6x30po;152x198x76;1524x1981x762
+The Spa People;Artesian Spas;Spa Portable;N/A;Garden Spas;Forsythia;Forsythia 3-Person;Gen 1;GS-FOR;2010-2026;61x84x32;5pi1x7pi0x32po;155x213x81;1549x2134x813
+The Spa People;Artesian Spas;Spa Portable;N/A;Garden Spas;Camellia;Camellia Square;Gen 1;GS-CAM;2010-2026;72x72x32;6pi0x6pi0x32po;183x183x81;1829x1829x813
+The Spa People;Artesian Spas;Spa Portable;N/A;Garden Spas;Hydrangea;Hydrangea Mid;Gen 1;GS-HYD;2010-2026;78x78x32;6pi6x6pi6x32po;198x198x81;1981x1981x813
+The Spa People;Artesian Spas;Spa Portable;N/A;Garden Spas;Wisteria;Wisteria Family;Gen 1;GS-WIS;2010-2026;84x84x36;7pi0x7pi0x36po;213x213x91;2134x2134x914
+The Spa People;Artesian Spas;Spa Portable;N/A;Island Spas;Santa Cruz;Santa Cruz 3-Person;Gen 1;IS-STC;2005-2026;84x61x32;7pi0x5pi1x32po;213x155x81;2134x1549x813
+The Spa People;Artesian Spas;Spa Portable;N/A;Island Spas;Nevis;Nevis Mid;Gen 1;IS-NEV;2007-2026;78x84x34;6pi6x7pi0x34po;198x213x86;1981x2134x864
+The Spa People;Artesian Spas;Spa Portable;N/A;Island Spas;Antigua / Captiva;Antigua & Captiva (Standard & Elite);Gen 1;IS-ANT-CAP;2005-2026;84x84x36;7pi0x7pi0x36po;213x213x91;2134x2134x914
+The Spa People;Artesian Spas;Spa Portable;N/A;Island Spas;Barbados / Grand Bahama / Grand Cayman;Large 91x91 Island & Island Elite;Gen 1;IS-91;2005-2026;91x91x36;7pi7x7pi7x36po;231x231x91;2311x2311x914
+The Spa People;Artesian Spas;Spa Portable;N/A;Island Spas;Margarita;Margarita & Margarita Elite;Gen 1;IS-MAR;2007-2026;91x108x36;7pi7x9pi0x36po;231x274x91;2311x2743x914
+The Spa People;Artesian Spas;Spa Portable;N/A;Island Spas;Bimini Island;Bimini Party XXL;Gen 1;IS-BIM;2007-2026;91x132x36;7pi7x11pi0x36po;231x335x91;2311x3353x914
+The Spa People;Artesian Spas;Spa Portable;N/A;South Seas;532L;532L 3-Person;Gen 1;SS-532L;2010-2026;60x84x32;5pi0x7pi0x32po;152x213x81;1524x2134x813
+The Spa People;Artesian Spas;Spa Portable;N/A;South Seas;533DL;533DL Dual Lounge;Gen 1;SS-533DL;2010-2026;65x82x31;5pi5x6pi10x31po;165x208x79;1651x2083x787
+The Spa People;Artesian Spas;Spa Portable;N/A;South Seas;627M;627M Round;Gen 1;SS-627M;2010-2026;78x78x36;6pi6x6pi6x36po;198x198x91;1981x1981x914
+The Spa People;Artesian Spas;Spa Portable;N/A;South Seas;743D;743D Compact;Gen 1;SS-743D;2010-2026;68x84x36;5pi8x7pi0x36po;173x213x91;1727x2134x914
+The Spa People;Artesian Spas;Spa Portable;N/A;South Seas;748B / 748L;748B Bench & 748L Lounge;Gen 1;SS-748;2010-2026;84x84x36;7pi0x7pi0x36po;213x213x91;2134x2134x914
+The Spa People;Artesian Spas;Spa Portable;N/A;South Seas;850B / 850L / 853DL / 860B / 860L;South Seas 91x91 Models;Gen 1;SS-850-860;2010-2026;91x91x36;7pi7x7pi7x36po;231x231x91;2311x2311x914
+The Spa People;Artesian Spas;Spa Portable;N/A;South Seas / Tropical Seas;965L / Tahiti Elite;965L & Tropical Seas Tahiti 965L;Gen 1;SS-965L;2010-2026;91x108x36;7pi7x9pi0x36po;231x274x91;2311x2743x914
+The Spa People;TidalFit;Spa de Nage;Single Zone;Active;EP-12;Active EP-12 45po;Gen 1;TF-EP12-45;2014-2026;91x144x45;7pi7x12pi0x45po;231x366x114;2311x3658x1143
+The Spa People;TidalFit;Spa de Nage;Single Zone;Active;ActivePlus EP-12;ActivePlus EP-12 52po;Gen 1;TF-EP12-52;2014-2026;91x144x52;7pi7x12pi0x52po;231x366x132;2311x3658x1321
+The Spa People;TidalFit;Spa de Nage;Single Zone;Premium / Tropic;EP-14 / Tropic Pool;Premium EP-14 & Tropical Seas Tropic Pool;Gen 1;TF-EP14;2012-2026;91x168x52;7pi7x14pi0x52po;231x427x132;2311x4267x1321
+The Spa People;TidalFit;Spa de Nage;Single Zone;Pro;EP-15;EP-15 & Pro EP-15;Gen 1;TF-EP15;2014-2026;91x180x60;7pi7x15pi0x60po;231x457x152;2311x4572x1524
+The Spa People;TidalFit;Spa de Nage;Dual Zone;Dual Temp;DT-19;Tidalfit DT-19 Dual Temp;Gen 1;TF-DT19;2015-2026;91x231x54;7pi7x19pi3x54po;231x587x137;2311x5867x1372
+The Spa People;TidalFit;Spa de Nage;Dual Zone;Dual Temp;DT-21 / DTL-21;DT-21 & DTL-21 Dual Temp;Gen 1;TF-DT21;2015-2026;91x250x54;7pi7x20pi10x54po;231x635x137;2311x6350x1372
+The Spa People;Marquis Spas;Spa Portable;N/A;The Crown;The Spirit;Crown Spirit D-Shape (Corrige de Marquise);Gen 1;CRN-SPI;2020-2026;85x66x36;7pi1x5pi6x36po;216x168x91;2159x1676x914
+The Spa People;Marquis Spas;Spa Portable;N/A;The Crown;The Wish;Crown Wish 77x77 & Signature Wish 84x84;Gen 1;CRN-WSH;2008-2026;84x84x35;7pi0x7pi0x35po;213x213x89;2134x2134x889
+The Spa People;Marquis Spas;Spa Portable;N/A;The Crown;The Promise;Crown Promise;Gen 1;CRN-PRO;2005-2026;85.5x79x35;7pi1.5x6pi7x35po;217x201x89;2172x2007x889
+The Spa People;Marquis Spas;Spa Portable;N/A;The Crown;The Resort / Destiny;Crown Resort & Destiny Curved;Gen 1;CRN-RES;2006-2026;85x85x36;7pi1x7pi1x36po;216x216x91;2159x2159x914
+The Spa People;Marquis Spas;Spa Portable;N/A;Signature;The Reward;Signature Reward;Gen 1;SIG-REW;2005-2019;85.5x85.5x35;7pi1.5x7pi1.5x35po;217x217x89;2172x2172x889
+The Spa People;Marquis Spas;Spa Portable;N/A;The Crown;The Epic / Euphoria;Crown Epic & Euphoria;Gen 1;CRN-EPC-EUP;2005-2026;90x90x36;7pi6x7pi6x36po;229x229x91;2286x2286x914
+The Spa People;Marquis Spas;Spa Portable;N/A;Signature;The Show;Signature Show;Gen 1;SIG-SHW;2010-2019;94x90x35;7pi10x7pi6x35po;239x229x89;2388x2286x889
+The Spa People;Marquis Spas;Spa Portable;N/A;The Crown;The Summit;Crown Summit;Gen 1;CRN-SUM;2020-2026;94x94x36;7pi10x7pi10x36po;239x239x91;2388x2388x914
+The Spa People;Marquis Spas;Spa Portable;N/A;Discovery;RendezVous;RendezVous Discovery;Gen 1;DSC-RDV;2010-2020;75x75x29.5;6pi3x6pi3x29.5po;191x191x75;1905x1905x749
+The Spa People;Marquis Spas;Spa Portable;N/A;Celebrity;The Nashville;Nashville Standard & Elite;Gen 1;CEL-NSH;2013-2026;84x60x29.5;7pi0x5pi0x29.5po;213x152x75;2134x1524x749
+The Spa People;Marquis Spas;Spa Portable;N/A;Celebrity;The Broadway;Broadway Standard & Elite;Gen 1;CEL-BDW;2011-2026;77x77x36;6pi5x6pi5x36po;196x196x91;1956x1956x914
+The Spa People;Marquis Spas;Spa Portable;N/A;Celebrity;The Monaco;Monaco Standard & Elite Round;Gen 1;CEL-MNC;2012-2026;80x80x36;6pi8x6pi8x36po;203x203x91;2032x2032x914
+The Spa People;Marquis Spas;Spa Portable;N/A;Celebrity;The Hollywood / Vegas;Hollywood & Vegas Standard & Elite;Gen 1;CEL-HLW-VGS;2011-2026;84x84x36;7pi0x7pi0x36po;213x213x91;2134x2134x914
+The Spa People;Marquis Spas;Spa Portable;N/A;Celebrity;The Woodstock;Woodstock Standard & Elite;Gen 1;CEL-WDS;2014-2026;90x90x36;7pi6x7pi6x36po;229x229x91;2286x2286x914
+The Spa People;Marquis Spas;Spa Portable;N/A;Vector21;V65L;V65L 3-Person;Gen 1;V65L;2018-2026;84x65x29.5;7pi0x5pi5x29.5po;213x165x75;2134x1651x749
+The Spa People;Marquis Spas;Spa Portable;N/A;Vector21;V77L;V77L Mid Lounge;Gen 1;V77L;2017-2026;77x77x36;6pi5x6pi5x36po;196x196x91;1956x1956x914
+The Spa People;Marquis Spas;Spa Portable;N/A;Vector21;V84 / V84L;V84 Open & V84L Lounge;Gen 1;V84;2016-2026;84x84x36;7pi0x7pi0x36po;213x213x91;2134x2134x914
+The Spa People;Marquis Spas;Spa Portable;N/A;Vector21;V94 / V94L;V94 Open & V94L Lounge;Gen 1;V94;2016-2026;94x94x36;7pi10x7pi10x36po;239x239x91;2388x2388x914
+The Spa People;Marquis Spas;Spa de Nage;Single Zone;Vector21 Swim;V150P / V150W;V150P Party & V150W Workout;Gen 1;V150;2018-2026;90x150x50;7pi6x12pi6x50po;229x381x127;2286x3810x1270
+The Spa People;Marquis Spas;Spa de Nage;Single Zone;ATV Series;ATV-14 Splash / Sport;ATV-14 Splash & Sport;Gen 1;ATV14;2015-2026;89.5x168.5x56;7pi5.5x14pi0.5x56po;227x428x142;2273x4280x1422
+The Spa People;Marquis Spas;Spa de Nage;Single Zone;ATV Series;ATV-17 Sport / Kona;ATV-17 Sport & Kona;Gen 1;ATV17;2014-2026;89.5x204x61;7pi5.5x17pi0x61po;227x518x155;2273x5182x1549
+Asgard Spas;Asgard;Spa de Nage;Single Zone;Nordic Swim;Viking 2025;Viking 2025 16ft;Gen 1;ASG-V25;2024-2026;90x189x52;7pi6x15pi9x52po;229x480x132;2286x4801x1321
+Aspen Spas;Aspen Spas;Spa de Nage;Single Zone;Swim Series;Party 13ft;Party 13ft (Corrige de Sundance Party 13);Gen 1;ASP-P13;2015-2026;93.5x154x54;7pi9.5x12pi10x54po;237x391x137;2375x3912x1372
+Aspen Spas;Aspen Spas;Spa de Nage;Single Zone;Swim Series;15ft Swim Spa;15ft Swim Spa (Corrige de Sundance 15ft);Gen 1;ASP-S15;2015-2026;93.5x190x54;7pi9.5x15pi10x54po;237x483x137;2375x4826x1372
+Aspen Spas;Aspen Spas;Spa de Nage;Single Zone;Swim Series;16ft S.W.I.M. Spa;16ft S.W.I.M. Spa (Corrige de Saundance);Gen 1;ASP-S16;2015-2026;93.5x190.5x54;7pi9.5x15pi10.5x54po;237x484x137;2375x4839x1372
+Barefoot Spas;Barefoot;Spa Portable;N/A;Soletta;57LP;Soletta Classic & Platinum 57LP;Gen 1;BF-57LP;2010-2026;60x84x36;5pi0x7pi0x36po;152x213x91;1524x2134x914
+Barefoot Spas;Barefoot;Spa Portable;N/A;Pagani;77 Series;Pagani 77LB, 77LM, 77NM, 77LP, 77NP;Gen 1;BF-77;2010-2026;84x84x36;7pi0x7pi0x36po;213x213x91;2134x2134x914
+Barefoot Spas;Barefoot;Spa Portable;N/A;Alpina;88 Series;Alpina 88LM, 88NM, 88LP, 8NP;Gen 1;BF-88;2010-2026;96x96x36;8pi0x8pi0x36po;244x244x91;2438x2438x914
+Barefoot Spas;Barefoot;Spa Portable;N/A;Alpina;FS11;Alpina Grand FS11;Gen 1;BF-FS11;2012-2026;92x132x40;7pi8x11pi0x40po;234x335x102;2337x3353x1016
+Barefoot Spas;Barefoot;Spa de Nage;Single Zone;Hydrofit;FS8;Hydrofit FS8 Plunge;Gen 1;BF-FS8;2014-2026;89x89x53;7pi5x7pi5x53po;226x226x135;2261x2261x1346
+Barefoot Spas;Barefoot;Spa de Nage;Single Zone;Spania;SS12;Spania 12 SS12;Gen 1;BF-SS12;2014-2026;89x144x53;7pi5x12pi0x53po;226x366x135;2261x3658x1346
+Barefoot Spas;Barefoot;Spa de Nage;Single Zone;Spania;SS13;Spania 13 SS13;Gen 1;BF-SS13;2014-2026;89x156x53;7pi5x13pi0x53po;226x396x135;2261x3962x1346
+Barefoot Spas;Barefoot;Spa de Nage;Single Zone;Spania;SS15;Spania 15 SS15;Gen 1;BF-SS15;2014-2026;89x180x53;7pi5x15pi0x53po;226x457x135;2261x4572x1346
+Barefoot Spas;Barefoot;Spa de Nage;Single Zone;Spania;817NPSS;Spania 17 817NPSS;Gen 1;BF-SS17;2014-2026;89x204x53;7pi5x17pi0x53po;226x518x135;2261x5182x1346
+Barefoot Spas;Barefoot;Spa de Nage;Dual Zone;Spania;817NPSSD;Spania 17 Grand 817NPSSD;Gen 1;BF-SS17G;2016-2026;92x202x60;7pi8x16pi10x60po;234x513x152;2337x5131x1524
+Barefoot Spas;Barefoot;Spa de Nage;Dual Zone;Spania;SS19;Spania 19 SS19 Dual;Gen 1;BF-SS19;2016-2026;92x238x60;7pi8x19pi10x60po;234x605x152;2337x6045x1524
+Beachcomber Hot Tubs;Beachcomber;Spa Portable;N/A;300 Series;320;320 Round;Gen 1;BC-320;2005-2026;78x78x34;6pi6x6pi6x34po;198x198x86;1981x1981x864
+Beachcomber Hot Tubs;Beachcomber;Spa Portable;N/A;300 Series;340;340 Mid Open;Gen 1;BC-340;2005-2026;70x86x34;5pi10x7pi2x34po;178x218x86;1778x2184x864
+Beachcomber Hot Tubs;Beachcomber;Spa Portable;N/A;300 Series;350 / 360;350 Lounge & 360 Open;Gen 1;BC-350-360;2005-2026;80x88x38;6pi8x7pi4x38po;203x224x97;2032x2235x965
+Beachcomber Hot Tubs;Beachcomber;Spa Portable;N/A;300 Series;380;380 Large Open;Gen 1;BC-380;2005-2026;89x89x38;7pi5x7pi5x38po;226x226x97;2261x2261x965
+Beachcomber Hot Tubs;Beachcomber;Spa Portable;N/A;500 Series;510;510 2-Person;Gen 1;BC-510;2005-2026;57x75x30;4pi9x6pi3x30po;145x191x76;1448x1905x762
+Beachcomber Hot Tubs;Beachcomber;Spa Portable;N/A;500 / 700 Series;530 / 540 / 710;530, 540, 710 & 710 SLB AIR;Gen 1;BC-540-710;2005-2026;70x86x38;5pi10x7pi2x38po;178x218x97;1778x2184x965
+Beachcomber Hot Tubs;Beachcomber;Spa Portable;N/A;500 / 700 Series;550 / 570 / 720 / 730;550, 570, 720, 730 & SLB AIR;Gen 1;BC-550-730;2005-2026;80x88x38;6pi8x7pi4x38po;203x224x97;2032x2235x965
+Beachcomber Hot Tubs;Beachcomber;Spa Portable;N/A;500 / 700 Series;590 / 740 / 750;590, 740, 750 & SLB AIR;Gen 1;BC-590-750;2005-2026;89x89x38;7pi5x7pi5x38po;226x226x97;2261x2261x965
+BeWell Canada Spa;BeWell;Spa Portable;N/A;Original;O447;O447 Compact;Gen 1;BW-O447;2015-2026;75.2x87.4x35.8;6pi3.2x7pi3.4x35.8po;191x222x91;1910x2220x909
+BeWell Canada Spa;BeWell;Spa Portable;N/A;Original;460;O460 Midsize;Gen 1;BW-460;2015-2026;88x74x36;7pi4x6pi2x36po;224x188x91;2235x1880x914
+BeWell Canada Spa;BeWell;Spa Portable;N/A;Solstice;S620;Solstice S620;Gen 1;BW-S620;2018-2026;87x87x37.3;7pi3x7pi3x37.3po;221x221x95;2210x2210x947
+Bullfrog Int;Bullfrog;Spa Portable;N/A;Legacy;451;451 Historic Model;Gen 1;BF-451;2005-2012;78x86x35;6pi6x7pi2x35po;198x218x89;1981x2184x889
+Bullfrog Int;Bullfrog;Spa Portable;N/A;A / R / X Series;A5L / R5L / X5L;A5L (68x84), R5L & X5L (84x68);Gen 1;BF-5L;2013-2026;68x84x31;5pi8x7pi0x31po;173x213x79;1727x2134x787
+Bullfrog Int;Bullfrog;Spa Portable;N/A;A / R / X Series;A6 / A6L / R6 / R6L / X6L;A6, A6L, R6, R6L, X6L;Gen 1;BF-6;2013-2026;80x88x34;6pi8x7pi4x34po;203x224x86;2032x2235x864
+Bullfrog Int;Bullfrog;Spa Portable;N/A;X Series;X6R;X6R Round;Gen 1;BF-X6R;2015-2026;79x79x34;6pi7x6pi7x34po;201x201x86;2007x2007x864
+Bullfrog Int;Bullfrog;Spa Portable;N/A;Calm Series;Calme 7;Calme 7;Gen 1;BF-CLM7;2023-2026;84x84x36;7pi0x7pi0x36po;213x213x91;2134x2134x914
+Bullfrog Int;Bullfrog;Spa Portable;N/A;A / R / X Series;A7 / A7L / R7 / R7L / X7 / X7L;Series 7 Open & Lounge;Gen 1;BF-7;2013-2026;88x88x36;7pi4x7pi4x36po;224x224x91;2235x2235x914
+Bullfrog Int;Bullfrog;Spa Portable;N/A;A Series;A7D;A7D Dual Lounge;Gen 2;BF-A7D;2023-2026;88.8x88.8x36;7pi4.8x7pi4.8x36po;226x226x91;2256x2256x914
+Bullfrog Int;Bullfrog;Spa Portable;N/A;A / R / X Series;A8 / A8D / A8L / R8 / R8L / X8 / X8L;Series 8 (<2022 Bords Arrondis);Gen 1;BF-8-G1;2013-2022;94x94x38;7pi10x7pi10x38po;239x239x97;2388x2388x965
+Bullfrog Int;Bullfrog;Spa Portable;N/A;A Series;A8 / A8L;A8 & A8L (New Serie 2023+ Corner Lights);Gen 2;BF-8-G2;2023-2026;94x94x38;7pi10x7pi10x38po;239x239x97;2388x2388x965
+Bullfrog Int;Bullfrog;Spa Portable;N/A;A Series;A9L;A9L Giant Lounge;Gen 2;BF-A9L;2022-2026;94x112x38;7pi10x9pi4x38po;239x284x97;2388x2845x965
+Bullfrog Int;Bullfrog;Spa Portable;N/A;M Series;M6;M6 Mid Elite;Gen 1;BF-M6;2021-2026;91x80x34;7pi7x6pi8x34po;231x203x86;2311x2032x864
+Bullfrog Int;Bullfrog;Spa Portable;N/A;M Series;M7;M7 Bi-Directional;Gen 1;BF-M7;2021-2026;91x91x37;7pi7x7pi7x37po;231x231x94;2311x2311x940
+Bullfrog Int;Bullfrog;Spa Portable;N/A;M Series;M8;M8 Captains Elite;Gen 1;BF-M8;2020-2026;94x94x38;7pi10x7pi10x38po;239x239x97;2388x2388x965
+Bullfrog Int;Bullfrog;Spa Portable;N/A;M Series;M9;M9 Mega Elite;Gen 1;BF-M9;2020-2026;94x112x38;7pi10x9pi4x38po;239x284x97;2388x2845x965
+Bullfrog Int;Bullfrog;Spa Portable;N/A;STIL Series;Stil 5;Stil 5 Moderne;Gen 1;BF-STL5;2015-2026;67x82x31;5pi7x6pi10x31po;170x208x79;1702x2083x787
+Bullfrog Int;Bullfrog;Spa Portable;N/A;STIL Series;Stil 7;Stil 7 Moderne;Gen 1;BF-STL7;2015-2026;88x86x34;7pi4x7pi2x34po;224x218x86;2235x2184x864
+Bullfrog Int;Bullfrog;Spa de Nage;Single Zone;Swim Series;S150;S150 12.5ft Swim;Gen 1;BF-S150;2022-2026;94x152x52;7pi10x12pi8x52po;239x386x132;2388x3861x1321
+Bullfrog Int;Bullfrog;Spa de Nage;Single Zone;Swim Series;S180XD;S180XD 15ft Deep;Gen 1;BF-S180XD;2022-2026;94x180x60;7pi10x15pi0x60po;239x457x152;2388x4572x1524
+Bullfrog Int;Bullfrog;Spa de Nage;Single Zone;Swim Series;S200;S200 17ft Swim;Gen 1;BF-S200;2022-2026;94x204x52;7pi10x17pi0x52po;239x518x132;2388x5182x1321
+LMS Cal Spas;Cal Spas;Spa Portable;N/A;Patio;Veranda;PZ-418V & PPZ-420V Oblong;Gen 1;CS-VER;2014-2026;86x48x34.5;7pi2x4pi0x34.5po;218x122x88;2184x1219x876
+LMS Cal Spas;Cal Spas;Spa Portable;N/A;Patio;Balboa;PZ-517L & PPZ-525L;Gen 1;CS-BAL;2014-2026;78x54x34;6pi6x4pi6x34po;198x137x86;1981x1372x864
+LMS Cal Spas;Cal Spas;Spa Portable;N/A;Patio;Kona;PZ-524L & PPZ-534L;Gen 1;CS-KON;2014-2026;84x64x34;7pi0x5pi4x34po;213x163x86;2134x1626x864
+LMS Cal Spas;Cal Spas;Spa Portable;N/A;Patio;Vista;PZ-617T & PPZ-628T Triangle;Gen 1;CS-VIS;2014-2026;72x72x36;6pi0x6pi0x36po;183x183x91;1829x1829x914
+LMS Cal Spas;Cal Spas;Spa Portable;N/A;Patio;Hawaiian;PZ-621L & PPZ-631L;Gen 1;CS-HAW;2014-2026;78x78x34;6pi6x6pi6x34po;198x198x86;1981x1981x864
+LMS Cal Spas;Cal Spas;Spa Portable;N/A;Patio;Round;PZ-511R Round;Gen 1;CS-511R;2014-2026;78x78x36;6pi6x6pi6x36po;198x198x91;1981x1981x914
+LMS Cal Spas;Cal Spas;Spa Portable;N/A;Patio Plus;Pacifica / Tropical;PPZ-732L/LX & PPZ-732B/BX;Gen 1;CS-PPZ732;2015-2026;84x84x37;7pi0x7pi0x37po;213x213x94;2134x2134x940
+LMS Cal Spas;Cal Spas;Spa Portable;N/A;Escape / Platinum;Baja / Costa / Pacifica / Tropical / Huntington / Laguna;Midsize 84x84 Models (EC-739, EC-740, EC-751, EC-767, PL-739, PL-772, PL-773, PL-792);Gen 1;CS-84;2010-2026;84x84x40.5;7pi0x7pi0x40.5po;213x213x103;2134x2134x1029
+LMS Cal Spas;Cal Spas;Spa Portable;N/A;Escape;Malibu;Malibu EC-754DL/CLX & EP-760DL;Gen 1;CS-MAL;2012-2026;87x87x39.5;7pi3x7pi3x39.5po;221x221x100;2210x2210x1003
+LMS Cal Spas;Cal Spas;Spa Portable;N/A;Escape / Platinum;Atlantic / Avalon / Belair / Cancun / Carmel / Lajolla;Large 93x93 Models (EC-839, EC-840, EC-851, EC-867, EP-861, EP-867, PL-873, PL-874, PL-893, PL-894);Gen 1;CS-93;2010-2026;93x93x40.5;7pi9x7pi9x40.5po;236x236x103;2362x2362x1029
+LMS Cal Spas;Cal Spas;Spa Portable;N/A;Escape Plus;Newporter;Newporter EP-1148L XXL;Gen 1;CS-NWP;2012-2026;93x130x39.5;7pi9x10pi10x39.5po;236x330x100;2362x3302x1003
+LMS Cal Spas;Cal Spas;Spa Portable;N/A;Escape Plus;Elgrande;Elgrande EP-1166E Party;Gen 1;CS-ELG;2012-2026;93x131.5x39.5;7pi9x10pi11.5x39.5po;236x334x100;2362x3340x1003
+LMS Cal Spas;Cal Spas;Spa de Nage;Single Zone;Swim-Pro;Fitness F-1222;Fitness F-1222 12ft;Gen 1;CS-F1222;2014-2026;93x141x42;7pi9x11pi9x42po;236x358x107;2362x3581x1067
+LMS Cal Spas;Cal Spas;Spa de Nage;Single Zone;Swim-Pro;F-1325 Series;Swim-Pro, Performance & Protrainer F-1325 / X;Gen 1;CS-F1325;2012-2026;93x151x51;7pi9x12pi7x51po;236x384x130;2362x3835x1295
+LMS Cal Spas;Cal Spas;Spa de Nage;Single Zone;Swim-Pro;Freestyle;Freestyle F-1421, F-1421X & F-1437;Gen 1;CS-F1421;2012-2026;93x170x51;7pi9x14pi2x51po;236x432x130;2362x4318x1295
+LMS Cal Spas;Cal Spas;Spa de Nage;Single Zone;Swim-Pro;Champion / Commander;Champion F-1641 & Commander F-1655 / F-1681 / X;Gen 1;CS-F16;2012-2026;93x200x51;7pi9x16pi8x51po;236x508x130;2362x5080x1295
+LMS Cal Spas;Cal Spas;Spa de Nage;Single Zone;Swim-Pro;F-1680X Depth-X;Commander F-1680X Deep 63po;Gen 1;CS-F1680X;2016-2026;93x200x63;7pi9x16pi8x63po;236x508x160;2362x5080x1600
+LMS Cal Spas;Cal Spas;Spa de Nage;Dual Zone;Swim-Pro;Olympian F-1868DZ;Olympian F-1868DZ Dual Temp;Gen 1;CS-F1868DZ;2015-2026;93x210x51;7pi9x17pi6x51po;236x533x130;2362x5334x1295
+Patrick Industries;Coast Spas;Spa Portable;N/A;Traditional;Seabreeze;Seabreeze Round;Gen 1;CST-SBZ;2005-2026;75.8x75.5x36;6pi3.8x6pi3.5x36po;193x192x91;1925x1918x914
+Patrick Industries;Coast Spas;Spa Portable;N/A;Patio;Omega Patio;Omega B & L (Patio 30.5po);Gen 1;CST-OMG-P;2012-2026;83.5x66x30.5;6pi11.5x5pi6x30.5po;212x168x77;2121x1676x775
+Patrick Industries;Coast Spas;Spa Portable;N/A;Classic;Omega Classic;Omega B & L (Classic 36po);Gen 1;CST-OMG-C;2010-2026;83.5x66x36;6pi11.5x5pi6x36po;212x168x91;2121x1676x914
+Patrick Industries;Coast Spas;Spa Portable;N/A;Elite / Curve;Omega Elite / Curve;Omega B & L (Elite 40po & Curve);Gen 1;CST-OMG-E;2012-2026;83.5x66x40;6pi11.5x5pi6x40po;212x168x102;2121x1676x1016
+Patrick Industries;Coast Spas;Spa Portable;N/A;Classic;Element Classic;Element B & L (Classic 36po);Gen 1;CST-ELM-C;2010-2026;83.5x83.5x36;6pi11.5x6pi11.5x36po;212x212x91;2121x2121x914
+Patrick Industries;Coast Spas;Spa Portable;N/A;Elite / Curve;Element Elite / Curve;Element B & L (Elite 40po & Curve);Gen 1;CST-ELM-E;2012-2026;83.5x83.5x40;6pi11.5x6pi11.5x40po;212x212x102;2121x2121x1016
+Patrick Industries;Coast Spas;Spa Portable;N/A;Classic;Apex Classic;Apex B & L (Classic 36po);Gen 1;CST-APX-C;2010-2026;92x92x36;7pi8x7pi8x36po;234x234x91;2337x2337x914
+Patrick Industries;Coast Spas;Spa Portable;N/A;Elite / Curve;Apex Elite / Curve;Apex B & L (Elite 40po & Curve);Gen 1;CST-APX-E;2012-2026;92x92x40;7pi8x7pi8x40po;234x234x102;2337x2337x1016
+Patrick Industries;Coast Spas;Spa Portable;N/A;Infinity / Curve;Cascade II / Mirage / Phantom / Purfikt / Retir;Infinity Edge & Curve High-Back Series;Gen 1;CST-INF;2008-2026;92x92x42;7pi8x7pi8x42po;234x234x107;2337x2337x1067
+Patrick Industries;Coast Spas;Spa de Nage;Single Zone;Wellness;Wellness II Party;Wellness II Party 12.5ft;Gen 1;CST-WL2;2012-2026;90x151x49;7pi6x12pi7x49po;229x384x124;2286x3835x1245
+Patrick Industries;Coast Spas;Spa de Nage;Single Zone;Swim Series;1300;1300 Bench & Lounge;Gen 1;CST-1300;2014-2026;90x151x53;7pi6x12pi7x53po;229x384x135;2286x3835x1346
+Patrick Industries;Coast Spas;Spa de Nage;Single Zone;Vanishing Edge;1400 VE;1400 VE Infinity Swim;Gen 1;CST-1400VE;2015-2026;90x161x53;7pi6x13pi5x53po;229x409x135;2286x4089x1346
+Patrick Industries;Coast Spas;Spa de Nage;Single Zone;Swim Series;1600;1600 Deep 63.5po;Gen 1;CST-1600;2015-2026;90x192x63.5;7pi6x16pi0x63.5po;229x488x161;2286x4877x1613
+Patrick Industries;Coast Spas;Spa de Nage;Single Zone;Vanishing Edge;1700 VE;1700 VE Infinity Swim;Gen 1;CST-1700VE;2015-2026;88.5x207x53;7pi4.5x17pi3x53po;225x526x135;2248x5258x1346
+Patrick Industries;Coast Spas;Spa de Nage;Dual Zone;Vanishing Edge;2100 VE / 2101 VE;2100 VE & 2101 VE Infinity Dual;Gen 1;CST-2100VE;2016-2026;90x248x63.5;7pi6x20pi8x63.5po;229x630x161;2286x6299x1613
+Investindustrial;Dimension One Spas;Spa Portable;N/A;@Home;Serenade;Serenade Compact;Gen 1;D1-SER;2007-2026;66x83x30;5pi6x6pi11x30po;168x211x76;1676x2108x762
+Investindustrial;Dimension One Spas;Spa Portable;N/A;@Home / Reflections;Meridian / Nautilus;Meridian & Nautilus 92x92;Gen 1;D1-MER-NAU;2005-2026;92x92x36;7pi8x7pi8x36po;234x234x91;2337x2337x914
+Investindustrial;Dimension One Spas;Spa Portable;N/A;Bay Collection;Amore Bay;Amore Bay Curvilinear (Corrige d Amore Bary);Gen 1;D1-AMO;2005-2026;92x108x40;7pi8x9pi0x40po;234x274x102;2337x2743x1016
+Investindustrial;Dimension One Spas;Spa Portable;N/A;Reflections;Executive;Executive XXL;Gen 1;D1-EXE;2005-2026;92x110x41.5;7pi8x9pi2x41.5po;234x279x105;2337x2794x1054
+Investindustrial;Dimension One Spas;Spa de Nage;Single Zone;AquaFit;AquaFit Play;AquaFit Play 16ft;Gen 1;D1-AFP;2010-2026;90.3x192x52;7pi6.3x16pi0x52po;229x488x132;2294x4877x1321
+Investindustrial;Dream Maker Spas;Spa Portable;N/A;CrossOver;X500;X500 Square;Gen 1;DM-X500;2014-2026;78x78x31;6pi6x6pi6x31po;198x198x79;1981x1981x787
+Investindustrial;Dream Maker Spas;Spa Portable;N/A;Beach Collection;Pompano;Pompano Compact (Europe Spa);Gen 1;DM-PMP;2016-2026;78x68x31.9;6pi6x5pi8x31.9po;198x173x81;1981x1727x810
+Investindustrial;Dream Maker Spas;Spa Portable;N/A;Beach Collection;Cocoa;Cocoa Compact (Europe Spa);Gen 1;DM-COC;2016-2026;79x69x31.9;6pi7x5pi9x31.9po;201x175x81;2007x1753x810
+Investindustrial;Dream Maker Spas;Spa Portable;N/A;Beach Collection;Miami / Tampa;Miami & Tampa (Europe Spa);Gen 1;DM-MIA-TMP;2016-2026;82x82x31.9;6pi10x6pi10x31.9po;208x208x81;2083x2083x810
+Investindustrial;Dream Maker Spas;Spa Portable;N/A;Palmbeach Collection;Palmbeach 25S / 25L / 35S / 35L;Palmbeach Series (Europe Spa);Gen 1;DM-PLM;2017-2026;80x80x33.9;6pi8x6pi8x33.9po;203x203x86;2032x2032x861
+Investindustrial;Dream Maker Spas;Spa Portable;N/A;Daytona Beach;Daytona 730S / 730L / 740S / 740L;Daytona Beach Series (Europe Spa);Gen 1;DM-DAY;2017-2026;80x80x36.2;6pi8x6pi8x36.2po;203x203x92;2032x2032x919
+Dynasty Spas;Dynasty Spas;Spa Portable;N/A;Bay / Cove;Twin Palms;Twin Palms 2-3 Person;Gen 1;DYN-TWP;2010-2026;60x82.5x30;5pi0x6pi10.5x30po;152x210x76;1524x2096x762
+Dynasty Spas;Dynasty Spas;Spa Portable;N/A;Bay / Cove;Sunset Cove;Sunset Cove 3-Person;Gen 1;DYN-SSC;2010-2026;60x82.5x33.5;5pi0x6pi10.5x33.5po;152x210x85;1524x2096x851
+Dynasty Spas;Dynasty Spas;Spa Portable;N/A;Bay / Cove;Bimini;Bimini Corner Triangle;Gen 1;DYN-BIM;2010-2026;72x72x33.5;6pi0x6pi0x33.5po;183x183x85;1829x1829x851
+Dynasty Spas;Dynasty Spas;Spa Portable;N/A;Bay / Cove;Treasure Cay;Treasure Cay Mid;Gen 1;DYN-TRC;2010-2026;78x78x36;6pi6x6pi6x36po;198x198x91;1981x1981x914
+Dynasty Spas;Dynasty Spas;Spa Portable;N/A;Bay / Cove;Caribbean Breeze / Nassau Royale / Santiago / Serenity Cove / Tranquility Harbor;Midsize 82x82 Series;Gen 1;DYN-82;2005-2026;82x82x39;6pi10x6pi10x39po;208x208x99;2083x2083x991
+Dynasty Spas;Dynasty Spas;Spa Portable;N/A;Bay / Cove;Cabana Bay / Coconut Bay / Ocean Breeze / Palm Island / Pleasure Cove;Large 92x92 Series;Gen 1;DYN-92;2005-2026;92x92x39;7pi8x7pi8x39po;234x234x99;2337x2337x991
+Dynasty Spas;Dynasty Spas;Spa Portable;N/A;Bay / Cove;Paradise Bay;Paradise Bay XXL;Gen 1;DYN-PBY;2005-2026;92x102x39;7pi8x8pi6x39po;234x259x99;2337x2591x991
+Dynasty Spas;Dynasty Spas;Spa de Nage;Single Zone;Aquex;13ft Aquex Party Bench;13ft Aquex Party Bench 51po;Gen 1;DYN-AQ13P;2014-2026;92x160x51;7pi8x13pi4x51po;234x406x130;2337x4064x1295
+Dynasty Spas;Dynasty Spas;Spa de Nage;Single Zone;Aquex;13ft Aquex Pro / Pro Plus;13ft Aquex Pro & Pro Plus 54po;Gen 1;DYN-AQ13PRO;2014-2026;92x160x54;7pi8x13pi4x54po;234x406x137;2337x4064x1372
+Dynasty Spas;Dynasty Spas;Spa de Nage;Single Zone;Aquex;16ft Aquex Trainer / Aquatic Trainer;16ft Aquex Trainer 60po;Gen 1;DYN-AQ16;2014-2026;92x192x60;7pi8x16pi0x60po;234x488x152;2337x4877x1524
+Dynasty Spas;Dynasty Spas;Spa de Nage;Single Zone;Aquex;17ft Aquex Pro Plus;17ft Aquex Pro Plus;Gen 1;DYN-AQ17;2014-2026;92x199x55;7pi8x16pi7x55po;234x505x140;2337x5055x1397
+Dynasty Spas;Dynasty Spas;Spa de Nage;Dual Zone;Aquex;19ft Aquex Dual Pro;19ft Aquex Dual Pro Dual Temp;Gen 1;DYN-AQ19DT;2014-2026;92x224x55;7pi8x18pi8x55po;234x569x140;2337x5690x1397
+Dynasty Spas;Garden Leisure;Spa Portable;N/A;OEM Dynasty;GL863B-2D;GL863B-2D Large;Gen 1;GL-863B;2014-2026;91x91x39;7pi7x7pi7x39po;231x231x99;2311x2311x991
+Dynasty Spas;Garden Leisure;Spa de Nage;Single Zone;OEM Dynasty;Party / Exercise 13ft;Party/Exercise 13ft (Moule Aquex 13);Gen 1;GL-13;2014-2026;92x160x51;7pi8x13pi4x51po;234x406x130;2337x4064x1295
+Dynasty Spas;Garden Leisure;Spa de Nage;Single Zone;OEM Dynasty;GL Premium 17ft;GL Premium 17ft (Moule Aquex 17);Gen 1;GL-17;2014-2026;92x199x54;7pi8x16pi7x54po;234x505x137;2337x5055x1372
+Dynasty Spas;Garden Leisure;Spa de Nage;Dual Zone;OEM Dynasty;GL Premium Dual Temp;GL Premium Dual Temp 19ft (Moule Aquex 19);Gen 1;GL-19DT;2014-2026;92x224x54;7pi8x18pi8x54po;234x569x137;2337x5690x1372
+Dynasty Spas;Shoreline Spas;Spa de Nage;Single Zone;OEM Dynasty;SL Premium 17;SL Premium 17 (Corrige de Shorline);Gen 1;SL-17;2015-2026;92x199x54;7pi8x16pi7x54po;234x505x137;2337x5055x1372
+Dynasty Spas;Mira / Swim Spa Int;Spa Portable;N/A;OEM Dynasty;M800DL;Mira Hot Tubs M800DL;Gen 1;MIRA-800;2012-2026;91x91x38;7pi7x7pi7x38po;231x231x97;2311x2311x965
+Dynasty Spas;Mira / Swim Spa Int;Spa de Nage;Single Zone;OEM Dynasty;Mira Platinum Pro 17000;Mira Platinum Pro 17000 (Moule Aquex 17);Gen 1;MIRA-17;2014-2026;92x199x54;7pi8x16pi7x54po;234x505x137;2337x5055x1372
+Dynasty Spas;World of Spa;Spa Portable;N/A;OEM Dynasty;Oceana;Oceana Mid;Gen 1;WOS-OCN;2012-2026;78x82x36;6pi6x6pi10x36po;198x208x91;1981x2083x914
+Dynasty Spas;World of Spa;Spa Portable;N/A;OEM Dynasty;Adriatic / Aquarius;Adriatic & Aquarius 82x82;Gen 1;WOS-82;2012-2026;82x82x36;6pi10x6pi10x36po;208x208x91;2083x2083x914
+Dynasty Spas;World of Spa;Spa Portable;N/A;OEM Dynasty;Coral / Poseidon / Tide;Coral, Poseidon & Tide 92x92;Gen 1;WOS-92;2012-2026;92x92x36;7pi8x7pi8x36po;234x234x91;2337x2337x914
+Dynasty Spas;World of Spa;Spa Portable;N/A;OEM Dynasty;Beacon;Beacon XXL (Moule Paradise Bay);Gen 1;WOS-BCN;2012-2026;92x102x39;7pi8x8pi6x39po;234x259x99;2337x2591x991
+Strong Industries;Strong Spas;Spa Portable;N/A;Durasport;G2;G2 Square Rotomolded;Gen 1;STR-G2;2008-2026;74.5x74.5x32;6pi2.5x6pi2.5x32po;189x189x81;1892x1892x813
+Strong Industries;Evolution Spas;Spa Portable;N/A;Costco Line;Monarch 90;Monarch 90-Jet;Gen 1;EVO-M90;2012-2026;91x91x36;7pi7x7pi7x36po;231x231x91;2311x2311x914
+Fisher Spas;Fisher Spas;Spa de Nage;Single Zone;Limited;Swim Limited Edition;Swim Limited Edition 15ft;Gen 1;FSH-15;2012-2026;91x177x52;7pi7x14pi9x52po;231x450x132;2311x4496x1321
+Four Winds Spas;Four Winds Spas;Spa Portable;N/A;Resort;Cancun III;Cancun III Large;Gen 1;FW-CAN3;2008-2026;91x91x38;7pi7x7pi7x38po;231x231x97;2311x2311x965
+Four Winds Spas;Four Winds Spas;Spa de Nage;Single Zone;Swim Series;XL16000;XL16000 16ft Swim Spa;Gen 1;FW-XL16;2010-2026;90x191x55;7pi6x15pi11x55po;229x485x140;2286x4851x1397
+Glacier Spas;Glacier Spas;Spa Portable;N/A;XL Series;8XL;Glacier 8XL;Gen 1;GLC-8XL;2015-2026;90x90x36;7pi6x7pi6x36po;229x229x91;2286x2286x914
+Investindustrial;Hydropool;Spa Portable;N/A;Signature Self-Cleaning;395 / 395G;395 & Signature 395G;Gen 1;HP-395;2010-2026;65x85x30;5pi5x7pi1x30po;165x216x76;1651x2159x762
+Investindustrial;Hydropool;Spa Portable;N/A;Classic;4L;Hydropool 4L;Gen 1;HP-4L;2008-2018;83x62x34;6pi11x5pi2x34po;211x157x86;2108x1575x864
+Investindustrial;Hydropool;Spa Portable;N/A;Signature Self-Cleaning;495 / 495G;495 & Signature 495G;Gen 1;HP-495G;2010-2026;75x79x37;6pi3x6pi7x37po;191x201x94;1905x2007x940
+Investindustrial;Hydropool;Spa Portable;N/A;Signature Self-Cleaning;495P;Signature 495P;Gen 1;HP-495P;2012-2026;75x95x37;6pi3x7pi11x37po;191x241x94;1905x2413x940
+Investindustrial;Hydropool;Spa Portable;N/A;Classic;5L;Hydropool 5L;Gen 1;HP-5L;2008-2018;79.5x79.5x36;6pi7.5x6pi7.5x36po;202x202x91;2019x2019x914
+Investindustrial;Hydropool;Spa Portable;N/A;Signature Self-Cleaning;570 / 570G / 570P;570, 570G & 570P;Gen 1;HP-570;2010-2026;80x80x37;6pi8x6pi8x37po;203x203x94;2032x2032x940
+Investindustrial;Hydropool;Spa Portable;N/A;Signature Self-Cleaning;670 / 670G / 670P / 695 / 695G / 695P;670 & 695 Gold/Platinum;Gen 1;HP-670-695;2010-2026;84x84x39;7pi0x7pi0x39po;213x213x99;2134x2134x991
+Investindustrial;Hydropool;Spa Portable;N/A;Signature Self-Cleaning;720 / 770 / 779;720, 770 & Signature 779;Gen 1;HP-720-779;2010-2026;90x90x39;7pi6x7pi6x39po;229x229x99;2286x2286x991
+Investindustrial;Hydropool;Spa Portable;N/A;Signature Self-Cleaning;790;Signature 790;Gen 1;HP-790;2012-2026;94x94x39;7pi10x7pi10x39po;239x239x99;2388x2388x991
+Investindustrial;Hydropool;Spa Portable;N/A;Signature Self-Cleaning;970;Signature 970 Titanium;Gen 1;HP-970;2014-2026;94x110x39;7pi10x9pi2x39po;239x279x99;2388x2794x991
+Investindustrial;Hydropool;Spa Portable;N/A;Signature Self-Cleaning;1038 Titanium;1038 Titanium XXL;Gen 1;HP-1038;2010-2020;93x119x39;7pi9x9pi11x39po;236x302x99;2362x3023x991
+Investindustrial;Hydropool;Spa Portable;N/A;Serenity;4300;Serenity 4300;Gen 1;SER-4300;2014-2026;62x85x36;5pi2x7pi1x36po;157x216x91;1575x2159x914
+Investindustrial;Hydropool;Spa Portable;N/A;Serenity;4500 / 6600;Serenity 4500 & 6600;Gen 1;SER-45-66;2014-2026;80x80x36;6pi8x6pi8x36po;203x203x91;2032x2032x914
+Investindustrial;Hydropool;Spa Portable;N/A;Serenity;5900 / 6800;Serenity 5900 & 6800;Gen 1;SER-59-68;2014-2026;85.5x85.5x36;7pi1.5x7pi1.5x36po;217x217x91;2172x2172x914
+Investindustrial;Hydropool;Spa Portable;N/A;Serenity;6900;Serenity 6900;Gen 1;SER-6900;2014-2026;91x91x36;7pi7x7pi7x36po;231x231x91;2311x2311x914
+Investindustrial;Hydropool;Spa de Nage;Single Zone;Play / Aquatic;Aqua Play 12FFP / Aqua Sport 12FX;12ft Swim & Fitness;Gen 1;HP-12;2012-2026;93x150x49;7pi9x12pi6x49po;236x381x124;2362x3810x1245
+Investindustrial;Hydropool;Spa de Nage;Single Zone;Play Collection;Aqua Play 13FFP;Aqua Play 13FFP;Gen 1;HP-13FFP;2014-2026;93x150x52.8;7pi9x12pi6x52.8po;236x381x134;2362x3810x1341
+Investindustrial;Hydropool;Spa de Nage;Single Zone;Aquatic Collection;Aqua Sport / Trainer 14;14ft 14AX & 14FX;Gen 1;HP-14;2010-2026;93x174x53;7pi9x14pi6x53po;236x442x135;2362x4420x1346
+Investindustrial;Hydropool;Spa de Nage;Single Zone;Executive Collection;Executive 16EX;Executive Sport & Trainer 16EX;Gen 1;HP-16EX;2018-2026;93x186x53;7pi9x15pi6x53po;236x472x135;2362x4724x1346
+Investindustrial;Hydropool;Spa de Nage;Single Zone;Aquatic Collection;Aqua Sport / Trainer 17;17ft 17AX & 17FX;Gen 1;HP-17;2010-2026;93x210x53;7pi9x17pi6x53po;236x533x135;2362x5334x1346
+Investindustrial;Hydropool;Spa de Nage;Single Zone;Executive Collection;Executive 19EX;Executive Sport & Trainer 19EX Single Zone;Gen 1;HP-19EX;2018-2026;93x220x53;7pi9x18pi4x53po;236x559x135;2362x5588x1346
+Investindustrial;Hydropool;Spa de Nage;Dual Zone;Aquatic Collection;Aqua Sport / Trainer 19DT;19ft Dual Temp 19DTAX & 19DTFX;Gen 1;HP-19DT;2010-2026;93x226x53;7pi9x18pi10x53po;236x574x135;2362x5740x1346
+Investindustrial;SwimLife;Spa de Nage;Single Zone;SwimFun;Swimfun / Playstream;Swimfun & Playstream 12ft;Gen 1;SL-SF12;2017-2026;93x150x50;7pi9x12pi6x50po;236x381x127;2362x3810x1270
+Investindustrial;SwimLife;Spa de Nage;Single Zone;SwimStream;Swimfit / Swimexpert 14;Swimstream 14ft;Gen 1;SL-SS14;2017-2026;93x174x53;7pi9x14pi6x53po;236x442x135;2362x4420x1346
+Investindustrial;SwimLife;Spa de Nage;Single Zone;AquaStream;Swimfit / Swimexpert 17;Aquastream 17ft;Gen 1;SL-AS17;2017-2026;93x210x53;7pi9x17pi6x53po;236x533x135;2362x5334x1346
+Investindustrial;SwimLife;Spa de Nage;Dual Zone;DualStream;Swimfit / Swimexpert 19DT;Dualstream 19ft Dual Temp;Gen 1;SL-DS19;2017-2026;93x226x53;7pi9x18pi10x53po;236x574x135;2362x5740x1346
+Investindustrial;HydroTher;Spa Portable;N/A;Commercial;H-1000C;H-1000C Commercial;Gen 1;HT-1000C;2010-2026;90x108x48.5;7pi6x9pi0x48.5po;229x274x123;2286x2743x1232
+Integrity Spas;Integrity Spas;Spa Portable;N/A;Island Line;Bali;Bali Compact;Gen 1;INT-BAL;2010-2026;61x81x30;5pi1x6pi9x30po;155x206x76;1549x2057x762
+Integrity Spas;Integrity Spas;Spa Portable;N/A;Island Line;Bimini Island;Bimini Island Mid;Gen 1;INT-BIM;2010-2026;79x79x35;6pi7x6pi7x35po;201x201x89;2007x2007x889
+Integrity Spas;Integrity Spas;Spa Portable;N/A;Island Line;Antigua / Fiji;Antigua & Fiji 86x86;Gen 1;INT-86;2010-2026;86x86x36;7pi2x7pi2x36po;218x218x91;2184x2184x914
+Integrity Spas;Integrity Spas;Spa Portable;N/A;Island Line;Hawaii / Molokai / Montego Bay / Oahu / Rum Cay / Tahitian;Large 90x90 Models;Gen 1;INT-90;2010-2026;90x90x36.6;7pi6x7pi6x36.6po;229x229x93;2286x2286x930
+Integrity Spas;Integrity Spas;Spa Portable;N/A;Island Line;Maui;Maui 91x91;Gen 1;INT-MAU;2010-2026;91x91x36.6;7pi7x7pi7x36.6po;231x231x93;2311x2311x930
+Integrity Spas;Integrity Spas;Spa Portable;N/A;Island Line;Paradise;Paradise XXL;Gen 1;INT-PAR;2010-2026;86.5x108x35.5;7pi2.5x9pi0x35.5po;220x274x90;2197x2743x902
+Integrity Spas;Integrity Spas;Spa de Nage;Single Zone;Swim Line;Big Kahuna;Big Kahuna 12.5ft;Gen 1;INT-BKH;2012-2026;89.8x149.6x45.7;7pi5.8x12pi5.6x45.7po;228x380x116;2281x3800x1161
+Integrity Spas;Integrity Spas;Spa de Nage;Single Zone;Swim Line;Laguna;Laguna 13ft;Gen 1;INT-LAG;2012-2026;89.7x157.5x49.6;7pi5.7x13pi1.5x49.6po;228x400x126;2278x4001x1260
+Integrity Spas;Integrity Spas;Spa de Nage;Single Zone;Swim Line;Barbados;Barbados 15ft 49.6po;Gen 1;INT-BAR;2012-2026;88.5x177x49.6;7pi4.5x14pi9x49.6po;225x450x126;2248x4496x1260
+Integrity Spas;Integrity Spas;Spa de Nage;Single Zone;Swim Line;Barbados Extreme;Barbados Extreme 15ft 61po;Gen 1;INT-BARX;2014-2026;88.5x177x61;7pi4.5x14pi9x61po;225x450x155;2248x4496x1549
+Integrity Spas;Integrity Spas;Spa de Nage;Single Zone;Swim Line;Trinidad;Trinidad 18ft;Gen 1;INT-TRI;2012-2026;89.7x214.5x49.6;7pi5.7x17pi10.5x49.6po;228x545x126;2278x5448x1260
+Integrity Spas;Integrity Spas;Spa de Nage;Single Zone;Swim Line;Jamaican;Jamaican 19ft Deep;Gen 1;INT-JAM;2014-2026;90x228x61;7pi6x19pi0x61po;229x579x155;2286x5791x1549
+Integrity Spas;Integrity Spas;Spa de Nage;Dual Zone;Swim Line;Grand Cayman Dual;Grand Cayman Dual 48.8po;Gen 1;INT-GCD;2012-2026;88x229x48.8;7pi4x19pi1x48.8po;224x582x124;2235x5817x1240
+Integrity Spas;Integrity Spas;Spa de Nage;Dual Zone;Swim Line;Grand Cayman Extreme Dual;Grand Cayman Extreme Dual 61.5po;Gen 1;INT-GCDX;2014-2026;88x229x61.5;7pi4x19pi1x61.5po;224x582x156;2235x5817x1562
+Integrity Spas;Integrity Spas;Spa de Nage;Dual Zone;Swim Line;Grand Bahama Dual;Grand Bahama Dual 19ft;Gen 1;INT-GBD;2012-2026;86.6x232x48.5;7pi2.6x19pi4x48.5po;220x589x123;2200x5893x1232
+Integrity Spas;Integrity Spas;Spa de Nage;Dual Zone;Swim Line;Aruba / Oceanside;Aruba & Oceanside 19.5ft;Gen 1;INT-ARU-OCN;2012-2026;89.7x236x49.6;7pi5.7x19pi8x49.6po;228x599x126;2278x5994x1260
+Integrity Spas;Integrity Spas;Spa de Nage;Dual Zone;Swim Line;Jamaican Extreme;Jamaican Extreme 25.5ft;Gen 1;INT-JAMX;2014-2026;90x307x61;7pi6x25pi7x61po;229x780x155;2286x7798x1549
+Investindustrial;Jacuzzi;Spa Portable;N/A;J-200 Classic;J-210;J-210 Round;Gen 1;J-210;2005-2026;78x78x36;6pi6x6pi6x36po;198x198x91;1981x1981x914
+Investindustrial;Jacuzzi;Spa Portable;N/A;J-200 / J-300;J-215 / J-315;J-215 & J-315 Compact;Gen 1;J-215-315;2005-2026;66x76x32;5pi6x6pi4x32po;168x193x81;1676x1930x813
+Investindustrial;Jacuzzi;Spa Portable;N/A;J-200 / J-300;J-225 / J-325;J-225 (34.5po) & J-325 (33.5po);Gen 1;J-225-325;2005-2026;84x76x34;7pi0x6pi4x34po;213x193x86;2134x1930x864
+Investindustrial;Jacuzzi;Spa Portable;N/A;J-200 / J-300;J-235 / J-245 / J-335 / J-345;Midsize 84x84 Models;Gen 1;J-84;2005-2026;84x84x36;7pi0x7pi0x36po;213x213x91;2134x2134x914
+Investindustrial;Jacuzzi;Spa Portable;N/A;J-200 Classic;J-275 / J-280;J-275 Lounge & J-280 Open;Gen 1;J-275-280;2007-2026;90x90x37;7pi6x7pi6x37po;229x229x94;2286x2286x940
+Investindustrial;Jacuzzi;Spa Portable;N/A;J-300 Signature;J-355 / J-365;J-355 Lounge & J-365 Open;Gen 1;J-355-365;2005-2026;91x84x38;7pi7x7pi0x38po;231x213x97;2311x2134x965
+Investindustrial;Jacuzzi;Spa Portable;N/A;J-300 Signature;J-375 / J-385;J-375 Lounge & J-385 Open;Gen 1;J-375-385;2005-2026;91x91x38;7pi7x7pi7x38po;231x231x97;2311x2311x965
+Investindustrial;Jacuzzi;Spa Portable;N/A;J-400 Designer;J-425;J-425 High Back;Gen 1;J-425;2009-2017;87x76x40;7pi3x6pi4x40po;221x193x102;2210x1930x1016
+Investindustrial;Jacuzzi;Spa Portable;N/A;J-400 Designer;J-435 / J-445;J-435 & J-445 High Back;Gen 2;J-435-445;2018-2026;84x84x43;7pi0x7pi0x43po;213x213x109;2134x2134x1092
+Investindustrial;Jacuzzi;Spa Portable;N/A;J-400 Designer;J-475 / J-485;J-475 & J-485 High Back;Gen 2;J-475-485;2018-2026;91x91x43.5;7pi7x7pi7x43.5po;231x231x110;2311x2311x1105
+Investindustrial;Jacuzzi;Spa Portable;N/A;J-400 Designer;J-495;J-495 XXL High Back;Gen 1;J-495;2012-2026;90x110x43.5;7pi6x9pi2x43.5po;229x279x110;2286x2794x1105
+Investindustrial;Jacuzzi;Spa Portable;N/A;J-500 Collection;J-575 / J-585;J-575 & J-585 Curvalux High Back;Gen 1;J-575-585;2015-2026;91x91x42;7pi7x7pi7x42po;231x231x107;2311x2311x1067
+Investindustrial;Jacuzzi;Spa Portable;N/A;J-500 New;J-508;J-508 Flat Top;Gen 2;J-508;2023-2026;94x94x37;7pi10x7pi10x37po;239x239x94;2388x2388x940
+Investindustrial;Jacuzzi;Spa Portable;N/A;J-500 New;J-509;J-509 XXL Flat Top;Gen 2;J-509;2023-2026;94x110x37;7pi10x9pi2x37po;239x279x94;2388x2794x940
+Investindustrial;Jacuzzi;Spa Portable;N/A;J-LX;J-LX;J-LX & J-LXL;Gen 1;J-LX;2011-2020;91x91x33.8;7pi7x7pi7x33.8po;231x231x86;2311x2311x859
+Investindustrial;Jacuzzi;Spa Portable;N/A;Italian Design;Virtus;Virtus Freestanding;Gen 1;J-VIR;2018-2026;84.7x98.5x36.6;7pi0.7x8pi2.5x36.6po;215x250x93;2151x2502x930
+Investindustrial;Jacuzzi;Spa de Nage;Single Zone;PowerPlay;J-13;J-13 PowerPlay 12.5ft;Gen 1;J-13;2020-2026;93x150x53;7pi9x12pi6x53po;236x381x135;2362x3810x1346
+Investindustrial;Jacuzzi;Spa de Nage;Single Zone;PowerActive;J-14 Power Active;J-14 PowerActive 14ft;Gen 1;J-14PA;2021-2026;92x172.8x53;7pi8x14pi4.8x53po;234x439x135;2337x4389x1346
+Investindustrial;Jacuzzi;Spa de Nage;Single Zone;PowerActive;J-16 Power Active;J-16 PowerActive 15.5ft;Gen 1;J-16PA;2020-2026;93x186x53;7pi9x15pi6x53po;236x472x135;2362x4724x1346
+Investindustrial;Jacuzzi;Spa de Nage;Single Zone;PowerPro;J-19 / J-19 Power Pro;J-19 Single Zone 18.5ft;Gen 1;J-19PP;2020-2026;93x222x53;7pi9x18pi6x53po;236x564x135;2362x5639x1346
+Investindustrial;Jacuzzi;Spa de Nage;Dual Zone;PowerPro;J-19 DT Power Pro;J-19 Dual Temp 18.5ft;Gen 1;J-19DT;2020-2026;92.1x220.9x52.8;7pi8.1x18pi4.9x52.8po;234x561x134;2339x5611x1341
+Just Spas Group;Just Spas;Spa Portable;N/A;Australian Line;Storm 2019;Storm 2019 Square;Gen 1;JS-STM19;2018-2026;89x89x35;7pi5x7pi5x35po;226x226x89;2261x2261x889
+Just Spas Group;Signature Spas;Spa de Nage;Dual Zone;Platinum;PX620DZ;PX620DZ 18ft Dual Zone;Gen 1;SIG-PX620;2015-2026;90x214x54;7pi6x17pi10x54po;229x544x137;2286x5436x1372
+Just Spas Group;Signature Swim Spas;Spa de Nage;Dual Zone;AquaFit;AquaFit 6 Pro Dual Zone;AquaFit 6 Pro Dual Zone 19.5ft;Gen 1;SIG-AF6;2016-2026;89.8x234.3x55;7pi5.8x19pi6.3x55po;228x595x140;2281x5951x1397
+Master Spas;Master Spas;Spa Portable;N/A;Healthy Living;HL 628;HL 628 Compact;Gen 1;HL628;2014-2026;78x66x32;6pi6x5pi6x32po;198x168x81;1981x1676x813
+Master Spas;Master Spas;Spa Portable;N/A;Healthy Living;HL 630;HL 630 Square;Gen 1;HL630;2014-2026;78x78x32;6pi6x6pi6x32po;198x198x81;1981x1981x813
+Master Spas;Master Spas;Spa Portable;N/A;Clarity / Healthy Living;Balance 7 / Precision 7 / HL 7 / HL 7.5;Midsize 84x84x36 Models;Gen 1;MS-84-36;2012-2026;84x84x36;7pi0x7pi0x36po;213x213x91;2134x2134x914
+Master Spas;Master Spas;Spa Portable;N/A;Clarity;Precision 67;Precision 67 (70x84);Gen 1;PRC67;2014-2026;70x84x34;5pi10x7pi0x34po;178x213x86;1778x2134x864
+Master Spas;Master Spas;Spa Portable;N/A;Clarity / Healthy Living;Balance 8 / Precision 8 / HL 8 / HL 8.5;Large 94x94x36 Models;Gen 1;MS-94-36;2012-2026;94x94x36;7pi10x7pi10x36po;239x239x91;2388x2388x914
+Master Spas;Master Spas;Spa Portable;N/A;Clarity;Balance 9;Balance 9 XXL;Gen 1;BAL9;2014-2026;84x108x38;7pi0x9pi0x38po;213x274x97;2134x2743x965
+Master Spas;Master Spas;Spa Portable;N/A;Down East;Ocho Rios SE;Ocho Rios SE;Gen 1;DE-OCH;2005-2020;86x72x34;7pi2x6pi0x34po;218x183x86;2184x1829x864
+Master Spas;Master Spas;Spa Portable;N/A;Twilight;TS 120 / TS 240 / TS 6.2;Compact 78x78x34 Models;Gen 1;TS-78;2008-2026;78x78x34;6pi6x6pi6x34po;198x198x86;1981x1981x864
+Master Spas;Master Spas;Spa Portable;N/A;Twilight;TS 67.25;TS 67.25 (84x70);Gen 1;TS6725;2012-2026;84x70x34;7pi0x5pi10x34po;213x178x86;2134x1778x864
+Master Spas;Master Spas;Spa Portable;N/A;Twilight / Phelps;TS 7.2 / TS 7.25 / MP LSX 700;Midsize 84x84x38 Models;Gen 1;MS-84-38;2010-2026;84x84x38;7pi0x7pi0x38po;213x213x97;2134x2134x965
+Master Spas;Master Spas;Spa Portable;N/A;Twilight / Phelps;TS 8.2 / TS 8.25 / MP LSX 800 / MP LSX 850;Large 94x94x38 Models;Gen 1;MS-94-38;2010-2026;94x94x38;7pi10x7pi10x38po;239x239x97;2388x2388x965
+Master Spas;Master Spas;Spa Portable;N/A;Michael Phelps;MP LSX 900;MP LSX 900 XXL;Gen 1;LSX900;2010-2026;94x108x38;7pi10x9pi0x38po;239x274x97;2388x2743x965
+Master Spas;Master Spas;Spa de Nage;Single Zone;H2X Therapool;Therapool SE;Therapool SE 11ft 51po;Gen 1;TP-SE;2015-2026;94x132x51;7pi10x11pi0x51po;239x335x130;2388x3353x1295
+Master Spas;Master Spas;Spa de Nage;Single Zone;H2X Therapool;Therapool D;Therapool D 11ft Deep 60po;Gen 1;TP-D;2015-2026;94x132x60;7pi10x11pi0x60po;239x335x152;2388x3353x1524
+Master Spas;Master Spas;Spa de Nage;Single Zone;H2X Trainer;H2X Trainer 12;Trainer 12ft;Gen 1;TR-12;2014-2026;94x144x51;7pi10x12pi0x51po;239x366x130;2388x3658x1295
+Master Spas;Master Spas;Spa de Nage;Single Zone;H2X Therapool;Therapool 13;Therapool 13ft;Gen 1;TP-13;2020-2026;90x156x48;7pi6x13pi0x48po;229x396x122;2286x3962x1219
+Master Spas;Master Spas;Spa de Nage;Single Zone;Legacy Swim;1440;Master Spas 1440 Swim;Gen 1;MS-1440;2008-2016;93x178x60;7pi9x14pi10x60po;236x452x152;2362x4521x1524
+Master Spas;Master Spas;Spa de Nage;Single Zone;H2X Therapool;Therapool 15;Therapool 15ft;Gen 1;TP-15;2020-2026;90x180x51;7pi6x15pi0x51po;229x457x130;2286x4572x1295
+Master Spas;Master Spas;Spa de Nage;Single Zone;H2X Trainer;H2X Trainer 15;Trainer 15ft 51po;Gen 1;TR-15;2011-2026;94x180x51;7pi10x15pi0x51po;239x457x130;2388x4572x1295
+Master Spas;Master Spas;Spa de Nage;Single Zone;H2X Trainer / Challenger;H2X Trainer 15 Deep / Challenger 15D;15ft Deep 60po Swim Spas;Gen 1;CH-TR-15D;2014-2026;94x180x60;7pi10x15pi0x60po;239x457x152;2388x4572x1524
+Master Spas;Master Spas;Spa de Nage;Single Zone;Michael Phelps;MP Force Deep;MP Force Deep 17ft;Gen 1;MP-FRC;2012-2026;94x201x60;7pi10x16pi9x60po;239x511x152;2388x5105x1524
+Master Spas;Master Spas;Spa de Nage;Single Zone;H2X / Michael Phelps;Trainer 18D / Challenger 18D / 18D Pro / MP Signature Deep;18ft Deep 60po Single Zone;Gen 1;MS-18D;2012-2026;94x215x60;7pi10x17pi11x60po;239x546x152;2388x5461x1524
+Master Spas;Master Spas;Spa de Nage;Dual Zone;H2X Trainer;H2X Trainer 19;Trainer 19ft Dual Temp 51po;Gen 1;TR-19;2011-2026;94x231x51;7pi10x19pi3x51po;239x587x130;2388x5867x1295
+Master Spas;Master Spas;Spa de Nage;Dual Zone;H2X / Michael Phelps;Trainer 19D / Challenger 19D / 19D Max / MP Momentum Deep;19ft Dual Temp Deep 60po;Gen 1;MS-19D;2012-2026;94x231x60;7pi10x19pi3x60po;239x587x152;2388x5867x1524
+Generic;Multi;Spa Portable;N/A;Standard;6 seat;Multi 6-Seat;Gen 1;MUL-6;2010-2026;79x79x36;6pi7x6pi7x36po;201x201x91;2007x2007x914
+Northern Bay;Northern Bay;Spa Portable;N/A;Midwest Line;Manistique;Manistique Large;Gen 1;NB-MAN;2010-2026;90x94x40;7pi6x7pi10x40po;229x239x102;2286x2388x1016
+Northern Bay;Northern Bay;Spa Portable;N/A;Midwest Line;Minocqua;Minocqua Large;Gen 1;NB-MIN;2010-2026;92x89x40;7pi8x7pi5x40po;234x226x102;2337x2261x1016
+Fonteyn Spas;Passion Spas;Spa de Nage;Single Zone;Fitness;Activity 1;Activity 1 13ft;Gen 1;PAS-ACT1;2012-2026;89x155x50;7pi5x12pi11x50po;226x394x127;2261x3937x1270
+Fonteyn Spas;Passion Spas;Spa de Nage;Dual Zone;Fitness;Activity 2 Deep;Activity 2 Deep 18ft Dual;Gen 1;PAS-ACT2;2012-2026;89x216.1x59.8;7pi5x18pi0.1x59.8po;226x549x152;2261x5489x1519
+Fonteyn Spas;Passion Spas;Spa de Nage;Dual Zone;Fitness;Dynamic 2 / 50po;Dynamic 2 19.5ft 50po;Gen 1;PAS-DYN50;2014-2026;89x232x50;7pi5x19pi4x50po;226x589x127;2261x5893x1270
+Fonteyn Spas;Passion Spas;Spa de Nage;Dual Zone;Fitness;Dynamic 60po Deep;Dynamic 60po Deep 19.5ft;Gen 1;PAS-DYN60;2014-2026;89x232x60;7pi5x19pi4x60po;226x589x152;2261x5893x1524
+Fonteyn Spas;Passion Spas;Spa de Nage;Dual Zone;Fitness;Vitality Deep;Vitality Deep 23ft XXL;Gen 1;PAS-VIT;2015-2026;88.5x278.8x61;7pi4.5x23pi2.8x61po;225x708x155;2248x7082x1549
+PDC Spas;PDC Spas;Spa Portable;N/A;LifeStyles;Twilight;Twilight Compact;Gen 1;PDC-TWL;2010-2026;76x76x31;6pi4x6pi4x31po;193x193x79;1930x1930x787
+PDC Spas;PDC Spas;Spa Portable;N/A;LifeStyles;Carmel / Mirage;Carmel & Mirage 3-Person;Gen 1;PDC-CRM-MIR;2010-2026;84x60x33;7pi0x5pi0x33po;213x152x84;2134x1524x838
+PDC Spas;PDC Spas;Spa Portable;N/A;Luxury / Premium;Biscayne / Catalina;Biscayne & Catalina Mid;Gen 1;PDC-BIS-CAT;2005-2026;79x90x37;6pi7x7pi6x37po;201x229x94;2007x2286x940
+PDC Spas;PDC Spas;Spa Portable;N/A;Luxury / Premium;Denali / Malibu / Seasons / Summit;Midsize 82x82 Series;Gen 1;PDC-82;2005-2026;82x82x39;6pi10x6pi10x39po;208x208x99;2083x2083x991
+PDC Spas;PDC Spas;Spa Portable;N/A;Luxury / Premium;Monterey / Reno;Monterey & Reno 86x86;Gen 1;PDC-86;2005-2026;86x86x37;7pi2x7pi2x37po;218x218x94;2184x2184x940
+PDC Spas;PDC Spas;Spa Portable;N/A;LifeStyles;Mystic;Mystic 93x93;Gen 1;PDC-MYS;2010-2026;93x93x35;7pi9x7pi9x35po;236x236x89;2362x2362x889
+PDC Spas;PDC Spas;Spa Portable;N/A;Luxury / Premium;Bali / Barbados / Fiji / Freeport;Large 94x94 Flagship Series;Gen 1;PDC-94;2005-2026;94x94x39;7pi10x7pi10x39po;239x239x99;2388x2388x991
+PDC Spas;PDC Spas;Spa de Nage;Single Zone;Splash;Splash Baja;Splash Baja 12ft 50po;Gen 1;PDC-BAJ;2015-2026;92x144x50;7pi8x12pi0x50po;234x366x127;2337x3658x1270
+PDC Spas;PDC Spas;Spa de Nage;Single Zone;Fitness;SL12S;SL12S 12ft 56po;Gen 1;PDC-SL12;2014-2026;92x144x56;7pi8x12pi0x56po;234x366x142;2337x3658x1422
+PDC Spas;PDC Spas;Spa de Nage;Single Zone;TruSwim / Summit / FX;FX15 / FX15S / SL15S / SX15 / SX15S / TSX15;15ft Swim Spas;Gen 1;PDC-15;2014-2026;92x180x56;7pi8x15pi0x56po;234x457x142;2337x4572x1422
+PDC Spas;PDC Spas;Spa de Nage;Single Zone;TruSwim / Summit / FX;FX17 / SX17 / TSX17;17ft Swim Spas;Gen 1;PDC-17;2014-2026;92x204x56;7pi8x17pi0x56po;234x518x142;2337x5182x1422
+PDC Spas;PDC Spas;Spa de Nage;Single Zone;TruSwim / Summit / FX;FX19 / SX19 / TSX19 / Summit 19;19ft Single Zone Swim Spas (Corrige de Sumit);Gen 1;PDC-19;2014-2026;92x227x56;7pi8x18pi11x56po;234x577x142;2337x5766x1422
+PDC Spas;PDC Spas;Spa de Nage;Dual Zone;TruSwim / Summit / FX;FX219S / SX219 / SX219S / TSX219;19ft Dual Temp Double Zone;Gen 1;PDC-219DT;2014-2026;92x227x56;7pi8x18pi11x56po;234x577x142;2337x5766x1422
+Superior Wellness;Platinum Spas;Spa Portable;N/A;Deluxe;Mykonos;Mykonos Compact;Gen 1;PLT-MYK;2015-2026;75x75x37;6pi3x6pi3x37po;191x191x94;1905x1905x940
+Superior Wellness;Platinum Spas;Spa Portable;N/A;Deluxe;Happy / Holiday / Marseille / Monaco / Palma / Refresh / Seville;79x79 Midsize Series;Gen 1;PLT-79;2015-2026;79x79x36;6pi7x6pi7x36po;201x201x91;2007x2007x914
+Superior Wellness;Platinum Spas;Spa Portable;N/A;Deluxe;Tahiti;Tahiti 3-Person;Gen 1;PLT-TAH;2015-2026;67x83x34;5pi7x6pi11x34po;170x211x86;1702x2108x864
+Superior Wellness;Platinum Spas;Spa Portable;N/A;Deluxe;Arizona;Arizona 3-Person;Gen 1;PLT-ARZ;2015-2026;64x84x35;5pi4x7pi0x35po;163x213x89;1626x2134x889
+Superior Wellness;Platinum Spas;Spa Portable;N/A;Deluxe;Topaz;Topaz Compact;Gen 1;PLT-TPZ;2015-2026;61x87x35;5pi1x7pi3x35po;155x221x89;1549x2210x889
+Superior Wellness;Platinum Spas;Spa Portable;N/A;Premium;Colombo / Infinity / Kenya / Santorini;83x83 Series;Gen 1;PLT-83;2015-2026;83x83x38;6pi11x6pi11x38po;211x211x97;2108x2108x965
+Superior Wellness;Platinum Spas;Spa Portable;N/A;Luxury;Onyx;Onyx Large;Gen 1;PLT-ONX;2016-2026;87x87x37;7pi3x7pi3x37po;221x221x94;2210x2210x940
+Superior Wellness;Platinum Spas;Spa Portable;N/A;Luxury;Barcelona / Tokyo;Barcelona & Tokyo 88x88;Gen 1;PLT-88;2016-2026;88x88x37;7pi4x7pi4x37po;224x224x94;2235x2235x940
+Superior Wellness;Platinum Spas;Spa Portable;N/A;Luxury;Oslo;Oslo 91x91;Gen 1;PLT-OSL;2016-2026;91x91x38;7pi7x7pi7x38po;231x231x97;2311x2311x965
+Superior Wellness;Platinum Spas;Spa Portable;N/A;Luxury;Maximus;Maximus Party XXL;Gen 1;PLT-MAX;2016-2026;87x102x37;7pi3x8pi6x37po;221x259x94;2210x2591x940
+Superior Wellness;Platinum Spas;Spa de Nage;Single Zone;Swim Series;Ares 1200;Ares 1200 14ft;Gen 1;PLT-ARS;2016-2026;86.6x169.3x47.5;7pi2.6x14pi1.3x47.5po;220x430x121;2200x4300x1207
+Superior Wellness;Platinum Spas;Spa de Nage;Single Zone;Swim Series;Eros;Eros 15ft Deep;Gen 1;PLT-ERS;2016-2026;89x177x59;7pi5x14pi9x59po;226x450x150;2261x4496x1499
+Superior Wellness;Platinum Spas;Spa de Nage;Single Zone;Swim Series;Zelus;Zelus 18.5ft Deep;Gen 1;PLT-ZLS;2016-2026;89x224x59;7pi5x18pi8x59po;226x569x150;2261x5690x1499
+Superior Wellness;Platinum Spas;Spa de Nage;Dual Zone;Swim Series;Helios;Helios 19.5ft Dual Zone;Gen 1;PLT-HEL;2016-2026;88.6x232.3x59.1;7pi4.6x19pi4.3x59.1po;225x590x150;2250x5900x1501
+Sunrans OEM;Premier Outdoor Spas;Spa Portable;N/A;OEM Sunrans;Cayman / Tahiti;Cayman & Tahiti 3-Person (Sunrans SR822);Gen 1;POS-CAY-TAH;2015-2026;61.4x86.6x30.7;5pi1.4x7pi2.6x30.7po;156x220x78;1560x2200x780
+Sunrans OEM;Premier Outdoor Spas;Spa Portable;N/A;OEM Sunrans;Calcos;Calcos Mid (Sunrans SR819B);Gen 1;POS-CAL;2015-2026;78.7x78.7x36.2;6pi6.7x6pi6.7x36.2po;200x200x92;1999x1999x919
+Sunrans OEM;Premier Outdoor Spas;Spa Portable;N/A;OEM Sunrans;St.Lucia;St.Lucia Mid (Sunrans SR822B);Gen 1;POS-STL;2015-2026;82.7x82.7x36.2;6pi10.7x6pi10.7x36.2po;210x210x92;2101x2101x919
+Sunrans OEM;Premier Outdoor Spas;Spa Portable;N/A;OEM Sunrans;Maldives / Montego;Maldives & Montego (Sunrans SR877);Gen 1;POS-MLD-MNT;2015-2026;86.6x86.6x37;7pi2.6x7pi2.6x37po;220x220x94;2200x2200x940
+Sunrans OEM;Premier Outdoor Spas;Spa Portable;N/A;OEM Sunrans;Aruba / Capri;Aruba & Capri (Sunrans SR805A);Gen 1;POS-ARU-CAP;2015-2026;87.8x87.8x37;7pi3.8x7pi3.8x37po;223x223x94;2230x2230x940
+Sunrans OEM;Premier Outdoor Spas;Spa Portable;N/A;OEM Sunrans;Zanzibar;Zanzibar (Sunrans SR812A);Gen 1;POS-ZAN;2015-2026;86.6x90.5x31.5;7pi2.6x7pi6.5x31.5po;220x230x80;2200x2299x800
+Sunrans OEM;Premier Outdoor Spas;Spa Portable;N/A;OEM Sunrans;Bora Bora / Malibu / Mykonos;Large 90.5x90.5 (Sunrans SR862/SR8118B);Gen 1;POS-90;2015-2026;90.5x90.5x37;7pi6.5x7pi6.5x37po;230x230x94;2299x2299x940
+Sunrans OEM;Premier Outdoor Spas;Spa Portable;N/A;OEM Sunrans;Bali;Bali XXL (Sunrans SR832B);Gen 1;POS-BAL;2015-2026;86.6x102.3x37;7pi2.6x8pi6.3x37po;220x260x94;2200x2598x940
+Sunrans OEM;Premier Outdoor Spas;Spa de Nage;Single Zone;OEM Sunrans;Laguna / South Beach;Laguna & South Beach 13.5ft;Gen 1;POS-LAG-SB;2015-2026;86.6x161.4x54.3;7pi2.6x13pi5.4x54.3po;220x410x138;2200x4100x1379
+Sunrans OEM;Premier Outdoor Spas;Spa de Nage;Single Zone;OEM Sunrans;Amelia;Amelia 15ft (Sunrans SR8801B);Gen 1;POS-AML;2015-2026;88.6x177.2x59.1;7pi4.6x14pi9.2x59.1po;225x450x150;2250x4501x1501
+Sunrans OEM;Premier Outdoor Spas;Spa de Nage;Dual Zone;OEM Sunrans;Barbados;Barbados 19.5ft Dual (Sunrans SR860A/SR8802B);Gen 1;POS-BAR;2015-2026;88.6x232.3x59.1;7pi4.6x19pi4.3x59.1po;225x590x150;2250x5900x1501
+Crystal Island;Riptide;Spa Portable;N/A;RSP Series;RSP 174;RSP 174 Compact;Gen 1;RIP-174;2012-2026;78.7x68.5x33;6pi6.7x5pi8.5x33po;200x174x84;1999x1740x838
+Crystal Island;Riptide;Spa Portable;N/A;RSP Series;RSP 212;RSP 212 Mid;Gen 1;RIP-212;2012-2026;83x83x36.2;6pi11x6pi11x36.2po;211x211x92;2108x2108x919
+Crystal Island;Riptide;Spa Portable;N/A;RSP Series;RSP 230;RSP 230 Large;Gen 1;RIP-230;2012-2026;90.6x90.6x36.2;7pi6.6x7pi6.6x36.2po;230x230x92;2301x2301x919
+Crystal Island;Riptide;Spa de Nage;Single Zone;Aqua Life;Aqua Life 3.5 / Pluton 3.5;Aqua Life 3.5 & Europe Spa Pluton 3.5;Gen 1;RIP-AL35;2012-2026;90.6x139.4x38.8;7pi6.6x11pi7.4x38.8po;230x354x99;2301x3541x986
+Crystal Island;Riptide;Spa de Nage;Single Zone;Hydros;Hydros 3.8;Hydros 3.8 12.5ft;Gen 1;RIP-HYD38;2012-2026;86x151x50;7pi2x12pi7x50po;218x384x127;2184x3835x1270
+Crystal Island;Riptide;Spa de Nage;Single Zone;Aqua Life;Aqua Life 4.4 / Pluton 4.4 / S440;Aqua Life 4.4, S440 & Europe Spa Pluton 4.4;Gen 1;RIP-AL44;2012-2026;92.5x173.2x50.8;7pi8.5x14pi5.2x50.8po;235x440x129;2350x4399x1290
+Crystal Island;Riptide;Spa de Nage;Single Zone;Manta;Manta 4.4 / Apollon 4.4;Manta 4.4 & Europe Spa Apollon 4.4;Gen 1;RIP-MN44;2012-2026;88.6x173.2x60.6;7pi4.6x14pi5.2x60.6po;225x440x154;2250x4399x1539
+Crystal Island;Riptide;Spa de Nage;Single Zone;Atlantis;Atlantis 4.6 / Eros 4.6;Atlantis 4.6 & Europe Spa Eros 4.6;Gen 1;RIP-AT46;2012-2026;92.5x181.1x60.6;7pi8.5x15pi1.1x60.6po;235x460x154;2350x4600x1539
+Crystal Island;Riptide;Spa de Nage;Single Zone;Aqua Life;Aqua Life 5.5 / Pluton 5.5;Aqua Life 5.5 & Europe Spa Pluton 5.5;Gen 1;RIP-AL55;2012-2026;92.5x216.5x50.8;7pi8.5x18pi0.5x50.8po;235x550x129;2350x5499x1290
+Crystal Island;Riptide;Spa de Nage;Single Zone;Manta;Manta 5.5 / Apollon 5.5 / X550;Manta 5.5, X550 & Europe Spa Apollon 5.5;Gen 1;RIP-MN55;2012-2026;88.6x216.5x60.6;7pi4.6x18pi0.5x60.6po;225x550x154;2250x5499x1539
+Crystal Island;Riptide;Spa de Nage;Dual Zone;Aqua Life;Aqua Life 5.9 Duo;Aqua Life 5.9 Duo 18ft Dual;Gen 1;RIP-AL59D;2014-2026;92.5x216.5x51;7pi8.5x18pi0.5x51po;235x550x130;2350x5499x1295
+Crystal Island;Riptide;Spa de Nage;Single Zone;Nautilus;Nautilus / Orion 6.0;Nautilus & Europe Spa Orion 6.0;Gen 1;RIP-NAU;2012-2026;92.5x230.3x59.8;7pi8.5x19pi2.3x59.8po;235x585x152;2350x5850x1519
+Crystal Island;Riptide;Spa de Nage;Dual Zone;Atlantis;Atlantis 5.8 / Eros 6.0;Atlantis 5.8 & Europe Spa Eros 6.0;Gen 1;RIP-AT58;2012-2026;92.5x230.3x60.6;7pi8.5x19pi2.3x60.6po;235x585x154;2350x5850x1539
+Crystal Island;Riptide;Spa de Nage;Dual Zone;Poseidon;Poseidon XL;Poseidon XL 19.5ft;Gen 1;RIP-POSXL;2012-2026;88.5x232x61;7pi4.5x19pi4x61po;225x589x155;2248x5893x1549
+Crystal Island;Riptide;Spa de Nage;Single Zone;Aqua Life;Aqua Life 20ft / Pluton 6.0;Aqua Life 20ft & Europe Spa Pluton 6.0;Gen 1;RIP-AL20;2014-2026;93x233x51;7pi9x19pi5x51po;236x592x130;2362x5918x1295
+Crystal Island;Riptide;Spa de Nage;Dual Zone;Atlantis / Aqua Life;Atlantis 5.9 XD / Aqua Life Mono 5.9 XD / Apollon 6.0;19.5ft Deep 60.6po Series;Gen 1;RIP-59XD;2014-2026;92.5x233x60.6;7pi8.5x19pi5x60.6po;235x592x154;2350x5918x1539
+Crystal Island;Riptide;Spa de Nage;Dual Zone;Europe Spa Poseidon;Poseidon Mono & Poseidon Duo;26ft Giant Swim Spa (Europe Spa);Gen 1;RIP-POS315;2014-2026;89x315x60.6;7pi5x26pi3x60.6po;226x800x154;2261x8001x1539
+Royal Spa Corp;Royal Spa;Spa de Nage;Single Zone;Swim Series;15ft Swim Spa;Royal 15ft Swim Spa;Gen 1;ROY-15;2010-2026;94x180x50.5;7pi10x15pi0x50.5po;239x457x128;2388x4572x1283
+Imperial Pools;Saratoga Spas;Spa Portable;N/A;Luxury;Polo;Polo 2-Person;Gen 1;SAR-POL;2005-2026;57x80x29;4pi9x6pi8x29po;145x203x74;1448x2032x737
+Imperial Pools;Saratoga Spas;Spa Portable;N/A;Luxury;Adelphi;Adelphi 3-Person;Gen 1;SAR-ADL;2005-2026;67x80x29;5pi7x6pi8x29po;170x203x74;1702x2032x737
+Imperial Pools;Saratoga Spas;Spa Portable;N/A;Luxury;Putnam;Putnam Mid;Gen 1;SAR-PUT;2005-2026;75x84x36;6pi3x7pi0x36po;191x213x91;1905x2134x914
+Imperial Pools;Saratoga Spas;Spa Portable;N/A;Luxury;Canfield;Canfield Square;Gen 1;SAR-CAN;2005-2026;84x84x38;7pi0x7pi0x38po;213x213x97;2134x2134x965
+Imperial Pools;Saratoga Spas;Spa Portable;N/A;Luxury;Regent;Regent Family;Gen 1;SAR-REG;2005-2026;84x90x38;7pi0x7pi6x38po;213x229x97;2134x2286x965
+Imperial Pools;Saratoga Spas;Spa Portable;N/A;Luxury;Empire;Empire Large;Gen 1;SAR-EMP;2005-2026;89x93x40;7pi5x7pi9x40po;226x236x102;2261x2362x1016
+Imperial Pools;Saratoga Spas;Spa Portable;N/A;Luxury;Beekman / Lincoln;Beekman & Lincoln Large;Gen 1;SAR-BKM-LNC;2005-2026;90x94x40;7pi6x7pi10x40po;229x239x102;2286x2388x1016
+Imperial Pools;Saratoga Spas;Spa Portable;N/A;Luxury;Broadway;Broadway XXL;Gen 1;SAR-BDW;2005-2026;92x108x40;7pi8x9pi0x40po;234x274x102;2337x2743x1016
+Investindustrial;Sundance Spas;Spa Portable;N/A;680 Series;Alicia;Alicia Compact;Gen 1;SUN-ALI;2018-2026;69x80x33;5pi9x6pi8x33po;175x203x84;1753x2032x838
+Investindustrial;Sundance Spas;Spa Portable;N/A;780 / 880 Series;Capri / Dover;Capri & Dover 3-Person;Gen 1;SUN-CAP-DOV;2005-2026;69x82x30.5;5pi9x6pi10x30.5po;175x208x77;1753x2083x775
+Investindustrial;Sundance Spas;Spa Portable;N/A;680 Series;Prado;Prado 4-Person;Gen 1;SUN-PRA;2016-2026;80x80x33;6pi8x6pi8x33po;203x203x84;2032x2032x838
+Investindustrial;Sundance Spas;Spa Portable;N/A;780 / 880 Series;Montclair / Marin;Montclair (75po) & Marin (76po);Gen 1;SUN-MNT-MAR;2005-2026;91x76x34;7pi7x6pi4x34po;231x193x86;2311x1930x864
+Investindustrial;Sundance Spas;Spa Portable;N/A;880 Series;Altamar;Altamar Mid Lounge;Gen 1;SUN-ALT;2005-2026;86x81x37.5;7pi2x6pi9x37.5po;218x206x95;2184x2057x953
+Investindustrial;Sundance Spas;Spa Portable;N/A;680 / 780 Series;Bristol / Edison 680 / Peyton;Midsize 84x84 Models;Gen 1;SUN-84;2012-2026;84x84x36;7pi0x7pi0x36po;213x213x91;2134x2134x914
+Investindustrial;Sundance Spas;Spa Portable;N/A;680 / 780 / 980 Series;Chelsee / Hamilton / McKinley / Odessa / Ramona;Large 89x89x36 Models;Gen 1;SUN-89-36;2005-2026;89x89x36;7pi5x7pi5x36po;226x226x91;2261x2261x914
+Investindustrial;Sundance Spas;Spa Portable;N/A;880 Series;Cameo / Optima;Cameo Lounge & Optima Open;Gen 1;SUN-CAM-OPT;2005-2026;89x89x37.5;7pi5x7pi5x37.5po;226x226x95;2261x2261x953
+Investindustrial;Sundance Spas;Spa Portable;N/A;980 Series;Claremont / Kingston;Claremont & 980 Kingston;Gen 1;SUN-980;2016-2026;92x100x34;7pi8x8pi4x34po;234x254x86;2337x2540x864
+Investindustrial;Sundance Spas;Spa Portable;N/A;880 Series;Maxxus;Maxxus XXL Lounge;Gen 1;SUN-MAX;2005-2026;91x110x41.5;7pi7x9pi2x41.5po;231x279x105;2311x2794x1054
+Investindustrial;Sundance Spas;Spa Portable;N/A;880 Series;Aspen;Aspen 880 (84x108x36 Edition);Gen 1;SUN-ASP1;2011-2016;84x108x36;7pi0x9pi0x36po;213x274x91;2134x2743x914
+Investindustrial;Sundance Spas;Spa Portable;N/A;880 Series;Aspen;Aspen (2022 et -);Gen 2;SUN-ASP2;2017-2022;91x110x41.5;7pi7x9pi2x41.5po;231x279x105;2311x2794x1054
+Investindustrial;Sundance Spas;Spa Portable;N/A;880 Series;Aspen;Aspen (2023-2025);Gen 3;SUN-ASP3;2023-2025;97x110x41.5;8pi1x9pi2x41.5po;246x279x105;2464x2794x1054
+Investindustrial;Sundance Spas;Spa Portable;N/A;880 Series;Aspen;Aspen (2026+);Gen 4;SUN-ASP4;2026;89x110x40;7pi5x9pi2x40po;226x279x102;2261x2794x1016
+Investindustrial;Sundance Spas;Spa de Nage;Single Zone;Swim Series;13 Stream;13 Stream 12.5ft;Gen 1;SUN-13STR;2022-2026;92x148.3x50;7pi8x12pi4.3x50po;234x377x127;2337x3767x1270
+Investindustrial;Sundance Spas;Spa de Nage;Single Zone;Swim Series;Surf 17;Surf 17 17.5ft;Gen 1;SUN-SRF17;2022-2026;92x208.3x53;7pi8x17pi4.3x53po;234x529x135;2337x5291x1346
+Guangzhou Sunrans;Sunrans;Spa Portable;N/A;OEM Series;SR841;SR841 1-2 Person;Gen 1;SR841;2015-2026;39.4x76.8x32.3;3pi3.4x6pi4.8x32.3po;100x195x82;1001x1951x820
+Guangzhou Sunrans;Sunrans;Spa Portable;N/A;OEM Series;SR807A;SR807A 2-Person;Gen 1;SR807A;2015-2026;49.2x72.8x30.7;4pi1.2x6pi0.8x30.7po;125x185x78;1250x1849x780
+Guangzhou Sunrans;Sunrans;Spa Portable;N/A;OEM Series;SR843;SR843 Compact;Gen 1;SR843;2015-2026;72.8x57.1x34.6;6pi0.8x4pi9.1x34.6po;185x145x88;1849x1450x879
+Guangzhou Sunrans;Sunrans;Spa Portable;N/A;OEM Series;SR839;SR839 Square Compact;Gen 1;SR839;2015-2026;63x63x33.5;5pi3x5pi3x33.5po;160x160x85;1600x1600x851
+Guangzhou Sunrans;Sunrans;Spa Portable;N/A;OEM Series;SR840;SR840 Square;Gen 1;SR840;2015-2026;70.9x70.9x29.5;5pi10.9x5pi10.9x29.5po;180x180x75;1801x1801x749
+Guangzhou Sunrans;Sunrans;Spa Portable;N/A;OEM Series;SR822;SR822 3-Person;Gen 1;SR822;2015-2026;61x86.6x34.6;5pi1x7pi2.6x34.6po;155x220x88;1549x2200x879
+Guangzhou Sunrans;Sunrans;Spa Portable;N/A;OEM Series;SR808A / SR808B / SR808C / SR837;3-Person Compact Series;Gen 1;SR808ABC;2015-2026;65x83.9x34.4;5pi5x7pi0x34.4po;165x213x87;1651x2131x874
+Guangzhou Sunrans;Sunrans;Spa Portable;N/A;OEM Series;SR850;SR850 Deep Plunge;Gen 1;SR850;2015-2026;66.9x86.6x51.2;5pi6.9x7pi2.6x51.2po;170x220x130;1699x2200x1300
+Guangzhou Sunrans;Sunrans;Spa Portable;N/A;OEM Series;SR809A / SR809B / SR809C / SR828A / SR830 / SR830A / SR830B;74.8x74.8 Series;Gen 1;SR-74;2015-2026;74.8x74.8x35.4;6pi2.8x6pi2.8x35.4po;190x190x90;1900x1900x899
+Guangzhou Sunrans;Sunrans;Spa Portable;N/A;OEM Series;SR829;SR829 Mid;Gen 1;SR829;2015-2026;74.8x86.6x35.4;6pi2.8x7pi2.6x35.4po;190x220x90;1900x2200x899
+Guangzhou Sunrans;Sunrans;Spa Portable;N/A;OEM Series;SR810A / SR810B / SR810C / SR8116B / SR816A / SR816B / SR816C / SR819B / SR875;78.7x78.7 (200x200cm) Series;Gen 1;SR-78;2015-2026;78.7x78.7x35.4;6pi6.7x6pi6.7x35.4po;200x200x90;1999x1999x899
+Guangzhou Sunrans;Sunrans;Spa Portable;N/A;OEM Series;SR8101C / SR8104B / SR815B / SR815C / SR822B;82.7x82.7 (210x210cm) Series;Gen 1;SR-82;2015-2026;82.7x82.7x37;6pi10.7x6pi10.7x37po;210x210x94;2101x2101x940
+Guangzhou Sunrans;Sunrans;Spa Portable;N/A;OEM Series;SR810;SR810 (215x215cm);Gen 1;SR810;2015-2026;84.6x84.6x37.4;7pi0.6x7pi0.6x37.4po;215x215x95;2149x2149x950
+Guangzhou Sunrans;Sunrans;Spa Portable;N/A;OEM Series;SR808 / SR8117B / SR816 / SR817B / SR817C / SR818 / SR826 / SR836 / SR877 / SR878 / SR879;86.6x86.6 (220x220cm) Series;Gen 1;SR-86;2015-2026;86.6x86.6x37.4;7pi2.6x7pi2.6x37.4po;220x220x95;2200x2200x950
+Guangzhou Sunrans;Sunrans;Spa Portable;N/A;OEM Series;SR805A / SR806A;87.8x87.8 (223x223cm) Series;Gen 1;SR805-806;2015-2026;87.8x87.8x37;7pi3.8x7pi3.8x37po;223x223x94;2230x2230x940
+Guangzhou Sunrans;Sunrans;Spa Portable;N/A;OEM Series;SR812A / SR812B;86.6x90.6 (220x230cm) Series;Gen 1;SR812;2015-2026;86.6x90.6x31.5;7pi2.6x7pi6.6x31.5po;220x230x80;2200x2301x800
+Guangzhou Sunrans;Sunrans;Spa Portable;N/A;OEM Series;SR8118B / SR862;90.6x90.6 (230x230cm) Series;Gen 1;SR-90;2015-2026;90.6x90.6x37.4;7pi6.6x7pi6.6x37.4po;230x230x95;2301x2301x950
+Guangzhou Sunrans;Sunrans;Spa Portable;N/A;OEM Series;SR865;SR865 Round;Gen 1;SR865;2015-2026;92.5x92.5x37.4;7pi8.5x7pi8.5x37.4po;235x235x95;2350x2350x950
+Guangzhou Sunrans;Sunrans;Spa Portable;N/A;OEM Series;SR876;SR876 (240x240cm);Gen 1;SR876;2015-2026;94.5x94.5x37.4;7pi10.5x7pi10.5x37.4po;240x240x95;2400x2400x950
+Guangzhou Sunrans;Sunrans;Spa Portable;N/A;OEM Series;SR831;SR831 Round Giant;Gen 1;SR831;2015-2026;96.5x96.5x38.6;8pi0.5x8pi0.5x38.6po;245x245x98;2451x2451x980
+Guangzhou Sunrans;Sunrans;Spa Portable;N/A;OEM Series;SR832 / SR832A / SR832B;XXL Party Series (102 to 110po);Gen 1;SR832;2015-2026;86.6x102.4x37;7pi2.6x8pi6.4x37po;220x260x94;2200x2601x940
+Guangzhou Sunrans;Sunrans;Spa Portable;N/A;OEM Series;SR852;SR852 10.5ft Party;Gen 1;SR852;2015-2026;86.6x126x38.6;7pi2.6x10pi6x38.6po;220x320x98;2200x3200x980
+Guangzhou Sunrans;Sunrans;Spa de Nage;Single Zone;OEM Swim;SR851 / SR821;12.5ft Swim Spas;Gen 1;SR821-851;2015-2026;86.6x151.6x47.2;7pi2.6x12pi7.6x47.2po;220x385x120;2200x3851x1199
+Guangzhou Sunrans;Sunrans;Spa de Nage;Single Zone;OEM Swim;SR859;SR859 13ft;Gen 1;SR859;2015-2026;86.6x157.5x54.6;7pi2.6x13pi1.5x54.6po;220x400x139;2200x4001x1387
+Guangzhou Sunrans;Sunrans;Spa de Nage;Single Zone;OEM Swim;SR8801B;SR8801B 15ft;Gen 1;SR8801B;2015-2026;88.6x177.2x59.1;7pi4.6x14pi9.2x59.1po;225x450x150;2250x4501x1501
+Guangzhou Sunrans;Sunrans;Spa de Nage;Dual Zone;OEM Swim;SR858 / SR860 / SR870 / SR880;19ft Swim Spas (224 to 228po);Gen 1;SR860-880;2015-2026;86.6x228.3x53.5;7pi2.6x19pi0.3x53.5po;220x580x136;2200x5799x1359
+Guangzhou Sunrans;Sunrans;Spa de Nage;Dual Zone;OEM Swim;SR820A / SR820B / SR860A / SR8802B;19.5ft Dual Temp (232.3po);Gen 1;SR820-8802;2015-2026;88.6x232.3x59.1;7pi4.6x19pi4.3x59.1po;225x590x150;2250x5900x1501
+Guangzhou Sunrans;Sunrans;Spa de Nage;Dual Zone;OEM Swim;SR855;SR855 22ft Dual Temp;Gen 1;SR855;2015-2026;86.6x263.8x60.2;7pi2.6x21pi11.8x60.2po;220x670x153;2200x6701x1529
+Guangzhou Sunrans;Sunrans;Spa de Nage;Dual Zone;OEM Swim;SR856;SR856 38.5ft Stretch Pool;Gen 1;SR856;2015-2026;86.6x462.6x63;7pi2.6x38pi6.6x63po;220x1175x160;2200x11750x1600
+Swim Spas Plus;Swim Spas Plus;Spa Portable;N/A;Ultimate;8 Ultimate;8 Ultimate 96x96;Gen 1;SSP-8ULT;2014-2026;96x96x36;8pi0x8pi0x36po;244x244x91;2438x2438x914
+Swim Spas Plus;Swim Spas Plus;Spa de Nage;Single Zone;Fitness;8ft Jog;8ft Jog Plunge;Gen 1;SSP-8JOG;2014-2026;88x100x48;7pi4x8pi4x48po;224x254x122;2235x2540x1219
+Swim Spas Plus;Swim Spas Plus;Spa de Nage;Single Zone;Swim Series;12 Carmel;12 Carmel;Gen 1;SSP-12CRM;2014-2026;90x144x54;7pi6x12pi0x54po;229x366x137;2286x3658x1372
+Swim Spas Plus;Swim Spas Plus;Spa de Nage;Single Zone;Swim Series;12 Party Spa;12 Party Spa;Gen 1;SSP-12PRT;2014-2026;86.4x148.8x40.8;7pi2.4x12pi4.8x40.8po;219x378x104;2195x3780x1036
+Swim Spas Plus;Swim Spas Plus;Spa de Nage;Single Zone;Swim Series;12.6 Sonoma;12.6 Sonoma Swim Spa;Gen 1;SSP-126SON;2014-2026;86.4x151.2x48;7pi2.4x12pi7.2x48po;219x384x122;2195x3840x1219
+Swim Spas Plus;Swim Spas Plus;Spa de Nage;Single Zone;Swim Series;14 Del Mar / Soprano / Monterey II;14ft Swim Spas (168po);Gen 1;SSP-14;2014-2026;90x168x54;7pi6x14pi0x54po;229x427x137;2286x4267x1372
+Swim Spas Plus;Swim Spas Plus;Spa de Nage;Single Zone;Swim Series;14.8 Romeo;14.8 Romeo Deep;Gen 1;SSP-148ROM;2014-2026;86.4x177.6x60;7pi2.4x14pi9.6x60po;219x451x152;2195x4511x1524
+Swim Spas Plus;Swim Spas Plus;Spa de Nage;Single Zone;Swim Series;16 Monterey III;16 Monterey III;Gen 1;SSP-16MNT;2014-2026;94.8x192x54;7pi10.8x16pi0x54po;241x488x137;2408x4877x1372
+Swim Spas Plus;Swim Spas Plus;Spa de Nage;Single Zone;Swim Series;16.9 Portofino;16.9 Portofino Deep;Gen 1;SSP-169PRT;2014-2026;87.6x202.8x60;7pi3.6x16pi10.8x60po;223x515x152;2225x5151x1524
+Swim Spas Plus;Swim Spas Plus;Spa de Nage;Dual Zone;Absolute Dual Temp;17ft Absolute Carmel;17ft Absolute Carmel Dual Temp;Gen 1;SSP-17CRM;2014-2026;90x204x48;7pi6x17pi0x48po;229x518x122;2286x5182x1219
+Swim Spas Plus;Swim Spas Plus;Spa de Nage;Dual Zone;Absolute Dual Temp;19 Celestina / Carmel / Monterey / Belvedere / Marin;19ft Dual Temp Series (228 to 231.6po);Gen 1;SSP-19DT;2014-2026;90x228x50.4;7pi6x19pi0x50.4po;229x579x128;2286x5791x1280
+Swim Spas Plus;Swim Spas Plus;Spa de Nage;Dual Zone;Absolute Dual Temp;21ft Absolute Del Mar I / Jimbo / Lagunitas / Monterey / Novato;21ft Dual Temp Series (252po);Gen 1;SSP-21DT;2014-2026;91.2x252x50.4;7pi7.2x21pi0x50.4po;232x640x128;2316x6401x1280
+Swim Spas Plus;Swim Spas Plus;Spa de Nage;Dual Zone;Absolute Dual Temp;22 Galliano;22 Galliano Deep;Gen 1;SSP-22GAL;2014-2026;86.6x235.4x65.7;7pi2.6x19pi7.4x65.7po;220x598x167;2200x5979x1669
+Swim Spas Plus;Swim Spas Plus;Spa de Nage;Dual Zone;Absolute Dual Temp;22ft Absolute Del Mar II;22ft Absolute Del Mar II Dual Temp;Gen 1;SSP-22DM2;2014-2026;91.2x264x54;7pi7.2x22pi0x54po;232x671x137;2316x6706x1372
+Swim Spas Plus;Swim Spas Plus;Spa de Nage;Dual Zone;Absolute Dual Temp;23ft Absolute Jimbo;23ft Absolute Jimbo Dual Temp;Gen 1;SSP-23JMB;2014-2026;91.2x276x50.4;7pi7.2x23pi0x50.4po;232x701x128;2316x7010x1280
+Swim Spas Plus;Swim Spas Plus;Spa de Nage;Dual Zone;Absolute Dual Temp;26ft Absolute Del Mar III;26ft Absolute Del Mar III Dual Temp;Gen 1;SSP-26DM3;2014-2026;91.2x312x54;7pi7.2x26pi0x54po;232x792x137;2316x7925x1372
+Swim Spas Plus;Swim Spas Plus;Spa de Nage;Dual Zone;Stretch;39ft Stretch Swim Spa;39ft Stretch Swim Spa (Sunrans SR856);Gen 1;SSP-39STR;2014-2026;86.4x468x63;7pi2.4x39pi0x63po;219x1189x160;2195x11887x1600
+Swim Spas Denver;Swim Spas Denver;Spa de Nage;Dual Zone;Performance;Performance / Performance Pro;23ft Performance (50po & Pro 60po);Gen 1;SSD-PRF;2014-2026;89x279x60;7pi5x23pi3x60po;226x709x152;2261x7087x1524
+Swim Spas Denver;Swim Spas Denver;Spa de Nage;Dual Zone;Paramount;Paramount / Paramount Pro;23.5ft Paramount (50po & Pro 60po);Gen 1;SSD-PRM;2014-2026;90x283x60;7pi6x23pi7x60po;229x719x152;2286x7188x1524
+Spa Alina;Spa Alina;Spa de Nage;Dual Zone;Swim Series;Apollo;Apollo 19.5ft Dual;Gen 1;ALN-APL;2015-2026;89.8x232x57;7pi5.8x19pi4x57po;228x589x145;2281x5893x1448
+Shenzhen SpaRelax;Sparelax;Spa de Nage;Single Zone;Mythology;Triton;Triton 12.5ft;Gen 1;SPR-TRT;2012-2026;88.6x151.6x46.9;7pi4.6x12pi7.6x46.9po;225x385x119;2250x3851x1191
+Shenzhen SpaRelax;Sparelax;Spa de Nage;Single Zone;Mythology;Ares / Hydros;Ares & Hydros 13ft (Corrige d Ar s);Gen 1;SPR-ARS-HYD;2012-2026;89x157.5x55.1;7pi5x13pi1.5x55.1po;226x400x140;2261x4001x1400
+Shenzhen SpaRelax;Sparelax;Spa de Nage;Single Zone;Mythology;Neree;Neree 14ft (Corrige de N r e);Gen 1;SPR-NER;2012-2026;88.6x168.5x50.4;7pi4.6x14pi0.5x50.4po;225x428x128;2250x4280x1280
+Shenzhen SpaRelax;Sparelax;Spa de Nage;Single Zone;Mythology;Hades;Hades 14.5ft (Corrige de Had s);Gen 1;SPR-HAD;2012-2026;88.6x176.4x54.7;7pi4.6x14pi8.4x54.7po;225x448x139;2250x4481x1389
+Shenzhen SpaRelax;Sparelax;Spa de Nage;Dual Zone;Mythology;Eos;Eos 17.5ft (Corrige de  os);Gen 1;SPR-EOS;2012-2026;88.6x208.7x57.5;7pi4.6x17pi4.7x57.5po;225x530x146;2250x5301x1461
+Shenzhen SpaRelax;Sparelax;Spa de Nage;Dual Zone;Mythology;Hypnos / Promethee;Hypnos & Promethee 18ft (Corrige de Prom th e);Gen 1;SPR-HYP-PRM;2012-2026;94.5x215.7x57.1;7pi10.5x17pi11.7x57.1po;240x548x145;2400x5479x1450
+Shenzhen SpaRelax;Sparelax;Spa de Nage;Dual Zone;Mythology;Artemis;Artemis 19ft (Corrige d Art mis);Gen 1;SPR-ART;2012-2026;88.6x225.2x50.4;7pi4.6x18pi9.2x50.4po;225x572x128;2250x5720x1280
+Shenzhen SpaRelax;Sparelax;Spa de Nage;Dual Zone;Mythology;Olympe / Poseidon;Olympe & Poseidon 19.5ft (Corrige de Pos idon);Gen 1;SPR-OLY-POS;2012-2026;88.6x230.7x57.9;7pi4.6x19pi2.7x57.9po;225x586x147;2250x5860x1471
+Shenzhen SpaRelax;Sparelax;Spa de Nage;Dual Zone;Mythology;Dinos;Dinos 21ft;Gen 1;SPR-DIN;2012-2026;88.6x250.8x57.9;7pi4.6x20pi10.8x57.9po;225x637x147;2250x6370x1471
+Shenzhen SpaRelax;Sparelax;Spa de Nage;Dual Zone;Mythology;Aphrodite / Zeus;Aphrodite & Zeus 22ft;Gen 1;SPR-APH-ZEU;2012-2026;88.6x266.5x56.7;7pi4.6x22pi2.5x56.7po;225x677x144;2250x6769x1440
+Shenzhen SpaRelax;Sparelax;Spa de Nage;Dual Zone;Mythology;Dyonisos;Dyonisos 24ft Giant;Gen 1;SPR-DYO;2012-2026;88.6x288.9x56.3;7pi4.6x24pi0.9x56.3po;225x734x143;2250x7338x1430
+Tendance & Spa;Tendance & Spa;Spa Portable;N/A;OEM Sunrans;Saint-Barth;Saint-Barth (Moule Sunrans SR8118B);Gen 1;TDS-STB;2016-2026;90.6x90.6x36.2;7pi6.6x7pi6.6x36.2po;230x230x92;2301x2301x919
+Investindustrial;ThermoSpas;Spa Portable;N/A;Designer;Manhattan II;Manhattan II Square;Gen 1;THM-MAN2;2005-2026;93x93x38.8;7pi9x7pi9x38.8po;236x236x99;2362x2362x986
+Investindustrial;ThermoSpas;Spa de Nage;Single Zone;Fitness;Aquacisor;Aquacisor / 12.5ft Fitness;Gen 1;THM-AQC;2005-2026;93x150x48;7pi9x12pi6x48po;236x381x122;2362x3810x1219
+Investindustrial;ThermoSpas;Spa de Nage;Single Zone;Swim Series;Swim Spa 14ft;ThermoSpas 14ft Swim Spa;Gen 1;THM-14;2010-2026;93x174x52.8;7pi9x14pi6x52.8po;236x442x134;2362x4420x1341
+Gruppo Treesse;Treesse;Spa Portable;N/A;Ghost Plus;Phantom;Phantom Marc Sadler Design;Gen 1;TRS-PHN;2018-2026;92.5x92.5x38.6;7pi8.5x7pi8.5x38.6po;235x235x98;2350x2350x980
+Groupe Trevi;Trevi;Spa Portable;N/A;Acrylique;Maldives / Uma;Maldives & Uma 82x82;Gen 1;TRV-MAL-UMA;2010-2026;82x82x36;6pi10x6pi10x36po;208x208x91;2083x2083x914
+Groupe Trevi;Trevi;Spa Portable;N/A;Acrylique;Émeraude;Émeraude 92x92;Gen 1;TRV-EME;2010-2026;92x92x36;7pi8x7pi8x36po;234x234x91;2337x2337x914
+Groupe Trevi;Trevi;Spa Portable;N/A;Acrylique;Balnéo 6000;Balnéo 6000 XL;Gen 1;TRV-BAL6;2010-2026;93x132x38;7pi9x11pi0x38po;236x335x97;2362x3353x965
+Groupe Trevi;Trevi;Spa Portable;N/A;Acrylique;California;California 92x132;Gen 1;TRV-CAL;2010-2026;92x132x38;7pi8x11pi0x38po;234x335x97;2337x3353x965
+Groupe Trevi;Trevi;Spa de Nage;Single Zone;Fitness;Exercice;Exercice 13ft (OEM Dynasty Aquex 13);Gen 1;TRV-EXE13;2015-2026;92x160x51;7pi8x13pi4x51po;234x406x130;2337x4064x1295
+Groupe Trevi;Trevi;Spa de Nage;Dual Zone;Fitness;Spartan;Spartan 19ft DT (OEM Dynasty Aquex 19 DT);Gen 1;TRV-SPA19;2015-2026;92x224x55;7pi8x18pi8x55po;234x569x140;2337x5690x1397
+Vortex Leisure;Vortex Spas;Spa Portable;N/A;Hydrozone;Palladium;Palladium Multi-Person;Gen 1;VTX-PAL;2014-2026;90x139x36;7pi6x11pi7x36po;229x353x91;2286x3531x914
+Vortex Leisure;Vortex Spas;Spa de Nage;Single Zone;Aqualounge;Aqualounge Pro;Aqualounge Pro 13ft;Gen 1;VTX-ALP13;2014-2026;91x156x48;7pi7x13pi0x48po;231x396x122;2311x3962x1219
+Vortex Leisure;Vortex Spas;Spa de Nage;Single Zone;AquaGym;AquaGym Pro+;AquaGym Pro+ 13ft;Gen 1;VTX-AGP13;2014-2026;91x156x51;7pi7x13pi0x51po;231x396x130;2311x3962x1295
+Vortex Leisure;Vortex Spas;Spa de Nage;Single Zone;AquaGym;AquaGym Max Pro+;AquaGym Max Pro+ 15ft;Gen 1;VTX-AGM15;2014-2026;91x176x59;7pi7x14pi8x59po;231x447x150;2311x4470x1499
+Vortex Leisure;Vortex Spas;Spa de Nage;Single Zone;Riverpace;Riverpace 15;Riverpace 15ft;Gen 1;VTX-RVP15;2018-2026;89x177x47;7pi5x14pi9x47po;226x450x119;2261x4496x1194
+Vortex Leisure;Vortex Spas;Spa de Nage;Single Zone;Aqualap;Aqualap XD;Aqualap XD Compact;Gen 1;VTX-ALXD;2018-2026;78.7x196.9x40;6pi6.7x16pi4.9x40po;200x500x102;1999x5001x1016
+Vortex Leisure;Vortex Spas;Spa de Nage;Single Zone;Aquaflow;Aquaflow Max / Aquapace;Aquaflow Max / Aquapace 17ft;Gen 1;VTX-AQF17;2014-2026;91x200x59;7pi7x16pi8x59po;231x508x150;2311x5080x1499
+Vortex Leisure;Vortex Spas;Spa de Nage;Single Zone;Riverpace;Riverpace 19;Riverpace 19ft;Gen 1;VTX-RVP19;2018-2026;89x227x60;7pi5x18pi11x60po;226x577x152;2261x5766x1524
+Vortex Leisure;Vortex Spas;Spa de Nage;Single Zone;Aqualap;Aqualap Pro;Aqualap Pro 19ft Standard;Gen 1;VTX-ALP;2014-2026;91x230x51;7pi7x19pi2x51po;231x584x130;2311x5842x1295
+Vortex Leisure;Vortex Spas;Spa de Nage;Single Zone;Aqualap;Aqualap Pro+;Aqualap Pro+ 19ft Deep;Gen 1;VTX-ALP19;2014-2026;91x230.8x59;7pi7x19pi2.8x59po;231x586x150;2311x5862x1499
+Vortex Leisure;Vortex Spas;Spa de Nage;Dual Zone;Riverpace;Riverpace Dual;Riverpace Dual Zone;Gen 1;VTX-RVPD;2018-2026;89x232x48;7pi5x19pi4x48po;226x589x122;2261x5893x1219
+Vortex Leisure;Vortex Spas;Spa de Nage;Dual Zone;Hydrozone;Hydrozone Pro+;Hydrozone Pro+ Dual Zone;Gen 1;VTX-HYD-DZ;2014-2026;91x235x59;7pi7x19pi7x59po;231x597x150;2311x5969x1499
+Groupe Aquilus;Water Day Spa;Spa Portable;N/A;Aquilus OEM;Sydney;Sydney 93x93;Gen 1;WDS-SYD;2015-2026;93x93x37.4;7pi9x7pi9x37.4po;236x236x95;2362x2362x950
+Wellis Magyarorszag Zrt;Wellis;Spa Portable;N/A;High Line;Mont Blanc;Mont Blanc 91x91;Gen 1;WEL-MTB;2016-2026;91x91x36;7pi7x7pi7x36po;231x231x91;2311x2311x914
+Wellis Magyarorszag Zrt;Wellis;Spa Portable;N/A;High Line;Monte Rosa;Monte Rosa 91x91;Gen 1;WEL-MTR;2016-2026;91x91x37;7pi7x7pi7x37po;231x231x94;2311x2311x940
+Wellis Magyarorszag Zrt;Wellis;Spa Portable;N/A;PeakLine;Kilimanjaro;Kilimanjaro Standard;Gen 1;WEL-KLM;2016-2026;93x93x37;7pi9x7pi9x37po;236x236x94;2362x2362x940
+Wellis Magyarorszag Zrt;Wellis;Spa Portable;N/A;PeakLine Life;Everest;Everest Life 2023+;Gen 2;WEL-EVR-LF;2023-2026;93.5x93.5x37.4;7pi9.5x7pi9.5x37.4po;237x237x95;2375x2375x950
+Wellis Magyarorszag Zrt;Wellis;Spa Portable;N/A;PeakLine Maxi;Olympus;Olympus 9-Person;Gen 1;WEL-OLY;2016-2026;91x140x39;7pi7x11pi8x39po;231x356x99;2311x3556x991
+Wellis Magyarorszag Zrt;Wellis;Spa de Nage;Single Zone;SwimLine;Danube;Danube W-Flow 4.5m;Gen 1;WEL-DAN;2019-2026;92.5x177.2x57.9;7pi8.5x14pi9.2x57.9po;235x450x147;2350x4501x1471
+Wellis Magyarorszag Zrt;Wellis;Spa de Nage;Single Zone;SwimLine;Amazonas;Amazonas W-Flow 5.5m;Gen 1;WEL-AMZ;2019-2026;92.5x216.5x57.9;7pi8.5x18pi0.5x57.9po;235x550x147;2350x5499x1471
+Wellis Magyarorszag Zrt;Wellis;Spa de Nage;Dual Zone;SwimLine;Rio Grande;Rio Grande W-Flow 6.0m Dual Zone;Gen 1;WEL-RIO;2019-2026;92.5x236.2x57.9;7pi8.5x19pi8.2x57.9po;235x600x147;2350x5999x1471
+Europe Spa;Europe Spa;Spa Portable;N/A;Premium;Venice;Venice Compact;Gen 1;EUR-PRM-VEN;2015-2026;78.7x68.5x32.3;6pi6.7x5pi8.5x32.3po;200x174x82;1999x1740x820
+Europe Spa;Europe Spa;Spa Portable;N/A;Premium;Bahamas;Bahamas 5-Person;Gen 1;EUR-PRM-BAH;2015-2026;83.5x83.5x36.2;6pi11.5x6pi11.5x36.2po;212x212x92;2121x2121x919
+Europe Spa;Europe Spa;Spa Portable;N/A;Premium;Jamaique;Jamaique 6-Person;Gen 1;EUR-PRM-JAM;2015-2026;94.5x90.6x36.2;7pi10.5x7pi6.6x36.2po;240x230x92;2400x2301x919
+Europe Spa;Europe Spa;Spa Portable;N/A;Premium;Cassiopée / Pégase;Cassiopée & Pégase 218x218;Gen 1;EUR-PRM-CAS-PEG;2015-2026;85.8x85.8x37.4;7pi1.8x7pi1.8x37.4po;218x218x95;2179x2179x950
+Europe Spa;Europe Spa;Spa Portable;N/A;Premium;Flores / Phénix;Flores & Phénix 230x230;Gen 1;EUR-PRM-FLO-PHE;2015-2026;90.6x90.6x36.2;7pi6.6x7pi6.6x36.2po;230x230x92;2301x2301x919
+Europe Spa;Europe Spa;Spa Portable;N/A;Premium;Bornéo;Bornéo Lounge;Gen 1;EUR-PRM-BOR;2015-2026;90.6x83.5x36.2;7pi6.6x6pi11.5x36.2po;230x212x92;2301x2121x919
+Europe Spa;Europe Spa;Spa Portable;N/A;Premium;Bali / Hawaii;Bali & Hawaii 200x200;Gen 1;EUR-PRM-BAL-HAW;2015-2026;78.7x78.7x32.3;6pi6.7x6pi6.7x32.3po;200x200x82;1999x1999x820
+Europe Spa;Europe Spa;Spa Portable;N/A;Premium;Rubis;Rubis Compact;Gen 1;EUR-PRM-RUB;2015-2026;76.8x64.6x32.3;6pi4.8x5pi4.6x32.3po;195x164x82;1951x1641x820
+Europe Spa;Europe Spa;Spa Portable;N/A;Premium;Java;Java 3-Person;Gen 1;EUR-PRM-JAV;2015-2026;78.7x64.6x32.3;6pi6.7x5pi4.6x32.3po;200x164x82;1999x1641x820
+Europe Spa;Europe Spa;Spa Portable;N/A;Premium;Andromède;Andromède 3-Person Deep;Gen 1;EUR-PRM-AND;2015-2026;78.7x64.6x33.5;6pi6.7x5pi4.6x33.5po;200x164x85;1999x1641x851
+Europe Spa;Europe Spa;Spa Portable;N/A;Eternity;Eternity 760;Eternity 760 (230x230);Gen 1;EUR-ETN-760;2018-2026;90.6x90.6x36.2;7pi6.6x7pi6.6x36.2po;230x230x92;2301x2301x919
+Europe Spa;Europe Spa;Spa Portable;N/A;Eternity;Eternity 560;Eternity 560 (212x212);Gen 1;EUR-ETN-560;2018-2026;83.5x83.5x36.2;6pi11.5x6pi11.5x36.2po;212x212x92;2121x2121x919
+Europe Spa;Europe Spa;Spa Portable;N/A;Eternity;Eternity 360;Eternity 360 (200x200);Gen 1;EUR-ETN-360;2018-2026;78.7x78.7x32.3;6pi6.7x6pi6.7x32.3po;200x200x82;1999x1999x820
+Europe Spa;Europe Spa;Spa Portable;N/A;Eternity;Eternity 160;Eternity 160 (215x155);Gen 1;EUR-ETN-160;2018-2026;84.6x61x32.3;7pi0.6x5pi1x32.3po;215x155x82;2149x1549x820
+Watkins Wellness (Masco);Freeflow Spas;Spa Portable;N/A;Sport Series;Excursion;Excursion Monocoque Standard;Gen 1;EXC-G1;2011-2017;77x77x34;6pi5x6pi5x34po;196x196x86;1956x1956x864
+Watkins Wellness (Masco);Freeflow Spas;Spa Portable;N/A;Sport Series;Excursion;Excursion Premier Wood-Look;Gen 2;EXC-G2;2018-2026;77x77x34;6pi5x6pi5x34po;196x196x86;1956x1956x864
+Watkins Wellness (Masco);Freeflow Spas;Spa Portable;N/A;Sport Series;Azure;Azure Monocoque Standard;Gen 1;AZR-G1;2011-2017;69x80x33;5pi9x6pi8x33po;175x203x84;1753x2032x838
+Watkins Wellness (Masco);Freeflow Spas;Spa Portable;N/A;Sport Series;Azure;Azure Premier Wood-Look;Gen 2;AZR-G2;2018-2026;69x80x33;5pi9x6pi8x33po;175x203x84;1753x2032x838
+Watkins Wellness (Masco);Freeflow Spas;Spa Portable;N/A;Sport Series;Cascina;Cascina Compact Plug & Play;Gen 1;CAS;2012-2026;68x62x32;5pi8x5pi2x32po;173x157x81;1727x1575x813
+Watkins Wellness (Masco);Freeflow Spas;Spa Portable;N/A;Sport Series;Tristar;Tristar Corner;Gen 1;TRI;2011-2026;70x70x31;5pi10x5pi10x31po;178x178x79;1778x1778x787
+Watkins Wellness (Masco);Freeflow Spas;Spa Portable;N/A;Sport Series;Mini;Mini Plug & Play;Gen 1;MIN;2015-2026;47x72x29;3pi11x6pi0x29po;119x183x74;1194x1829x737
+Watkins Wellness (Masco);Freeflow Spas;Spa Portable;N/A;Sport Series;Monterey;Monterey 7-Seat Monocoque;Gen 2;MON;2016-2026;77x87x34;6pi5x7pi3x34po;196x221x86;1956x2210x864
+Watkins Wellness (Masco);Lifesmart Spas;Spa Portable;N/A;Plug & Play;LS100;LS100 4-Person 115V;Gen 1;LS100;2012-2026;61x70x32;5pi1x5pi10x32po;155x178x81;1549x1778x813
+Watkins Wellness (Masco);Lifesmart Spas;Spa Portable;N/A;Plug & Play;LS200;LS200 Round;Gen 1;LS200;2012-2026;76x76x34;6pi4x6pi4x34po;193x193x86;1930x1930x864
+Watkins Wellness (Masco);Lifesmart Spas;Spa Portable;N/A;Plug & Play;LS300;LS300 Plus Corner;Gen 1;LS300;2013-2026;72x72x31;6pi0x6pi0x31po;183x183x79;1829x1829x787
+Watkins Wellness (Masco);Lifesmart Spas;Spa Portable;N/A;Plug & Play;LS350;LS350 5-Person;Gen 1;LS350;2014-2026;81x72x34;6pi9x6pi0x34po;206x183x86;2057x1829x864
+Watkins Wellness (Masco);Lifesmart Spas;Spa Portable;N/A;230V Heavy Duty;LS450;LS450DX 7-Person Standard;Gen 1;LS450DX-G1;2014-2019;81x81x34;6pi9x6pi9x34po;206x206x86;2057x2057x864
+Watkins Wellness (Masco);Lifesmart Spas;Spa Portable;N/A;230V Heavy Duty;LS450;LS450DX 7-Person Ozonateur Deluxe;Gen 2;LS450DX-G2;2020-2026;81x81x34;6pi9x6pi9x34po;206x206x86;2057x2057x864
+Watkins Wellness (Masco);Lifesmart Spas;Spa Portable;N/A;230V Heavy Duty;LS550;LS550 Plus Lounge Standard;Gen 1;LS550-G1;2015-2019;81x81x34;6pi9x6pi9x34po;206x206x86;2057x2057x864
+Watkins Wellness (Masco);Lifesmart Spas;Spa Portable;N/A;230V Heavy Duty;LS550;LS550 Plus Lounge Ozonateur Deluxe;Gen 2;LS550-G2;2020-2026;81x81x34;6pi9x6pi9x34po;206x206x86;2057x2057x864
+Watkins Wellness (Masco);Lifesmart Spas;Spa Portable;N/A;230V Heavy Duty;LS600;LS600DX Turbo Standard;Gen 1;LS600DX-G1;2015-2019;81x81x34;6pi9x6pi9x34po;206x206x86;2057x2057x864
+Watkins Wellness (Masco);Lifesmart Spas;Spa Portable;N/A;230V Heavy Duty;LS600;LS600DX Turbo Ozonateur Deluxe;Gen 2;LS600DX-G2;2020-2026;81x81x34;6pi9x6pi9x34po;206x206x86;2057x2057x864
+Watkins Wellness (Masco);Lifesmart Spas;Spa Portable;N/A;230V Heavy Duty;LS700;LS700DX 90-Jet Dual Pump;Gen 2;LS700DX;2018-2026;85x85x34;7pi1x7pi1x34po;216x216x86;2159x2159x864
+Watkins Wellness (Masco);Lifesmart Spas;Spa Portable;N/A;Retail Series;Leganza;Leganza 90-Jet Lounger;Gen 1;LGZ;2018-2026;85x85x34;7pi1x7pi1x34po;216x216x86;2159x2159x864
+Watkins Wellness (Masco);Lifesmart Spas;Spa Portable;N/A;Retail Series;Coronado;Coronado 65-Jet;Gen 1;CRN;2017-2026;81x81x34;6pi9x6pi9x34po;206x206x86;2057x2057x864
+Watkins Wellness (Masco);Tiger River Spas;Spa Portable;N/A;Historic Line;Siberian;Siberian Lounger;Gen 1;SIB;2005-2010;91x91x36;7pi7x7pi7x36po;231x231x91;2311x2311x914
+Watkins Wellness (Masco);Tiger River Spas;Spa Portable;N/A;Historic Line;Bengal;Bengal Open;Gen 1;BEN;2005-2010;79x79x33;6pi7x6pi7x33po;201x201x84;2007x2007x838
+Watkins Wellness (Masco);Solana Spas;Spa Portable;N/A;Compact Line;TX;Solana TX Corner;Gen 1;STX;2005-2011;68x68x29;5pi8x5pi8x29po;173x173x74;1727x1727x737
+Watkins Wellness (Masco);Solana Spas;Spa Portable;N/A;Compact Line;SX;Solana SX Square;Gen 1;SSX;2005-2011;72x72x33;6pi0x6pi0x33po;183x183x84;1829x1829x838
+The Spa People (Monomoy);Clearwater Spas;Spa Portable;N/A;Northwest Series;Fairwood;Fairwood Ultra Lounge EcoSpray;Gen 1;FWD-G1;2012-2018;92.5x92.5x38;7pi8.5x7pi8.5x38po;235x235x97;2350x2350x965
+The Spa People (Monomoy);Clearwater Spas;Spa Portable;N/A;Northwest Series;Fairwood;Fairwood Ultra Lounge CleanLight;Gen 2;FWD-G2;2019-2026;92.5x92.5x38;7pi8.5x7pi8.5x38po;235x235x97;2350x2350x965
+The Spa People (Monomoy);Clearwater Spas;Spa Portable;N/A;Northwest Series;Broadmoor;Broadmoor Open CleanLight;Gen 2;BMD-G2;2019-2026;92.5x92.5x38;7pi8.5x7pi8.5x38po;235x235x97;2350x2350x965
+The Spa People (Monomoy);Clearwater Spas;Spa de Nage;Single Zone (Single Temp);Swim Spas;Swim 16;16ft Bassin de Nage et Detente;Gen 1;CW-SWIM16;2018-2026;90x192x51;7pi6x16pi0x51po;229x488x130;2286x4877x1295
+The Spa People (Monomoy);Clearwater Spas;Spa de Nage;Dual Zone (Dual Temp);Swim Spas;Swim 19 Dual Temp;19ft Double Temperature Hydrotherapie;Gen 1;CW-SWIM19;2019-2026;90x228x51;7pi6x19pi0x51po;229x579x130;2286x5791x1295
+MAAX Spas (Brookfield);L.A. Spas;Spa Portable;N/A;Premium Plus;Concord;Concord Lounger;Gen 1;LAS-CCD;2005-2014;92x92x35;7pi8x7pi8x35po;234x234x89;2337x2337x889
+MAAX Spas (Brookfield);L.A. Spas;Spa de Nage;Single Zone (Single Temp);In-Fit Series;In-Fit 16;16ft Nage Contre-Courant Classic;Gen 1;LAS-INF16;2006-2014;90x192x53;7pi6x16pi0x53po;229x488x135;2286x4877x1346
+MAAX Spas (Brookfield);L.A. Spas;Spa de Nage;Single Zone (Single Temp);In-Fit Series;In-Fit 14;14ft Nage Compacte Classic;Gen 1;LAS-INF14;2006-2014;90x168x53;7pi6x14pi0x53po;229x427x135;2286x4267x1346
+MAAX Spas (Brookfield);L.A. Spas;Spa de Nage;Dual Zone (Dual Temp);In-Fit Series;In-Fit Dual Temp;18ft Double Zone Separateur Etanche;Gen 1;LAS-INFDT;2008-2014;90x216x53;7pi6x18pi0x53po;229x549x135;2286x5486x1346
+Groupe Lumi-O;InnovaSpa;Spa Portable;N/A;Rotomoule QC;Storm;Storm 110V Monobloc Basique;Monocoque Gen 1;INN-STM-G1;2010-2017;72x84x34;6pi0x7pi0x34po;183x213x86;1829x2134x864
+Groupe Lumi-O;InnovaSpa;Spa Portable;N/A;Rotomoule QC;Storm;Storm 110V/230V Gecko in.ye LED;Monocoque Gen 2;INN-STM-G2;2018-2026;72x84x34;6pi0x7pi0x34po;183x213x86;1829x2134x864
+Groupe Lumi-O;InnovaSpa;Spa Portable;N/A;Rotomoule QC;Urbania;Urbania Open Multi Monobloc;Monocoque Gen 1;INN-URB-G1;2012-2017;80x80x34;6pi8x6pi8x34po;203x203x86;2032x2032x864
+Groupe Lumi-O;InnovaSpa;Spa Portable;N/A;Rotomoule QC;Urbania;Urbania Gecko in.ye Double Isolation;Monocoque Gen 2;INN-URB-G2;2018-2026;80x80x34;6pi8x6pi8x34po;203x203x86;2032x2032x864
+Groupe Lumi-O;InnovaSpa;Spa Portable;N/A;Rotomoule QC;Spa-O;Spa-O Ronde Monobloc 110V;Monocoque Gen 1;INN-SPO-G1;2008-2017;80x80x34;6pi8x6pi8x34po;203x203x86;2032x2032x864
+Groupe Lumi-O;InnovaSpa;Spa Portable;N/A;Rotomoule QC;Spa-O;Spa-O Ronde Monocoque Gecko in.ye;Monocoque Gen 2;INN-SPO-G2;2018-2026;80x80x34;6pi8x6pi8x34po;203x203x86;2032x2032x864
+Canadian Spa Company;Canadian Spa Co;Spa Portable;N/A;Deluxe Line;Toronto;Toronto Lounger Balboa GS;Gen 1;CSC-TOR-G1;2010-2017;84x84x34;7pi0x7pi0x34po;213x213x86;2134x2134x864
+Canadian Spa Company;Canadian Spa Co;Spa Portable;N/A;Deluxe Line;Toronto;Toronto Lounger Balboa BP Glacier;Gen 2;CSC-TOR-G2;2018-2026;84x84x34;7pi0x7pi0x34po;213x213x86;2134x2134x864
+Canadian Spa Company;Canadian Spa Co;Spa Portable;N/A;Deluxe Line;Winnipeg;Winnipeg Open Balboa GS;Gen 1;CSC-WPG-G1;2010-2017;79x79x32;6pi7x6pi7x32po;201x201x81;2007x2007x813
+Canadian Spa Company;Canadian Spa Co;Spa Portable;N/A;Deluxe Line;Winnipeg;Winnipeg Open Balboa BP Glacier;Gen 2;CSC-WPG-G2;2018-2026;79x79x32;6pi7x6pi7x32po;201x201x81;2007x2007x813
+Canadian Spa Company;Canadian Spa Co;Spa de Nage;Dual Zone (Dual Temp);St. Lawrence;St. Lawrence 20ft;20ft Dual Temp Double Zone Balboa GS;Gen 1;CSC-STL20-G1;2012-2017;90x238x54;7pi6x19pi10x54po;229x605x137;2286x6045x1372
+Canadian Spa Company;Canadian Spa Co;Spa de Nage;Dual Zone (Dual Temp);St. Lawrence;St. Lawrence 20ft;20ft Dual Temp Balboa BP Glacier;Gen 2;CSC-STL20-G2;2018-2026;90x238x54;7pi6x19pi10x54po;229x605x137;2286x6045x1372
+Canadian Spa Company;Canadian Spa Co;Spa de Nage;Single Zone (Single Temp);St. Lawrence;St. Lawrence 16ft;16ft Nage Contre-Courant Balboa GS;Gen 1;CSC-STL16-G1;2012-2017;90x198x54;7pi6x16pi6x54po;229x503x137;2286x5029x1372
+Canadian Spa Company;Canadian Spa Co;Spa de Nage;Single Zone (Single Temp);St. Lawrence;St. Lawrence 16ft;16ft Nage Contre-Courant Balboa BP;Gen 2;CSC-STL16-G2;2018-2026;90x198x54;7pi6x16pi6x54po;229x503x137;2286x5029x1372
+Canadian Spa Company;Canadian Spa Co;Spa de Nage;Single Zone (Single Temp);St. Lawrence;St. Lawrence 13ft;13ft Nage Compacte Balboa GS;Gen 1;CSC-STL13-G1;2012-2017;90x154x54;7pi6x12pi10x54po;229x391x137;2286x3912x1372
+Canadian Spa Company;Canadian Spa Co;Spa de Nage;Single Zone (Single Temp);St. Lawrence;St. Lawrence 13ft;13ft Nage Compacte Balboa BP;Gen 2;CSC-STL13-G2;2018-2026;90x154x54;7pi6x12pi10x54po;229x391x137;2286x3912x1372
+Westshore Capital;Nordic Hot Tubs;Spa Portable;N/A;Classic Series;Sport Edition;Sport Round DTS Classic;Classic Gen 1;NOR-SPT-G1;2005-2015;78x78x35;6pi6x6pi6x35po;198x198x89;1981x1981x889
+Westshore Capital;Nordic Hot Tubs;Spa Portable;N/A;Classic Series;Sport Edition;Sport Round DTS Star Modern;Classic Gen 2;NOR-SPT-G2;2016-2026;78x78x35;6pi6x6pi6x35po;198x198x89;1981x1981x889
+Westshore Capital;Nordic Hot Tubs;Spa Portable;N/A;Classic Series;Impulse;Impulse Round Entry Classic;Classic Gen 1;NOR-IMP-G1;2005-2015;78x78x31;6pi6x6pi6x31po;198x198x79;1981x1981x787
+Westshore Capital;Nordic Hot Tubs;Spa Portable;N/A;Classic Series;Impulse;Impulse Round Entry Modern;Classic Gen 2;NOR-IMP-G2;2016-2026;78x78x31;6pi6x6pi6x31po;198x198x79;1981x1981x787
+Viking Products;Viking Spas;Spa Portable;N/A;Viking Series;Viking I;Viking I Round 110V;Soft-Touch Gen 1;VIK-I;2005-2026;72x72x34;6pi0x6pi0x34po;183x183x86;1829x1829x864
+Viking Products;Viking Spas;Spa Portable;N/A;Royale / Aurora;Royale;Royale Open Seating Classic;Soft-Touch Gen 1;VIK-ROY-G1;2005-2015;78x78x34;6pi6x6pi6x34po;198x198x86;1981x1981x864
+Viking Products;Viking Spas;Spa Portable;N/A;Royale / Aurora;Royale;Royale Open Kingwood Redesign;Soft-Touch Gen 2;VIK-ROY-G2;2016-2026;78x78x34;6pi6x6pi6x34po;198x198x86;1981x1981x864
+USSPA sro;USSPA;Spa de Nage;Single Zone (Single Temp);Swim Line;XL Swim Spa;18ft Buses XL Nage Sportive Standard;Gen 1;US-XL-G1;2005-2015;98.4x216.5x52.8;8pi2.4x18pi0.5x52.8po;250x550x134;2499x5499x1341
+USSPA sro;USSPA;Spa de Nage;Single Zone (Single Temp);Swim Line;XL Swim Spa;18ft Buses XL Volet Motorise ACS Touch;Gen 2;US-XL-G2;2016-2026;98.4x216.5x52.8;8pi2.4x18pi0.5x52.8po;250x550x134;2499x5499x1341
+USSPA sro;USSPA;Spa de Nage;Single Zone (Single Temp);Swim Line;Classic Swim Spa;15ft Nage Familiale Standard;Gen 1;US-CLA-G1;2005-2015;93.7x177.2x48.8;7pi9.7x14pi9.2x48.8po;238x450x124;2380x4501x1240
+USSPA sro;USSPA;Spa de Nage;Single Zone (Single Temp);Swim Line;Classic Swim Spa;15ft Nage Familiale Volet ACS Touch;Gen 2;US-CLA-G2;2016-2026;93.7x177.2x48.8;7pi9.7x14pi9.2x48.8po;238x450x124;2380x4501x1240
+USSPA sro;USSPA;Spa de Nage;Single Zone (Single Temp);Swim Line;iN Swim Spa Lounge;17ft Design Contemporain Minimaliste;Gen 1;US-IN-SWIM;2018-2026;94.5x208.7x52.4;7pi10.5x17pi4.7x52.4po;240x530x133;2400x5301x1331
+Emerald Spa Corp;Emerald Spas;Spa Portable;N/A;Estate Series;Manor;Manor Flagship;Gen 1;EM-MNR;2005-2014;90x90x37;7pi6x7pi6x37po;229x229x94;2286x2286x940
+Emerald Spa Corp;Emerald Spas;Spa Portable;N/A;Estate Series;Castle;Castle Open Large;Gen 1;EM-CST;2005-2014;85x85x36;7pi1x7pi1x36po;216x216x91;2159x2159x914
+Emerald Spa Corp;Great Lakes Spas;Spa Portable;N/A;GL Series;GL8;GL8 Lounger;Gen 1;GL8;2005-2014;88x88x36;7pi4x7pi4x36po;224x224x91;2235x2235x914
+Emerald Spa Corp;Great Lakes Spas;Spa Portable;N/A;GL Series;GL7;GL7 Open;Gen 1;GL7;2005-2014;84x84x36;7pi0x7pi0x36po;213x213x91;2134x2134x914
+Aber Manufacturing;Pacific Spas;Spa Portable;N/A;Coastal Series;Seabreeze;Seabreeze Lounger;Gen 1;PAC-SBZ;2005-2011;84x84x36;7pi0x7pi0x36po;213x213x91;2134x2134x914
+Aber Manufacturing;Pacific Spas;Spa Portable;N/A;Coastal Series;Oasis;Oasis Open Seating;Gen 1;PAC-OAS;2005-2011;89x89x36;7pi5x7pi5x36po;226x226x91;2261x2261x914

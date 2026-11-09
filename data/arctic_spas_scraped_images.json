@@ -1,0 +1,329 @@
+{
+  "arctic-fox": {
+    "product_page": "https://www.arcticspas.com/hot-tubs/arctic-fox/",
+    "top_image": "https://www.arcticspas.com/wp-content/uploads/ARCTIC-FOX-30-Platinium-visao-400-300x300-2.png",
+    "all_candidates": [
+      "https://www.arcticspas.com/wp-content/uploads/ARCTIC-FOX-15-Platinium-visao-400-300x300-1-150x150.png",
+      "https://www.arcticspas.com/wp-content/uploads/ARCTIC-FOX-30-Platinium-visao-400-300x300-2-300x300.png",
+      "https://www.arcticspas.com/wp-content/uploads/ARCTIC-FOX-15-Platinium-visao-400-300x300-1-300x300.png",
+      "https://www.arcticspas.com/wp-content/uploads/ARCTIC-FOX-15-Platinium-visao-400-300x300-1.png",
+      "https://www.arcticspas.com/wp-content/uploads/ARCTIC-FOX-30-Platinium-visao-400-300x300-2.png",
+      "https://www.arcticspas.com/wp-content/uploads/ARCTIC-FOX-30-Platinium-visao-400-300x300-2-150x150.png"
+    ]
+  },
+  "aurora": {
+    "product_page": "https://www.arcticspas.com/hot-tubs/aurora/",
+    "top_image": "https://www.arcticspas.com/wp-content/uploads/AURORA-20-Platinium-visao-400-300x300-2.png",
+    "all_candidates": [
+      "https://www.arcticspas.com/wp-content/uploads/AURORA-20-Platinium-visao-400-300x300-2-300x300.png",
+      "https://www.arcticspas.com/wp-content/uploads/AURORA-20-Platinium-visao-400-300x300-2.png",
+      "https://www.arcticspas.com/wp-content/uploads/AURORA-20-Platinium-visao-400-300x300-2-150x150.png"
+    ]
+  },
+  "cub": {
+    "product_page": "https://www.arcticspas.com/hot-tubs/cub/",
+    "top_image": "https://www.arcticspas.com/wp-content/uploads/CUB-40-SDS-Platinium-visao-400-300x300-2.png",
+    "all_candidates": [
+      "https://www.arcticspas.com/wp-content/uploads/CUB-40-SDS-Platinium-visao-400-300x300-2.png",
+      "https://www.arcticspas.com/wp-content/uploads/CUB-20-Platinium-visao-400-300x300-1-150x150.png",
+      "https://www.arcticspas.com/wp-content/uploads/CUB-20-Platinium-visao-400-300x300-1.png",
+      "https://www.arcticspas.com/wp-content/uploads/CUB-40-SDS-Platinium-visao-400-300x300-2-150x150.png",
+      "https://www.arcticspas.com/wp-content/uploads/CUB-40-Platinium-visao-400-300x300-1-300x300.png",
+      "https://www.arcticspas.com/wp-content/uploads/CUB-40-SDS-Platinium-visao-400-300x300-2-300x300.png",
+      "https://www.arcticspas.com/wp-content/uploads/CUB-40-Platinium-visao-400-300x300-1-150x150.png",
+      "https://www.arcticspas.com/wp-content/uploads/CUB-20-Platinium-visao-400-300x300-1-300x300.png",
+      "https://www.arcticspas.com/wp-content/uploads/CUB-40-Platinium-visao-400-300x300-1.png"
+    ]
+  },
+  "eagle": {
+    "product_page": "https://www.arcticspas.com/hot-tubs/eagle/",
+    "top_image": "https://www.arcticspas.com/wp-content/uploads/EAGLE-40-Platinium-visao-400-300x300-2.png",
+    "all_candidates": [
+      "https://www.arcticspas.com/wp-content/uploads/EAGLE-40-Platinium-visao-400-300x300-2.png",
+      "https://www.arcticspas.com/wp-content/uploads/EAGLE-20-Platinium-visao-400-300x300-1-150x150.png",
+      "https://www.arcticspas.com/wp-content/uploads/EAGLE-20-Platinium-visao-400-300x300-1.png",
+      "https://www.arcticspas.com/wp-content/uploads/EAGLE-40-Platinium-visao-400-300x300-2-300x300.png",
+      "https://www.arcticspas.com/wp-content/uploads/EAGLE-40-Platinium-visao-400-300x300-2-150x150.png",
+      "https://www.arcticspas.com/wp-content/uploads/EAGLE-20-Platinium-visao-400-300x300-1-300x300.png"
+    ]
+  },
+  "totem": {
+    "product_page": "https://www.arcticspas.com/hot-tubs/totem/",
+    "top_image": "https://www.arcticspas.com/wp-content/uploads/TOTEM-40-Platinium-visao-400-300x300-2.png",
+    "all_candidates": [
+      "https://www.arcticspas.com/wp-content/uploads/TOTEM-20-Platinium-visao-400-300x300-1-150x150.png",
+      "https://www.arcticspas.com/wp-content/uploads/TOTEM-20-Platinium-visao-400-300x300-1-300x300.png",
+      "https://www.arcticspas.com/wp-content/uploads/TOTEM-20-Platinium-visao-400-300x300-1.png",
+      "https://www.arcticspas.com/wp-content/uploads/TOTEM-40-Platinium-visao-400-300x300-2.png",
+      "https://www.arcticspas.com/wp-content/uploads/TOTEM-40-Platinium-visao-400-300x300-2-300x300.png",
+      "https://www.arcticspas.com/wp-content/uploads/TOTEM-40-Platinium-visao-400-300x300-2-150x150.png"
+    ]
+  },
+  "yukon": {
+    "product_page": "https://www.arcticspas.com/hot-tubs/yukon/",
+    "top_image": "https://www.arcticspas.com/wp-content/uploads/YUKON-40-SDS-Platinium-visao-400-300x300-2.png",
+    "all_candidates": [
+      "https://www.arcticspas.com/wp-content/uploads/YUKON-20-Platinium-visao-400-300x300-1-150x150.png",
+      "https://www.arcticspas.com/wp-content/uploads/YUKON-20-Platinium-visao-400-300x300-1.png",
+      "https://www.arcticspas.com/wp-content/uploads/YUKON-40-SDS-Platinium-visao-400-300x300-2.png",
+      "https://www.arcticspas.com/wp-content/uploads/YUKON-40-Platinium-visao-400-300x300-1-300x300.png",
+      "https://www.arcticspas.com/wp-content/uploads/YUKON-40-SDS-Platinium-visao-400-300x300-2-300x300.png",
+      "https://www.arcticspas.com/wp-content/uploads/YUKON-40-Platinium-visao-400-300x300-1-150x150.png",
+      "https://www.arcticspas.com/wp-content/uploads/YUKON-40-Platinium-visao-400-300x300-1.png",
+      "https://www.arcticspas.com/wp-content/uploads/YUKON-40-SDS-Platinium-visao-400-300x300-2-150x150.png",
+      "https://www.arcticspas.com/wp-content/uploads/YUKON-20-Platinium-visao-400-300x300-1-300x300.png"
+    ]
+  },
+  "ellesmere": {
+    "product_page": "https://www.arcticspas.com/hot-tubs/ellesmere/",
+    "top_image": "https://www.arcticspas.com/wp-content/uploads/ELLESMERE-20-Platinium-visao-400-300x300-2.png",
+    "all_candidates": [
+      "https://www.arcticspas.com/wp-content/uploads/ELLESMERE-20-Platinium-visao-400-300x300-2-150x150.png",
+      "https://www.arcticspas.com/wp-content/uploads/ELLESMERE-20-Platinium-visao-400-300x300-2.png",
+      "https://www.arcticspas.com/wp-content/uploads/ELLESMERE-20-Platinium-visao-400-300x300-2-300x300.png"
+    ]
+  },
+  "grizzly": {
+    "product_page": "https://www.arcticspas.com/hot-tubs/grizzly/",
+    "top_image": "https://www.arcticspas.com/wp-content/uploads/GRIZZLY-40-Platinium-visao-400-300x300-3.png",
+    "all_candidates": [
+      "https://www.arcticspas.com/wp-content/uploads/GRIZZLY-40-Platinium-visao-400-300x300-3.png",
+      "https://www.arcticspas.com/wp-content/uploads/GRIZZLY-40-Platinium-visao-400-300x300-3-300x300.png",
+      "https://www.arcticspas.com/wp-content/uploads/GRIZZLY-40-Platinium-visao-400-300x300-3-150x150.png"
+    ]
+  },
+  "orca": {
+    "product_page": "https://www.arcticspas.com/hot-tubs/orca/",
+    "top_image": "https://www.arcticspas.com/wp-content/uploads/ORCA-40-Platinium-visao-400-300x300-2.png",
+    "all_candidates": [
+      "https://www.arcticspas.com/wp-content/uploads/ORCA-40-Platinium-visao-400-300x300-2-150x150.png",
+      "https://www.arcticspas.com/wp-content/uploads/ORCA-40-Platinium-visao-400-300x300-2-300x300.png",
+      "https://www.arcticspas.com/wp-content/uploads/ORCA-40-Platinium-visao-400-300x300-2.png"
+    ]
+  },
+  "husky": {
+    "product_page": "https://www.arcticspas.com/hot-tubs/husky/",
+    "top_image": "https://www.arcticspas.com/wp-content/uploads/HUSKY-20-Platinium-visao-400-300x300-2.png",
+    "all_candidates": [
+      "https://www.arcticspas.com/wp-content/uploads/HUSKY-20-Platinium-visao-400-300x300-2.png",
+      "https://www.arcticspas.com/wp-content/uploads/HUSKY-20-Platinium-visao-400-300x300-2-150x150.png",
+      "https://www.arcticspas.com/wp-content/uploads/HUSKY-20-Platinium-visao-400-300x300-2-300x300.png"
+    ]
+  },
+  "klondiker": {
+    "product_page": "https://www.arcticspas.com/hot-tubs/klondiker/",
+    "top_image": "https://www.arcticspas.com/wp-content/uploads/KLONDIKER-60-Platinium-visao-400-300x300-1.png",
+    "all_candidates": [
+      "https://www.arcticspas.com/wp-content/uploads/KLONDIKER-60-Platinium-visao-400-300x300-1-150x150.png",
+      "https://www.arcticspas.com/wp-content/uploads/KLONDIKER-40-3Pumps-Platinium-visao-400-300x300-1-300x300.png",
+      "https://www.arcticspas.com/wp-content/uploads/KLONDIKER-40-3Pumps-Platinium-visao-400-300x300-1.png",
+      "https://www.arcticspas.com/wp-content/uploads/KLONDIKER-60-Platinium-visao-400-300x300-1-300x300.png",
+      "https://www.arcticspas.com/wp-content/uploads/KLONDIKER-20-Platinium-visao-400-300x300-1.png",
+      "https://www.arcticspas.com/wp-content/uploads/KLONDIKER-60-Platinium-visao-400-300x300-1.png",
+      "https://www.arcticspas.com/wp-content/uploads/KLONDIKER-20-Platinium-visao-400-300x300-1-300x300.png",
+      "https://www.arcticspas.com/wp-content/uploads/KLONDIKER-40-2Pumps-Platinium-visao-400-300x300-1.png",
+      "https://www.arcticspas.com/wp-content/uploads/KLONDIKER-40-2Pumps-Platinium-visao-400-300x300-1-150x150.png",
+      "https://www.arcticspas.com/wp-content/uploads/KLONDIKER-40-3Pumps-Platinium-visao-400-300x300-1-150x150.png",
+      "https://www.arcticspas.com/wp-content/uploads/KLONDIKER-20-Platinium-visao-400-300x300-1-150x150.png",
+      "https://www.arcticspas.com/wp-content/uploads/KLONDIKER-40-2Pumps-Platinium-visao-400-300x300-1-300x300.png"
+    ]
+  },
+  "kodiak": {
+    "product_page": "https://www.arcticspas.com/hot-tubs/kodiak/",
+    "top_image": "https://www.arcticspas.com/wp-content/uploads/KODIAK-60-Platinium-visao-400-300x300-1.png",
+    "all_candidates": [
+      "https://www.arcticspas.com/wp-content/uploads/KODIAK-40-3Pumps-Platinium-visao-400-300x300-1.png",
+      "https://www.arcticspas.com/wp-content/uploads/KODIAK-20-Platinium-visao-400-300x300-1-150x150.png",
+      "https://www.arcticspas.com/wp-content/uploads/KODIAK-40-2Pumps-Platinium-visao-400-300x300-1-300x300.png",
+      "https://www.arcticspas.com/wp-content/uploads/KODIAK-40-2Pumps-Platinium-visao-400-300x300-1-150x150.png",
+      "https://www.arcticspas.com/wp-content/uploads/KODIAK-40-2Pumps-Platinium-visao-400-300x300-1.png",
+      "https://www.arcticspas.com/wp-content/uploads/KODIAK-20-Platinium-visao-400-300x300-1.png",
+      "https://www.arcticspas.com/wp-content/uploads/KODIAK-60-Platinium-visao-400-300x300-1-300x300.png",
+      "https://www.arcticspas.com/wp-content/uploads/KODIAK-60-Platinium-visao-400-300x300-1-150x150.png",
+      "https://www.arcticspas.com/wp-content/uploads/KODIAK-60-Platinium-visao-400-300x300-1.png",
+      "https://www.arcticspas.com/wp-content/uploads/KODIAK-40-3Pumps-Platinium-visao-400-300x300-1-150x150.png",
+      "https://www.arcticspas.com/wp-content/uploads/KODIAK-20-Platinium-visao-400-300x300-1-300x300.png",
+      "https://www.arcticspas.com/wp-content/uploads/KODIAK-40-3Pumps-Platinium-visao-400-300x300-1-300x300.png"
+    ]
+  },
+  "mckinley": {
+    "product_page": "https://www.arcticspas.com/hot-tubs/mckinley/",
+    "top_image": "https://www.arcticspas.com/wp-content/uploads/MCKINLEY-40-Platinium-visao-400-300x300-2.png",
+    "all_candidates": [
+      "https://www.arcticspas.com/wp-content/uploads/MCKINLEY-40-Platinium-visao-400-300x300-2.png",
+      "https://www.arcticspas.com/wp-content/uploads/MCKINLEY-40-Platinium-visao-400-300x300-2-300x300.png",
+      "https://www.arcticspas.com/wp-content/uploads/MCKINLEY-20-Platinium-visao-400-300x300-1-150x150.png",
+      "https://www.arcticspas.com/wp-content/uploads/MCKINLEY-20-Platinium-visao-400-300x300-1-300x300.png",
+      "https://www.arcticspas.com/wp-content/uploads/MCKINLEY-20-Platinium-visao-400-300x300-1.png",
+      "https://www.arcticspas.com/wp-content/uploads/MCKINLEY-40-Platinium-visao-400-300x300-2-150x150.png"
+    ]
+  },
+  "mustang": {
+    "product_page": "https://www.arcticspas.com/hot-tubs/mustang/",
+    "top_image": "https://www.arcticspas.com/wp-content/uploads/MUSTANG-40-Platinium-visao-400-300x300-3.png",
+    "all_candidates": [
+      "https://www.arcticspas.com/wp-content/uploads/MUSTANG-40-Platinium-visao-400-300x300-3-150x150.png",
+      "https://www.arcticspas.com/wp-content/uploads/MUSTANG-20-Platinium-visao-400-300x300-1-300x300.png",
+      "https://www.arcticspas.com/wp-content/uploads/MUSTANG-40-Platinium-visao-400-300x300-3.png",
+      "https://www.arcticspas.com/wp-content/uploads/MUSTANG-40-Platinium-visao-400-300x300-3-300x300.png",
+      "https://www.arcticspas.com/wp-content/uploads/MUSTANG-20-Platinium-visao-400-300x300-1.png",
+      "https://www.arcticspas.com/wp-content/uploads/MUSTANG-20-Platinium-visao-400-300x300-1-150x150.png"
+    ]
+  },
+  "summit": {
+    "product_page": "https://www.arcticspas.com/hot-tubs/summit/",
+    "top_image": "https://www.example.com/images/summit-top.jpg",
+    "all_candidates": [
+      "https://www.arcticspas.com/wp-content/uploads/SUMMIT-60-Platinium-visao-400-300x300-1-300x300.png",
+      "https://www.arcticspas.com/wp-content/uploads/SUMMIT-40-3pump-Platinium-visao-400-300x300-1-150x150.png",
+      "https://www.arcticspas.com/wp-content/uploads/SUMMIT-40-2pump-Platinium-visao-400-300x300-1-300x300.png",
+      "https://www.arcticspas.com/wp-content/uploads/SUMMIT-40-3pump-Platinium-visao-400-300x300-1-300x300.png",
+      "https://www.arcticspas.com/wp-content/uploads/SUMMIT-40-2pump-Platinium-visao-400-300x300-1.png",
+      "https://www.arcticspas.com/wp-content/uploads/SUMMIT-20-Platinium-visao-400-300x300-1-150x150.png",
+      "https://www.arcticspas.com/wp-content/uploads/SUMMIT-40-2pump-Platinium-visao-400-300x300-1-150x150.png",
+      "https://www.arcticspas.com/wp-content/uploads/SUMMIT-60-Platinium-visao-400-300x300-1-150x150.png",
+      "https://www.arcticspas.com/wp-content/uploads/SUMMIT-20-Platinium-visao-400-300x300-1.png",
+      "https://www.arcticspas.com/wp-content/uploads/SUMMIT-20-Platinium-visao-400-300x300-1-300x300.png",
+      "https://www.arcticspas.com/wp-content/uploads/SUMMIT-60-Platinium-visao-400-300x300-1.png",
+      "https://www.arcticspas.com/wp-content/uploads/SUMMIT-40-3pump-Platinium-visao-400-300x300-1.png",
+      "https://www.example.com/images/summit-top.jpg"
+    ]
+  },
+  "summit-xl": {
+    "product_page": "https://www.arcticspas.com/hot-tubs/summit-xl/",
+    "top_image": "https://www.arcticspas.com/wp-content/uploads/SUMMIT-XL-60-Platinium-visao-400-300x300-1.png",
+    "all_candidates": [
+      "https://www.arcticspas.com/wp-content/uploads/SUMMIT-XL-60-Platinium-visao-400-300x300-1.png",
+      "https://www.arcticspas.com/wp-content/uploads/SUMMIT-XL-60-Platinium-visao-400-300x300-1-300x300.png",
+      "https://www.arcticspas.com/wp-content/uploads/SUMMIT-XL-20-Platinium-visao-400-300x300-1.png",
+      "https://www.arcticspas.com/wp-content/uploads/SUMMIT-XL-40-2pumps-Platinium-visao-400-300x300-1-300x300.png",
+      "https://www.arcticspas.com/wp-content/uploads/SUMMIT-XL-20-Platinium-visao-400-300x300-1-300x300.png",
+      "https://www.arcticspas.com/wp-content/uploads/SUMMIT-XL-20-Platinium-visao-400-300x300-1-150x150.png",
+      "https://www.arcticspas.com/wp-content/uploads/SUMMIT-XL-40-3pumps-Platinium-visao-400-300x300-1.png",
+      "https://www.arcticspas.com/wp-content/uploads/SUMMIT-XL-40-2pumps-Platinium-visao-400-300x300-1.png",
+      "https://www.arcticspas.com/wp-content/uploads/SUMMIT-XL-40-2pumps-Platinium-visao-400-300x300-1-150x150.png",
+      "https://www.arcticspas.com/wp-content/uploads/SUMMIT-XL-60-Platinium-visao-400-300x300-1-150x150.png",
+      "https://www.arcticspas.com/wp-content/uploads/SUMMIT-XL-40-3pumps-Platinium-visao-400-300x300-1-150x150.png",
+      "https://www.arcticspas.com/wp-content/uploads/SUMMIT-XL-40-3pumps-Platinium-visao-400-300x300-1-300x300.png"
+    ]
+  },
+  "tundra": {
+    "product_page": "https://www.arcticspas.com/hot-tubs/tundra/",
+    "top_image": "https://www.arcticspas.com/wp-content/uploads/TUNDRA-60-Platinium-visao-400-300x300-1.png",
+    "all_candidates": [
+      "https://www.arcticspas.com/wp-content/uploads/TUNDRA-60-Platinium-visao-400-300x300-1-300x300.png",
+      "https://www.arcticspas.com/wp-content/uploads/TUNDRA-40-2Pumps-Platinium-visao-400-300x300-1-300x300.png",
+      "https://www.arcticspas.com/wp-content/uploads/TUNDRA-20-Platinium-visao-400-300x300-1.png",
+      "https://www.arcticspas.com/wp-content/uploads/TUNDRA-60-Platinium-visao-400-300x300-1.png",
+      "https://www.arcticspas.com/wp-content/uploads/TUNDRA-20-Platinium-visao-400-300x300-1-300x300.png",
+      "https://www.arcticspas.com/wp-content/uploads/TUNDRA-60-Platinium-visao-400-300x300-1-150x150.png",
+      "https://www.arcticspas.com/wp-content/uploads/TUNDRA-40-3Pumps-Platinium-visao-400-300x300-1.png",
+      "https://www.arcticspas.com/wp-content/uploads/TUNDRA-40-2Pumps-Platinium-visao-400-300x300-1-150x150.png",
+      "https://www.arcticspas.com/wp-content/uploads/TUNDRA-40-2Pumps-Platinium-visao-400-300x300-1.png",
+      "https://www.arcticspas.com/wp-content/uploads/TUNDRA-40-3Pumps-Platinium-visao-400-300x300-1-150x150.png",
+      "https://www.arcticspas.com/wp-content/uploads/TUNDRA-40-3Pumps-Platinium-visao-400-300x300-1-300x300.png",
+      "https://www.arcticspas.com/wp-content/uploads/TUNDRA-20-Platinium-visao-400-300x300-1-150x150.png"
+    ]
+  },
+  "timberwolf": {
+    "product_page": "https://www.arcticspas.com/hot-tubs/timberwolf/",
+    "top_image": "https://www.arcticspas.com/wp-content/uploads/TIMBERWOLF-30-Platinium-visao-400-300x300-2.png",
+    "all_candidates": [
+      "https://www.arcticspas.com/wp-content/uploads/TIMBERWOLF-30-Platinium-visao-400-300x300-2.png",
+      "https://www.arcticspas.com/wp-content/uploads/TIMBERWOLF-30-Platinium-visao-400-300x300-2-150x150.png",
+      "https://www.arcticspas.com/wp-content/uploads/TIMBERWOLF-30-Platinium-visao-400-300x300-2-300x300.png",
+      "https://www.arcticspas.com/wp-content/uploads/TIMBERWOLF-15-Platinium-visao-400-300x300-1.png",
+      "https://www.arcticspas.com/wp-content/uploads/TIMBERWOLF-15-Platinium-visao-400-300x300-1-300x300.png",
+      "https://www.arcticspas.com/wp-content/uploads/TIMBERWOLF-15-Platinium-visao-400-300x300-1-150x150.png"
+    ]
+  },
+  "hudson": {
+    "product_page": "https://www.arcticspas.com/hot-tubs/hudson/",
+    "top_image": "https://www.arcticspas.com/wp-content/uploads/2021-arcticspas-awp-hudson-300x500-1-4.png",
+    "all_candidates": [
+      "https://www.arcticspas.com/wp-content/uploads/arctic-spas-awp-garden-ladies-1000-2-480x316.jpg",
+      "https://www.arcticspas.com/wp-content/uploads/arctic-spas-awp-garden-ladies-1000-2-980x645.jpg",
+      "https://www.arcticspas.com/wp-content/uploads/2021-arcticspas-awp-hudson-300x500-1-4.png",
+      "https://www.arcticspas.com/wp-content/uploads/arctic-spas-awp-garden-ladies-1000-2.jpg",
+      "https://www.arcticspas.com/wp-content/uploads/2021-arcticspas-awp-hudson-300x500-1-4-180x300.png"
+    ]
+  },
+  "kingfisher": {
+    "product_page": "https://www.arcticspas.com/hot-tubs/kingfisher/",
+    "top_image": "https://www.arcticspas.com/wp-content/uploads/arctic-spas-awp-garden-ladies-1000-3.jpg",
+    "all_candidates": [
+      "https://www.arcticspas.com/wp-content/uploads/arctic-spas-awp-garden-ladies-1000-3-980x645.jpg",
+      "https://www.arcticspas.com/wp-content/uploads/arctic-spas-awp-garden-ladies-1000-3.jpg",
+      "https://www.arcticspas.com/wp-content/uploads/arctic-spas-awp-garden-ladies-1000-3-480x316.jpg"
+    ]
+  },
+  "ocean": {
+    "product_page": "https://www.arcticspas.com/hot-tubs/ocean/",
+    "top_image": "https://www.arcticspas.com/wp-content/uploads/2021-arcticspas-awp-ocean-legend-select-500x300-vertical.png",
+    "all_candidates": [
+      "https://www.arcticspas.com/wp-content/uploads/2021-arcticspas-awp-ocean-signature-500x300-vertical-180x300.png",
+      "https://www.arcticspas.com/wp-content/uploads/2021-arcticspas-awp-ocean-prestige-500x300-vertical.png",
+      "https://www.arcticspas.com/wp-content/uploads/2021-arcticspas-awp-ocean-legend-select-500x300-vertical.png",
+      "https://www.arcticspas.com/wp-content/uploads/2021-arcticspas-awp-ocean-legend-500x300-vertical.png",
+      "https://www.arcticspas.com/wp-content/uploads/2021-arcticspas-awp-ocean-legend-500x300-vertical-186x300.png",
+      "https://www.arcticspas.com/wp-content/uploads/2021-arcticspas-awp-ocean-legend-select-500x300-vertical-180x300.png",
+      "https://www.arcticspas.com/wp-content/uploads/arctic-spas-awp-garden-ladies-1000-980x645.jpg",
+      "https://www.arcticspas.com/wp-content/uploads/arctic-spas-awp-garden-ladies-1000.jpg",
+      "https://www.arcticspas.com/wp-content/uploads/2021-arcticspas-awp-ocean-prestige-500x300-vertical-180x300.png",
+      "https://www.arcticspas.com/wp-content/uploads/arctic-spas-awp-garden-ladies-1000-480x316.jpg",
+      "https://www.arcticspas.com/wp-content/uploads/2021-arcticspas-awp-ocean-signature-500x300-vertical.png"
+    ]
+  },
+  "wolverine": {
+    "product_page": "https://www.arcticspas.com/hot-tubs/wolverine/",
+    "top_image": "https://www.arcticspas.com/wp-content/uploads/2021-arcticspas-awp-wolverine-300x500-1-4.png",
+    "all_candidates": [
+      "https://www.arcticspas.com/wp-content/uploads/arctic-spas-awp-garden-ladies-1000-2-480x316.jpg",
+      "https://www.arcticspas.com/wp-content/uploads/2021-arcticspas-awp-wolverine-300x500-1-4.png",
+      "https://www.arcticspas.com/wp-content/uploads/arctic-spas-awp-garden-ladies-1000-2-980x645.jpg",
+      "https://www.arcticspas.com/wp-content/uploads/arctic-spas-awp-garden-ladies-1000-2.jpg",
+      "https://www.arcticspas.com/wp-content/uploads/2021-arcticspas-awp-wolverine-300x500-1-4-180x300.png"
+    ]
+  },
+  "okanagan": {
+    "product_page": "https://www.arcticspas.com/all-weather-pools/okanagan/",
+    "top_image": "https://www.arcticspas.com/wp-content/uploads/2021-arcticspas-awp-okanagan-legend-500x300-vertical.png",
+    "all_candidates": [
+      "https://www.arcticspas.com/wp-content/uploads/2021-arcticspas-awp-okanagan-prestige-500x300-vertical-180x300.png",
+      "https://www.arcticspas.com/wp-content/uploads/arctic-spas-awp-garden-ladies-1000-1-480x316.jpg",
+      "https://www.arcticspas.com/wp-content/uploads/2021-arcticspas-awp-okanagan-legend-500x300-vertical-180x300.png",
+      "https://www.arcticspas.com/wp-content/uploads/2021-arcticspas-awp-okanagan-signature-500x300-vertical-180x300.png",
+      "https://www.arcticspas.com/wp-content/uploads/arctic-spas-awp-garden-ladies-1000-1-980x645.jpg",
+      "https://www.arcticspas.com/wp-content/uploads/2021-arcticspas-awp-okanagan-prestige-500x300-vertical.png",
+      "https://www.arcticspas.com/wp-content/uploads/2021-arcticspas-awp-okanagan-legend-500x300-vertical.png",
+      "https://www.arcticspas.com/wp-content/uploads/arctic-spas-awp-garden-ladies-1000-1.jpg",
+      "https://www.arcticspas.com/wp-content/uploads/2021-arcticspas-awp-okanagan-signature-500x300-vertical.png"
+    ]
+  },
+  "athabascan": {
+    "product_page": "https://www.arcticspas.com/all-weather-pools/athabascan/",
+    "top_image": "https://www.arcticspas.com/wp-content/uploads/arctic-spas-awp-garden-ladies-1000-3.jpg",
+    "all_candidates": [
+      "https://www.arcticspas.com/wp-content/uploads/arctic-spas-awp-garden-ladies-1000-3-980x645.jpg",
+      "https://www.arcticspas.com/wp-content/uploads/arctic-spas-awp-garden-ladies-1000-3.jpg",
+      "https://www.arcticspas.com/wp-content/uploads/arctic-spas-awp-garden-ladies-1000-3-480x316.jpg"
+    ]
+  },
+  "columbia": {
+    "product_page": "https://www.arcticspas.com/hot-tubs/columbia/",
+    "top_image": "https://www.arcticspas.com/wp-content/uploads/arcticspas-Columbia-Legend-Select-tier-top-view-500x905-2-2.png",
+    "all_candidates": [
+      "https://www.arcticspas.com/wp-content/uploads/arctic-spas-awp-garden-ladies-1000-4-980x645.jpg",
+      "https://www.arcticspas.com/wp-content/uploads/arctic-spas-awp-garden-ladies-1000-4.jpg",
+      "https://www.arcticspas.com/wp-content/uploads/arctic-spas-awp-garden-ladies-1000-4-480x316.jpg",
+      "https://www.arcticspas.com/wp-content/uploads/arcticspas-Columbia-Legend-tier-top-view-500x905-2-480x869.png",
+      "https://www.arcticspas.com/wp-content/uploads/arcticspas-Columbia-Prestige-tier-top-view-500x905-2-480x869.png",
+      "https://www.arcticspas.com/wp-content/uploads/arcticspas-Columbia-Legend-tier-top-view-500x905-2.png",
+      "https://www.arcticspas.com/wp-content/uploads/arcticspas-Columbia-Prestige-tier-top-view-500x905-2.png",
+      "https://www.arcticspas.com/wp-content/uploads/arcticspas-Columbia-Signature-tier-top-view-500x905-2.png",
+      "https://www.arcticspas.com/wp-content/uploads/arcticspas-Columbia-Legend-Select-tier-top-view-500x905-2-2.png",
+      "https://www.arcticspas.com/wp-content/uploads/arcticspas-Columbia-Signature-tier-top-view-500x905-2-480x869.png",
+      "https://www.arcticspas.com/wp-content/uploads/arcticspas-Columbia-Legend-Select-tier-top-view-500x905-2-2-480x869.png"
+    ]
+  }
+}

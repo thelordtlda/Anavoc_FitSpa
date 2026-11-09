@@ -1,0 +1,247 @@
+/* ==========================================================================
+   SpaFit Gazebo Configurator — Stylesheet (Scope Initial : Gamme spafit Oasis)
+   ========================================================================== */
+
+:root {
+  --bg-dark: #0b1120;
+  --bg-panel: #111827;
+  --bg-card: #1e293b;
+  --border-subtle: #334155;
+  --accent-blue: #38bdf8;
+  --accent-indigo: #6366f1;
+  --status-ok: #10b981;
+  --status-warn: #f59e0b;
+  --status-err: #ef4444;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: var(--bg-dark);
+  color: #f1f5f9;
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+}
+
+/* Fix lisibilité des menus déroulants <select> et <option> sous Windows */
+select {
+  background-color: #0f172a;
+  color: #f8fafc;
+  color-scheme: dark;
+}
+
+select option {
+  background-color: #0f172a !important;
+  color: #f8fafc !important;
+  padding: 8px 12px;
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #0f172a;
+}
+::-webkit-scrollbar-thumb {
+  background: #334155;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #475569;
+}
+
+/* Canvas containers */
+.canvas-wrapper {
+  position: relative;
+  background:
+    radial-gradient(circle at 50% 50%, rgba(30, 41, 59, 0.55) 0%, rgba(11, 17, 32, 0.95) 100%),
+    linear-gradient(to right, rgba(51, 65, 85, 0.16) 1px, transparent 1px),
+    linear-gradient(to bottom, rgba(51, 65, 85, 0.16) 1px, transparent 1px);
+  background-size: 100% 100%, 24px 24px, 24px 24px;
+  border: 1px solid #334155;
+  border-radius: 0.75rem;
+  overflow: hidden;
+  user-select: none;
+}
+
+.canvas-wrapper.drag-over {
+  border-color: #38bdf8;
+  box-shadow: 0 0 0 3px rgba(56, 189, 248, 0.25);
+}
+
+.canvas-wrapper.calibrating {
+  cursor: crosshair !important;
+  border-color: #f59e0b;
+  box-shadow: 0 0 0 2px rgba(245, 158, 11, 0.35);
+}
+
+/* Status Badges */
+.badge-status {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.375rem 0.875rem;
+  border-radius: 9999px;
+  font-weight: 700;
+  font-size: 0.78rem;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  transition: all 0.2s ease;
+}
+
+.badge-ok {
+  background: rgba(16, 185, 129, 0.15);
+  color: #34d399;
+  border: 1px solid rgba(16, 185, 129, 0.45);
+  box-shadow: 0 0 18px rgba(16, 185, 129, 0.15);
+}
+
+.badge-warn {
+  background: rgba(245, 158, 11, 0.15);
+  color: #fbbf24;
+  border: 1px solid rgba(245, 158, 11, 0.45);
+  box-shadow: 0 0 18px rgba(245, 158, 11, 0.15);
+}
+
+.badge-err {
+  background: rgba(239, 68, 68, 0.15);
+  color: #f87171;
+  border: 1px solid rgba(239, 68, 68, 0.45);
+  box-shadow: 0 0 18px rgba(239, 68, 68, 0.15);
+}
+
+/* Status Dot Pulse */
+.status-dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 9999px;
+  display: inline-block;
+}
+.badge-ok .status-dot {
+  background: #10b981;
+  box-shadow: 0 0 8px #10b981;
+}
+.badge-warn .status-dot {
+  background: #f59e0b;
+  box-shadow: 0 0 8px #f59e0b;
+}
+.badge-err .status-dot {
+  background: #ef4444;
+  box-shadow: 0 0 8px #ef4444;
+}
+
+/* Range Inputs */
+input[type="range"] {
+  -webkit-appearance: none;
+  appearance: none;
+  background: #1e293b;
+  height: 6px;
+  border-radius: 999px;
+  outline: none;
+}
+input[type="range"]::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  background: #38bdf8;
+  cursor: pointer;
+  border: 2px solid #0f172a;
+  box-shadow: 0 0 6px rgba(56, 189, 248, 0.6);
+}
+
+/* Number Inputs */
+.input-tech {
+  background: #0f172a;
+  border: 1px solid #334155;
+  color: #f8fafc;
+  border-radius: 0.5rem;
+  padding: 0.45rem 0.65rem;
+  font-size: 0.9rem;
+  font-variant-numeric: tabular-nums;
+  width: 100%;
+  transition: border-color 0.15s ease, box-shadow 0.15s ease;
+}
+.input-tech:focus {
+  outline: none;
+  border-color: #38bdf8;
+  box-shadow: 0 0 0 2px rgba(56, 189, 248, 0.2);
+}
+
+/* Metric Cards */
+.metric-card {
+  background: rgba(15, 23, 42, 0.75);
+  border: 1px solid #1e293b;
+  border-radius: 0.65rem;
+  padding: 0.65rem 0.8rem;
+  transition: border-color 0.2s ease;
+}
+.metric-card.metric-ok {
+  border-left: 3px solid #10b981;
+}
+.metric-card.metric-warn {
+  border-left: 3px solid #f59e0b;
+}
+.metric-card.metric-err {
+  border-left: 3px solid #ef4444;
+}
+
+/* Button segmented toggle */
+.seg-btn {
+  padding: 0.35rem 0.7rem;
+  font-size: 0.76rem;
+  font-weight: 600;
+  border-radius: 0.4rem;
+  color: #94a3b8;
+  transition: all 0.15s ease;
+  cursor: pointer;
+}
+.seg-btn:hover {
+  color: #e2e8f0;
+}
+.seg-btn.active {
+  background: #0284c7;
+  color: #ffffff;
+  box-shadow: 0 1px 4px rgba(2, 132, 199, 0.4);
+}
+
+/* Risk Flags & Landing Surface Diagnostics */
+.risk-item-card {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.5rem;
+  padding: 0.4rem 0.6rem;
+  border-radius: 0.45rem;
+  background: rgba(15, 23, 42, 0.75);
+  border: 1px solid #1e293b;
+  transition: all 0.15s ease;
+}
+.risk-item-card:hover {
+  background: rgba(30, 41, 59, 0.9);
+  border-color: #334155;
+}
+.risk-item-card.risk-err {
+  border-left: 3px solid #ef4444;
+}
+.risk-item-card.risk-warn {
+  border-left: 3px solid #f59e0b;
+}
+
+@keyframes pulseGlow {
+  0% { transform: scale(1); opacity: 0.85; }
+  50% { transform: scale(1.18); opacity: 0.35; }
+  100% { transform: scale(1); opacity: 0.85; }
+}
+
+.risk-pulse {
+  animation: pulseGlow 2s infinite ease-in-out;
+}
+

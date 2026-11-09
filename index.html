@@ -1,0 +1,739 @@
+<!DOCTYPE html>
+<html lang="fr" class="dark">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>SpaFit — Gazebo & Cover Configurator (Scope : Gamme Oasis)</title>
+  <!-- Tailwind CSS CDN -->
+  <script src="https://cdn.tailwindcss.com"></script>
+  <!-- Google Fonts: Inter & JetBrains Mono -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css" />
+  <!-- Master Spa Catalog Data (Zero-CORS guaranteed offline) -->
+  <script src="data/spas_catalog_data.js"></script>
+</head>
+<body class="min-h-screen flex flex-col bg-slate-950 text-slate-100">
+
+  <!-- ====================================================================
+       BARRE SUPÉRIEURE : SÉLECTEUR SPAFIT (30 MODÈLES), EXPORT FOOTPRINT & STATUT GLOBAL
+       ==================================================================== -->
+  <header class="sticky top-0 z-30 bg-slate-900/95 backdrop-blur border-b border-slate-800 px-4 lg:px-6 py-3">
+    <div class="max-w-[1920px] mx-auto flex flex-wrap items-center justify-between gap-4">
+      
+      <!-- Identité & Scope -->
+      <div class="flex items-center gap-3">
+        <div class="w-10 h-10 rounded-xl bg-gradient-to-br from-sky-500 to-indigo-600 flex items-center justify-center shadow-lg shadow-sky-500/20 font-extrabold text-white text-lg tracking-wider">
+          CV
+        </div>
+        <div>
+          <div class="flex items-center gap-2">
+            <h1 class="text-base sm:text-lg font-extrabold tracking-tight text-white">
+              SpaFit Gazebo Configurator
+            </h1>
+            <span class="px-2 py-0.5 text-[11px] font-semibold rounded-full bg-sky-500/15 text-sky-300 border border-sky-500/30">
+              SPAFIT SUITE
+            </span>
+          </div>
+          <p class="text-xs text-slate-400">
+            Moteur de validation dimensionnelle CAO / PDF / Excel • 30 Modèles SpaFit
+          </p>
+        </div>
+      </div>
+
+      <!-- Sélecteur de modèle SpaFit (tous les 30 modèles déverrouillés, options sombres lisibles) -->
+      <div class="flex flex-wrap items-center gap-3 flex-1 max-w-3xl justify-center">
+        <div class="flex items-center gap-2 bg-slate-950 border border-slate-700 rounded-lg px-3 py-1.5 flex-1 min-w-[280px]">
+          <label for="modelSelect" class="text-xs font-semibold uppercase tracking-wider text-sky-400 whitespace-nowrap">
+            Modèle Couverture :
+          </label>
+          <select id="modelSelect" class="bg-slate-950 text-sm font-semibold text-slate-100 focus:outline-none w-full cursor-pointer py-0.5">
+            <!-- Peuplé dynamiquement depuis data/models.json ou spas_catalog_data.js -->
+          </select>
+        </div>
+
+        <button id="btnExportFootprintHeader" type="button"
+          class="px-3.5 py-2 rounded-lg text-xs font-bold bg-emerald-600 hover:bg-emerald-500 text-white shadow-md shadow-emerald-900/30 transition flex items-center gap-1.5"
+          title="Exporter le plan final de compatibilité (Footprint + Dégagements + Élévation) en PNG Haute Définition">
+          <span>📥 Exporter Plan Footprint</span>
+        </button>
+
+        <button id="btnOpenDbModal" type="button"
+          class="px-3 py-2 rounded-lg text-xs font-semibold bg-slate-800 hover:bg-slate-700 text-slate-200 border border-slate-700 transition flex items-center gap-1.5"
+          title="Consulter l'ensemble des 30 modèles de couverture extraits dans data/models.json">
+          <span>Base CAO/Doc</span>
+          <span id="dbCountBadge" class="px-1.5 py-0.2 rounded bg-slate-900 text-sky-400 font-mono text-[11px]">30</span>
+        </button>
+
+        <a href="spa_catalog_viewer.html"
+          class="px-3.5 py-2 rounded-lg text-xs font-bold bg-gradient-to-r from-sky-500 to-indigo-600 hover:brightness-110 text-white shadow-md shadow-sky-900/30 transition flex items-center gap-1.5"
+          title="Ouvrir le Catalogue Master 1,339 Spas & Simulateur de Compatibilité">
+          <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6a2 2 0 012-2h2a2 2 0 012 2v2a2 2 0 01-2 2H6a2 2 0 01-2-2V6zM14 6a2 2 0 012-2h2a2 2 0 012 2v2a2 2 0 01-2 2h-2a2 2 0 01-2-2V6zM4 16a2 2 0 012-2h2a2 2 0 012 2v2a2 2 0 01-2 2H6a2 2 0 01-2-2v-2zM14 16a2 2 0 012-2h2a2 2 0 012 2v2a2 2 0 01-2 2h-2a2 2 0 01-2-2v-2z"></path></svg>
+          <span>Catalogue 1,339 Spas</span>
+        </a>
+      </div>
+
+      <!-- Badge de statut global immédiat -->
+      <div class="flex items-center gap-3">
+        <div id="globalStatusBadge" class="badge-status badge-ok">
+          <span class="status-dot"></span>
+          <span id="globalStatusText">COMPATIBLE SPAFIT</span>
+        </div>
+      </div>
+
+    </div>
+  </header>
+
+  <!-- ====================================================================
+       BARRE DE RECHERCHE CATALOGUE MASTER (1,339 SPAS & INTÉGRATION CAO USINE)
+       ==================================================================== -->
+  <section class="bg-slate-900/90 border-b border-slate-800 px-4 lg:px-6 py-2.5">
+    <div class="max-w-[1920px] mx-auto flex flex-wrap items-center justify-between gap-3">
+      <div class="flex items-center gap-2 flex-1 min-w-[320px] max-w-xl">
+        <label for="catalogSpaSearchInput" class="text-xs font-bold text-sky-400 whitespace-nowrap flex items-center gap-1.5">
+          <svg class="w-4 h-4 text-sky-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path></svg>
+          Recherche Spa Master (1,339) :
+        </label>
+        <div class="relative flex-1">
+          <input type="text" id="catalogSpaSearchInput" placeholder="Rechercher marque, modèle ou série (ex: Envoy, Grandee, J-385, A8, Cameo)..."
+            class="w-full bg-slate-950 border border-slate-700 text-xs rounded-lg px-3 py-1.5 text-white placeholder-slate-500 focus:outline-none focus:ring-1 focus:ring-sky-500 font-sans" />
+          <div id="catalogSpaSuggestions" class="hidden absolute top-full left-0 right-0 mt-1 max-h-72 overflow-y-auto bg-slate-950 border border-slate-700 rounded-lg shadow-2xl z-50 divide-y divide-slate-800"></div>
+        </div>
+      </div>
+      <div id="activeSpaBanner" class="hidden flex items-center gap-2 bg-slate-950/80 border border-slate-800 px-3 py-1.5 rounded-lg"></div>
+      <div class="flex items-center gap-2">
+        <span id="cadVectorBadge" class="hidden px-2.5 py-1 rounded bg-amber-500/20 text-amber-300 border border-amber-500/40 text-xs font-bold flex items-center gap-1">
+          📐 CAD Usine Authentique (LibreDWG)
+        </span>
+      </div>
+    </div>
+  </section>
+
+  <!-- ====================================================================
+       CONTENU PRINCIPAL : GRILLE 12 COLONNES (SIDEBAR + DOUBLE CANVAS 2D)
+       ==================================================================== -->
+  <main class="flex-1 max-w-[1920px] w-full mx-auto p-4 lg:p-6 grid grid-cols-1 xl:grid-cols-12 gap-6">
+
+    <!-- ==================================================================
+         COLONNE GAUCHE (4 cols) : ENTRÉES DU SPA & RÉSULTATS FIT ENGINE
+         ================================================================== -->
+    <aside class="xl:col-span-4 flex flex-col gap-5">
+
+      <!-- Carte 1 : Saisie des dimensions du Spa -->
+      <section class="bg-slate-900 border border-slate-800 rounded-xl p-4 shadow-lg">
+        <div class="flex items-center justify-between mb-3">
+          <div>
+            <h2 class="text-sm font-bold uppercase tracking-wider text-slate-200">
+              1. Dimensions du Spa à valider
+            </h2>
+            <p class="text-xs text-slate-400">
+              Cotes extérieures hors-tout de la coquille / jupe
+            </p>
+          </div>
+
+          <!-- Sélecteur d'unités po / mm -->
+          <div class="inline-flex bg-slate-950 p-1 rounded-lg border border-slate-800">
+            <button type="button" id="unitBtnIn" class="seg-btn active" data-unit="po">po (in)</button>
+            <button type="button" id="unitBtnMm" class="seg-btn" data-unit="mm">mm</button>
+          </div>
+        </div>
+
+        <!-- Préréglages rapides pour tests -->
+        <div class="mb-3">
+          <label class="block text-[11px] font-semibold uppercase tracking-wider text-slate-400 mb-1.5">
+            Gabarits de test rapides :
+          </label>
+          <div class="flex flex-wrap gap-1.5">
+            <button type="button" class="preset-btn px-2 py-1 text-[11px] font-medium rounded bg-slate-800 hover:bg-sky-900/50 text-slate-300 hover:text-sky-200 border border-slate-700 transition"
+              data-l="84" data-w="84" data-h="38" data-r="8">
+              Standard 84"×84"×38"
+            </button>
+            <button type="button" class="preset-btn px-2 py-1 text-[11px] font-medium rounded bg-slate-800 hover:bg-sky-900/50 text-slate-300 hover:text-sky-200 border border-slate-700 transition"
+              data-l="92" data-w="88" data-h="40" data-r="8">
+              Grand 92"×88"×40"
+            </button>
+            <button type="button" class="preset-btn px-2 py-1 text-[11px] font-medium rounded bg-slate-800 hover:bg-sky-900/50 text-slate-300 hover:text-sky-200 border border-slate-700 transition"
+              data-l="98" data-w="90" data-h="42" data-r="8">
+              Long 98"×90" (XL)
+            </button>
+            <button type="button" class="preset-btn px-2 py-1 text-[11px] font-medium rounded bg-slate-800 hover:bg-amber-900/40 text-amber-300 border border-amber-700/40 transition"
+              data-l="96.5" data-w="91.5" data-h="47" data-r="5">
+              Tolérance Critique
+            </button>
+            <button type="button" class="preset-btn px-2 py-1 text-[11px] font-medium rounded bg-slate-800 hover:bg-rose-900/40 text-rose-300 border border-rose-700/40 transition"
+              data-l="100" data-w="95" data-h="50" data-r="3">
+              Collision (Hors gabarit)
+            </button>
+          </div>
+        </div>
+
+        <!-- Grille des 4 champs numériques -->
+        <div class="grid grid-cols-2 gap-3">
+          <div>
+            <div class="flex justify-between items-baseline mb-1">
+              <label for="inputSpaLength" class="text-xs font-semibold text-slate-300">
+                Longueur Spa (Axe X)
+              </label>
+              <span id="subSpaLength" class="text-[11px] font-mono text-slate-400">2134 mm</span>
+            </div>
+            <div class="relative">
+              <input id="inputSpaLength" type="number" step="0.25" min="40" max="400" value="84" class="input-tech font-mono pr-10" />
+              <span class="unit-label absolute right-3 top-2 text-xs font-mono text-slate-400">po</span>
+            </div>
+          </div>
+
+          <div>
+            <div class="flex justify-between items-baseline mb-1">
+              <label for="inputSpaWidth" class="text-xs font-semibold text-slate-300">
+                Largeur Spa (Axe Y)
+              </label>
+              <span id="subSpaWidth" class="text-[11px] font-mono text-slate-400">2134 mm</span>
+            </div>
+            <div class="relative">
+              <input id="inputSpaWidth" type="number" step="0.25" min="40" max="400" value="84" class="input-tech font-mono pr-10" />
+              <span class="unit-label absolute right-3 top-2 text-xs font-mono text-slate-400">po</span>
+            </div>
+          </div>
+
+          <div>
+            <div class="flex justify-between items-baseline mb-1">
+              <label for="inputSpaHeight" class="text-xs font-semibold text-slate-300">
+                Hauteur Spa (Axe Z)
+              </label>
+              <span id="subSpaHeight" class="text-[11px] font-mono text-slate-400">965 mm</span>
+            </div>
+            <div class="relative">
+              <input id="inputSpaHeight" type="number" step="0.25" min="20" max="250" value="38" class="input-tech font-mono pr-10" />
+              <span class="unit-label absolute right-3 top-2 text-xs font-mono text-slate-400">po</span>
+            </div>
+          </div>
+
+          <div>
+            <div class="flex justify-between items-baseline mb-1">
+              <label for="inputCornerRadius" class="text-xs font-semibold text-slate-300 flex items-center gap-1">
+                <span>Rayon de coin (R)</span>
+                <span id="autoRadiusPill" class="hidden px-1.5 py-0.2 rounded bg-emerald-500/20 text-emerald-300 border border-emerald-500/40 text-[9px] font-mono uppercase">
+                  Auto Image
+                </span>
+              </label>
+              <span id="subCornerRadius" class="text-[11px] font-mono text-slate-400">203 mm</span>
+            </div>
+            <div class="relative">
+              <input id="inputCornerRadius" type="number" step="0.25" min="0" max="100" value="8" class="input-tech font-mono pr-10" />
+              <span class="unit-label absolute right-3 top-2 text-xs font-mono text-slate-400">po</span>
+            </div>
+          </div>
+
+          <div>
+            <div class="flex justify-between items-baseline mb-1">
+              <label for="inputFlatRimWidth" class="text-xs font-semibold text-slate-300 flex items-center gap-1" title="Surface plane horizontale sur le rebord supérieur de la cuve où le joint EPDM s'appuie (Min requis: 1.0 po)">
+                <span>Rebord plat (Joint)</span>
+                <span id="autoRimPill" class="hidden px-1.5 py-0.2 rounded bg-pink-500/20 text-pink-300 border border-pink-500/40 text-[9px] font-mono uppercase">
+                  Vision
+                </span>
+              </label>
+              <span id="subFlatRimWidth" class="text-[11px] font-mono text-slate-400">64 mm</span>
+            </div>
+            <div class="relative">
+              <input id="inputFlatRimWidth" type="number" step="0.1" min="0.5" max="15" value="2.5" class="input-tech font-mono pr-10" />
+              <span class="unit-label absolute right-3 top-2 text-xs font-mono text-slate-400">po</span>
+            </div>
+          </div>
+        </div>
+
+        <!-- Action rapide : Permuter Longueur / Largeur + Position du Moteur -->
+        <div class="mt-3 pt-2.5 border-t border-slate-800/80 flex flex-col gap-2.5">
+          <div class="flex items-center justify-between gap-2">
+            <button type="button" id="btnSwapLW"
+              class="px-3 py-1.5 rounded-lg text-xs font-semibold bg-slate-800 hover:bg-slate-700 text-sky-300 border border-slate-700 transition flex items-center gap-1.5">
+              <span>⇄ Permuter L ↔ l (90°)</span>
+            </button>
+            <span id="spaDiagonalInfo" class="text-xs font-mono text-slate-400">
+              Diag. spa : 118.8"
+            </span>
+          </div>
+
+          <!-- Sélecteur de côté du moteur (Opérateur) et de l'entrée -->
+          <div class="flex items-center justify-between gap-2 bg-slate-950/80 border border-slate-800 rounded-lg px-2.5 py-1.5">
+            <span class="text-xs font-semibold text-slate-300">Position Moteur (Cote C) :</span>
+            <div class="inline-flex bg-slate-900 p-0.5 rounded-md border border-slate-800">
+              <button type="button" class="motor-pos-btn seg-btn active" data-side="top" title="Moteur en Haut (Nord), Entrée en Bas (Sud) — Vue standard manuel">Haut (N)</button>
+              <button type="button" class="motor-pos-btn seg-btn" data-side="bottom" title="Moteur en Bas (Sud), Entrée en Haut (Nord)">Bas (S)</button>
+              <button type="button" class="motor-pos-btn seg-btn" data-side="left" title="Moteur à Gauche (Ouest), Entrée à Droite (Est)">Gauche (O)</button>
+              <button type="button" class="motor-pos-btn seg-btn" data-side="right" title="Moteur à Droite (Est), Entrée à Gauche (Ouest)">Droite (E)</button>
+            </div>
+          </div>
+        </div>
+
+        <!-- Bannière de recommandation intelligente -->
+        <div id="smartRecommendationBox" class="hidden mt-3 p-2.5 rounded-lg bg-sky-950/60 border border-sky-500/40 text-xs text-sky-200 flex items-center justify-between gap-2">
+          <span id="smartRecommendationText"></span>
+          <button type="button" id="btnApplyRecommendation" class="px-2.5 py-1 rounded bg-sky-500 hover:bg-sky-400 text-slate-950 font-bold whitespace-nowrap transition">
+            Appliquer
+          </button>
+        </div>
+      </section>
+
+      <!-- Carte 2 : Résultats détaillés du Fit Engine (Volet 2) -->
+      <section class="bg-slate-900 border border-slate-800 rounded-xl p-4 shadow-lg flex flex-col gap-3.5">
+        <div class="flex items-center justify-between">
+          <h2 class="text-sm font-bold uppercase tracking-wider text-slate-200">
+            2. Diagnostic du Moteur de Calcul (Fit Engine)
+          </h2>
+          <span id="activeModelCodeBadge" class="text-[11px] font-mono text-sky-400 bg-sky-950/60 px-2 py-0.5 rounded border border-sky-800/60">
+            8' S/S (D-000122)
+          </span>
+        </div>
+
+        <!-- Sous-bloc A : Dégagements horizontaux (X et Y) -->
+        <div class="p-3 rounded-lg bg-slate-950/60 border border-slate-800">
+          <div class="flex items-center justify-between mb-2">
+            <span class="text-xs font-bold uppercase tracking-wider text-sky-400">
+              A. Dégagements Horizontaux (Colonnes X / Y)
+            </span>
+            <span class="text-[11px] text-slate-400 font-mono">
+              Seuil : ≥1.25" Vert | ≥0.5" Jaune
+            </span>
+          </div>
+
+          <div class="grid grid-cols-2 gap-2.5">
+            <div id="cardMarginX" class="metric-card metric-ok">
+              <div class="text-[11px] text-slate-400 flex justify-between">
+                <span>Marge X (Longueur)</span>
+                <span id="statusMarginXText" class="font-bold text-emerald-400">CONFORME</span>
+              </div>
+              <div id="valMarginX" class="text-base font-bold font-mono text-white mt-0.5">
+                +7.00 po <span class="text-xs font-normal text-slate-400">/ côté</span>
+              </div>
+              <div id="subMarginX" class="text-[11px] text-slate-400 font-mono mt-0.5">
+                Col. X : 98.0" (CAO 98.32")
+              </div>
+            </div>
+
+            <div id="cardMarginY" class="metric-card metric-ok">
+              <div class="text-[11px] text-slate-400 flex justify-between">
+                <span>Marge Y (Largeur)</span>
+                <span id="statusMarginYText" class="font-bold text-emerald-400">CONFORME</span>
+              </div>
+              <div id="valMarginY" class="text-base font-bold font-mono text-white mt-0.5">
+                +4.50 po <span class="text-xs font-normal text-slate-400">/ côté</span>
+              </div>
+              <div id="subMarginY" class="text-[11px] text-slate-400 font-mono mt-0.5">
+                Col. Y : 93.0" (CAO 92.98")
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Sous-bloc B : Empreinte et surface d'appui du joint d'étanchéité -->
+        <div class="p-3 rounded-lg bg-slate-950/60 border border-slate-800 flex flex-col gap-2.5">
+          <div class="flex items-center justify-between">
+            <span class="text-xs font-bold uppercase tracking-wider text-sky-400">
+              B. Empreinte & Surface d'Appui du Joint (Seal Landing)
+            </span>
+            <span id="sealGlobalBadge" class="text-[11px] font-bold text-emerald-400">
+              ÉTANCHÉITÉ OK
+            </span>
+          </div>
+
+          <div class="grid grid-cols-3 gap-2">
+            <div id="cardSealFootprint" class="metric-card metric-ok">
+              <div class="text-[10px] text-slate-400">Plage L × l admissible</div>
+              <div id="valSealFootprint" class="text-[11px] font-bold font-mono text-white mt-1">
+                L: [75" – 97"] • l: [70" – 92"]
+              </div>
+              <div id="subSealFootprint" class="text-[10px] text-slate-400 mt-0.5">
+                Empreinte joint SpaFit
+              </div>
+            </div>
+
+            <div id="cardSealLanding" class="metric-card metric-ok">
+              <div class="text-[10px] text-slate-400 flex justify-between">
+                <span>Rebord Plat (Appui)</span>
+                <span id="statusSealLandingText" class="font-bold text-emerald-400">≥ 1.0" OK</span>
+              </div>
+              <div id="valSealLanding" class="text-xs font-bold font-mono text-pink-300 mt-1">
+                2.50 po (64 mm)
+              </div>
+              <div id="subSealLanding" class="text-[10px] text-slate-400 mt-0.5">
+                Min requis : 1.0 po
+              </div>
+            </div>
+
+            <div id="cardCornerRadius" class="metric-card metric-ok">
+              <div class="text-[10px] text-slate-400 flex justify-between">
+                <span>Rayon Coin (R)</span>
+                <span id="statusRadiusText" class="font-bold text-emerald-400">OPTIMAL</span>
+              </div>
+              <div id="valCornerRadius" class="text-xs font-bold font-mono text-white mt-1">
+                R = 8.00 po
+              </div>
+              <div id="subCornerRadiusSpec" class="text-[10px] text-slate-400 mt-0.5">
+                Min : 4.0 po | Rec : 8.0 po
+              </div>
+            </div>
+          </div>
+
+          <!-- Liste interactive des alertes et points à risque spécifiques sur le pourtour -->
+          <div id="sealRisksWrapper" class="pt-2 border-t border-slate-800/80">
+            <div class="flex items-center justify-between text-[11px] text-slate-400 mb-1.5">
+              <span class="font-semibold text-slate-300">Points d'inspection sur le pourtour :</span>
+              <span id="sealRisksCountBadge" class="text-[10px] font-mono px-1.5 py-0.2 rounded bg-emerald-950 text-emerald-300 border border-emerald-800">
+                0 risque détecté
+              </span>
+            </div>
+            <div id="sealRisksList" class="flex flex-col gap-1 text-xs">
+              <!-- Peuplé dynamiquement : drapeaux de risque localisés avec bouton 'Localiser sur le plan' -->
+            </div>
+          </div>
+        </div>
+
+        <!-- Sous-bloc C : Mécanique d'ajustement en hauteur (Axe Z) -->
+        <div class="p-3 rounded-lg bg-slate-950/60 border border-slate-800">
+          <div class="flex items-center justify-between mb-2">
+            <span class="text-xs font-bold uppercase tracking-wider text-sky-400">
+              C. Mécanique Verticale (Axe Z)
+            </span>
+            <div class="flex items-center gap-1 text-[11px]">
+              <span class="text-slate-400">Réf. toit :</span>
+              <select id="roofRefMode" class="bg-slate-950 border border-slate-700 rounded px-1.5 py-0.5 text-[11px] text-slate-200">
+                <option value="dome">Dôme complet (22.875" / Poteau 92.1")</option>
+                <option value="uframe">Ceinture U-Frame (4.0" / Poteau 76.0")</option>
+              </select>
+            </div>
+          </div>
+
+          <div class="grid grid-cols-2 gap-2.5">
+            <div id="cardSpaHeight" class="metric-card metric-ok">
+              <div class="text-[11px] text-slate-400 flex justify-between">
+                <span>Plage Hauteur Spa</span>
+                <span id="statusHeightText" class="font-bold text-emerald-400">CONFORME</span>
+              </div>
+              <div id="valSpaHeightCheck" class="text-sm font-bold font-mono text-white mt-0.5">
+                38.0" ∈ [34.0", 48.0"]
+              </div>
+              <div class="text-[11px] text-slate-400 mt-0.5">
+                Aucun appui-tête saillant permis
+              </div>
+            </div>
+
+            <div id="cardPostProtrusion" class="metric-card metric-ok">
+              <div class="text-[11px] text-slate-400">Dépassement poteau (fermé)</div>
+              <div id="valPostProtrusion" class="text-sm font-bold font-mono text-white mt-0.5">
+                +31.25 po
+              </div>
+              <div id="subPostProtrusion" class="text-[11px] text-slate-400 font-mono mt-0.5">
+                H_pot - (H_spa + Ép_toit)
+              </div>
+            </div>
+
+            <div class="metric-card metric-ok">
+              <div class="text-[11px] text-slate-400">Hauteur libre sous toit ouvert</div>
+              <div id="valClearHeightOpen" class="text-sm font-bold font-mono text-sky-300 mt-0.5">
+                86.00 po (2184 mm)
+              </div>
+              <div id="subClearHeightOpen" class="text-[11px] text-slate-400 font-mono mt-0.5">
+                H_spa + Course (48.0")
+              </div>
+            </div>
+
+            <div id="cardTotalDeployed" class="metric-card metric-ok">
+              <div class="text-[11px] text-slate-400 flex justify-between">
+                <span>Hauteur totale déployée</span>
+                <span id="statusTotalHeightText" class="font-bold text-emerald-400">OK</span>
+              </div>
+              <div id="valTotalDeployed" class="text-sm font-bold font-mono text-amber-300 mt-0.5">
+                108.88 po (2765 mm)
+              </div>
+              <div id="subTotalDeployed" class="text-[11px] text-slate-400 font-mono mt-0.5">
+                Max manuel : 115.0" (292 cm)
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Fiche synthétique des cotes officielles du modèle Oasis actif -->
+        <div class="p-3 rounded-lg bg-slate-950/90 border border-slate-800/90 text-xs">
+          <div class="font-semibold text-slate-300 mb-1.5 flex items-center justify-between">
+            <span>Spécifications du modèle Oasis sélectionné</span>
+            <span id="cadValidationPill" class="text-[10px] font-mono px-1.5 py-0.5 rounded bg-emerald-500/10 text-emerald-300 border border-emerald-500/30">
+              CAO STEP Validé
+            </span>
+          </div>
+          <div id="modelSpecsSummaryGrid" class="grid grid-cols-2 gap-x-4 gap-y-1 text-[11px] text-slate-400 font-mono">
+            <!-- Rempli dynamiquement -->
+          </div>
+        </div>
+
+      </section>
+
+    </aside>
+
+    <!-- ==================================================================
+         COLONNE DROITE (8 cols) : VUE DE DESSUS 2D & COUPE D'ÉLÉVATION Z
+         ================================================================== -->
+    <section class="xl:col-span-8 flex flex-col gap-6">
+
+      <!-- ================================================================
+           VOLET 3.2 : VUE DE DESSUS 2D (SUPERPOSITION D'IMAGE & GABARIT OASIS)
+           ================================================================ -->
+      <div class="bg-slate-900 border border-slate-800 rounded-xl p-4 shadow-lg flex flex-col gap-3">
+        
+        <!-- En-tête et contrôles d'importation / détourage auto / export -->
+        <div class="flex flex-wrap items-center justify-between gap-3">
+          <div>
+            <h2 class="text-sm font-bold uppercase tracking-wider text-slate-200 flex items-center gap-2">
+              <span>Vue de dessus 2D — Gabarit Oasis & Détourage Auto du Spa</span>
+              <span id="calibrationScaleBadge" class="text-[11px] font-mono px-2 py-0.5 rounded bg-slate-800 text-sky-300 border border-slate-700">
+                Échelle : Vectorielle native
+              </span>
+            </h2>
+            <p class="text-xs text-slate-400">
+              Importez une photo de spa : le vide autour est retiré automatiquement, l'échelle s'ajuste aux dimensions et le rayon (R) est extrapolé.
+            </p>
+          </div>
+
+          <!-- Boutons d'action image & export -->
+          <div class="flex flex-wrap items-center gap-2">
+            <label for="fileImageInput"
+              class="px-3 py-1.5 rounded-lg text-xs font-semibold bg-sky-600 hover:bg-sky-500 text-white cursor-pointer transition shadow-sm flex items-center gap-1.5">
+              <span>📁 Importer Photo Spa (Auto-Fit)</span>
+            </label>
+            <input id="fileImageInput" type="file" accept="image/png,image/jpeg,image/webp" class="hidden" />
+
+            <button type="button" id="btnLoadDemoBlueprint"
+              class="px-2.5 py-1.5 rounded-lg text-xs font-semibold bg-slate-800 hover:bg-slate-700 text-slate-200 border border-slate-700 transition"
+              title="Simuler l'importation d'une photo de spa avec fond blanc pour tester le détourage, l'étalonnage et l'extrapolation du rayon">
+              Tester Photo Démo
+            </button>
+
+            <button type="button" id="btnCalibrate2Pts"
+              class="px-2.5 py-1.5 rounded-lg text-xs font-semibold bg-amber-500/20 hover:bg-amber-500/30 text-amber-300 border border-amber-500/40 transition flex items-center gap-1"
+              title="Étalonnage manuel orthogonal (strictement horizontal ou vertical à 90°)">
+              <span>📏 Étalonner H/V (90°)</span>
+            </button>
+
+            <button type="button" id="btnExportFootprintCanvas"
+              class="px-3 py-1.5 rounded-lg text-xs font-bold bg-emerald-600/20 hover:bg-emerald-600/30 text-emerald-300 border border-emerald-500/40 transition flex items-center gap-1">
+              <span>📥 Exporter Footprint</span>
+            </button>
+
+            <button type="button" id="btnClearImage"
+              class="hidden px-2.5 py-1.5 rounded-lg text-xs font-semibold bg-rose-950/60 hover:bg-rose-900/70 text-rose-300 border border-rose-800/50 transition">
+              Retirer image
+            </button>
+          </div>
+        </div>
+
+        <!-- Bandeau de rapport d'analyse automatique d'image (affiché dès qu'une image est importée) -->
+        <div id="autoVisionBanner" class="hidden px-3 py-2 rounded-lg bg-emerald-950/50 border border-emerald-500/40 text-xs text-emerald-200 flex flex-wrap items-center justify-between gap-2">
+          <div class="flex items-center gap-2">
+            <span class="px-2 py-0.5 rounded bg-emerald-500 text-slate-950 font-bold text-[10px] uppercase">Auto-Calibration Vision</span>
+            <span id="autoVisionReportText">Détourage et étalonnage automatiques effectués.</span>
+          </div>
+          <button type="button" id="btnReFitAutoImage" class="px-2.5 py-0.5 rounded bg-emerald-600/30 hover:bg-emerald-600/50 text-emerald-200 border border-emerald-500/40 font-semibold text-[11px]">
+            Ré-étalonner sur L×l
+          </button>
+        </div>
+
+        <!-- Barre d'outils d'inspection 2D (Opacité, Rotation par pas de 90°/180° uniquement, Calques, Pan/Zoom) -->
+        <div class="flex flex-wrap items-center justify-between gap-3 bg-slate-950/80 border border-slate-800 rounded-lg px-3 py-2 text-xs">
+          
+          <!-- Opacité image -->
+          <div class="flex items-center gap-2">
+            <label for="sliderImageOpacity" class="text-slate-400 font-medium whitespace-nowrap">Opacité spa :</label>
+            <input id="sliderImageOpacity" type="range" min="0" max="100" value="85" class="w-20" />
+            <span id="valImageOpacity" class="font-mono text-slate-300 w-9">85%</span>
+          </div>
+
+          <!-- Rotation orthogonale stricte : 0°, 90°, 180°, 270° uniquement -->
+          <div class="flex items-center gap-1.5">
+            <span class="text-slate-400 font-medium whitespace-nowrap mr-1">Rotation (90°/180°) :</span>
+            <button type="button" id="btnRotMinus90" class="px-2 py-1 rounded bg-slate-800 hover:bg-slate-700 text-slate-200 font-mono border border-slate-700" title="Tourner de -90°">↺ -90°</button>
+            <div class="inline-flex bg-slate-900 p-0.5 rounded border border-slate-800">
+              <button type="button" class="rot-step-btn seg-btn active font-mono" data-deg="0">0°</button>
+              <button type="button" class="rot-step-btn seg-btn font-mono" data-deg="90">90°</button>
+              <button type="button" class="rot-step-btn seg-btn font-mono" data-deg="180">180°</button>
+              <button type="button" class="rot-step-btn seg-btn font-mono" data-deg="270">270°</button>
+            </div>
+            <button type="button" id="btnRotPlus90" class="px-2 py-1 rounded bg-slate-800 hover:bg-slate-700 text-slate-200 font-mono border border-slate-700" title="Tourner de +90°">↻ +90°</button>
+            <button type="button" id="btnRot180" class="px-2 py-1 rounded bg-slate-800 hover:bg-slate-700 text-sky-300 font-mono border border-slate-700" title="Inverser à 180°">180°</button>
+          </div>
+
+          <!-- Calques d'affichage -->
+          <div class="flex items-center gap-3">
+            <label class="inline-flex items-center gap-1.5 cursor-pointer text-slate-300">
+              <input type="checkbox" id="chkShowFoundation" checked class="accent-sky-500 rounded" />
+              <span>Fondation & Maintenance</span>
+            </label>
+            <label class="inline-flex items-center gap-1.5 cursor-pointer text-slate-300">
+              <input type="checkbox" id="chkShowSealZone" checked class="accent-sky-500 rounded" />
+              <span>Empreinte Joint SpaFit</span>
+            </label>
+            <label class="inline-flex items-center gap-1.5 cursor-pointer text-pink-300" title="Surface plane sur le dessus du rebord du spa (Min requis : 1.0 po)">
+              <input type="checkbox" id="chkShowSealLanding" checked class="accent-pink-500 rounded" />
+              <span class="flex items-center gap-1">
+                <span class="w-2.5 h-2.5 rounded-sm bg-pink-500/50 border border-pink-400 inline-block"></span>
+                <span>Surface d'appui (Rose)</span>
+              </span>
+            </label>
+            <label class="inline-flex items-center gap-1.5 cursor-pointer text-amber-300" title="Afficher les drapeaux de risques localisés">
+              <input type="checkbox" id="chkShowRiskFlags" checked class="accent-amber-500 rounded" />
+              <span class="flex items-center gap-1">
+                <span>⚠️ Risques & Obstacles</span>
+              </span>
+            </label>
+          </div>
+
+          <!-- Contrôles Zoom & Recentrage -->
+          <div class="flex items-center gap-1.5">
+            <button type="button" id="btnZoomOut" class="px-2 py-0.5 rounded bg-slate-800 hover:bg-slate-700 text-slate-200 font-mono border border-slate-700">−</button>
+            <span id="valZoomPct" class="font-mono text-slate-300 w-12 text-center">100%</span>
+            <button type="button" id="btnZoomIn" class="px-2 py-0.5 rounded bg-slate-800 hover:bg-slate-700 text-slate-200 font-mono border border-slate-700">+</button>
+            <button type="button" id="btnRecenterTop" class="px-2.5 py-0.5 rounded bg-sky-500/15 hover:bg-sky-500/25 text-sky-300 border border-sky-500/30 font-semibold ml-1">
+              Recentrer
+            </button>
+          </div>
+
+        </div>
+
+        <!-- Bandeau d'instruction pendant l'étalonnage manuel orthogonal à 2 points -->
+        <div id="calibrationBanner" class="hidden p-2.5 rounded-lg bg-amber-500/15 border border-amber-500/40 text-xs text-amber-200 flex flex-wrap items-center justify-between gap-2">
+          <div class="flex items-center gap-2">
+            <span class="font-bold uppercase px-2 py-0.5 rounded bg-amber-500 text-slate-950">Étalonnage Orthogonal 90°</span>
+            <span id="calibrationStepText">Cliquez le 1er point (P1). Le 2e point (P2) sera verrouillé à l'horizontale ou à la verticale.</span>
+          </div>
+          <div id="calibrationInputGroup" class="hidden items-center gap-2">
+            <label for="inputCalibRealDist" class="font-semibold">Distance réelle P1–P2 :</label>
+            <input id="inputCalibRealDist" type="number" step="0.1" min="1" value="84" class="w-24 bg-slate-950 border border-amber-400 rounded px-2 py-1 font-mono text-white" />
+            <span class="unit-label font-mono">po</span>
+            <button type="button" id="btnApplyCalibration" class="px-3 py-1 rounded bg-emerald-500 hover:bg-emerald-400 text-slate-950 font-bold">
+              Valider l'échelle
+            </button>
+          </div>
+          <button type="button" id="btnCancelCalibration" class="px-2.5 py-1 rounded bg-slate-800 hover:bg-slate-700 text-slate-300">
+            Annuler
+          </button>
+        </div>
+
+        <!-- Zone Canvas 2D Vue de dessus -->
+        <div id="topCanvasWrapper" class="canvas-wrapper h-[490px] w-full relative">
+          <canvas id="topViewCanvas" class="w-full h-full block"></canvas>
+
+          <!-- Légende flottante superposée en bas à gauche -->
+          <div class="absolute bottom-3 left-3 bg-slate-950/90 backdrop-blur border border-slate-800 rounded-lg px-3 py-2 text-[11px] flex flex-wrap items-center gap-x-4 gap-y-1 pointer-events-none">
+            <span class="flex items-center gap-1.5">
+              <span class="w-3 h-0.5 border-t-2 border-dashed border-sky-400 inline-block"></span>
+              <span class="text-slate-300">Toit Oasis hors-tout</span>
+            </span>
+            <span class="flex items-center gap-1.5">
+              <span class="w-3 h-3 rounded-sm bg-amber-500/80 border border-amber-300 inline-block"></span>
+              <span class="text-slate-300">4 Poteaux (D-000139)</span>
+            </span>
+            <span class="flex items-center gap-1.5">
+              <span class="w-3 h-3 rounded-sm bg-sky-500/30 border border-sky-400 inline-block"></span>
+              <span class="text-slate-300">Moteur (C) & Entrée (I)</span>
+            </span>
+            <span class="flex items-center gap-1.5">
+              <span class="w-3 h-3 rounded-sm bg-pink-500/30 border border-pink-400 inline-block"></span>
+              <span class="text-pink-300 font-medium">Surface d'appui joint (≥ 1")</span>
+            </span>
+            <span class="flex items-center gap-1.5">
+              <span class="w-3 h-0.5 border-t-2 border-dashed border-emerald-400 inline-block"></span>
+              <span class="text-emerald-300">Trace Joint EPDM SpaFit</span>
+            </span>
+            <span class="flex items-center gap-1.5">
+              <span class="w-2.5 h-2.5 rounded-full bg-rose-500 inline-block"></span>
+              <span class="text-rose-300">Drapeau d'alerte / Obstacle</span>
+            </span>
+          </div>
+        </div>
+
+      </div>
+
+      <!-- ================================================================
+           VOLET 3.3 : VUE DE PROFIL D'ÉLÉVATION (COUPE LATÉRALE Z)
+           ================================================================ -->
+      <div class="bg-slate-900 border border-slate-800 rounded-xl p-4 shadow-lg flex flex-col gap-3">
+        
+        <div class="flex flex-wrap items-center justify-between gap-3">
+          <div>
+            <h2 class="text-sm font-bold uppercase tracking-wider text-slate-200">
+              Vue de profil d'élévation (Coupe latérale Z) — Cinématique des Vérins & Toit Oasis
+            </h2>
+            <p class="text-xs text-slate-400">
+              Visualisation à l'échelle du sol (Z = 0), du spa, des poteaux fixes Oasis, des équerres de coins et de la course de 48 po.
+            </p>
+          </div>
+
+          <!-- Bascule interactive [Position Fermée] / [Position Ouverte] -->
+          <div class="flex items-center gap-3">
+            <div class="inline-flex bg-slate-950 p-1 rounded-lg border border-slate-800">
+              <button type="button" id="btnElevClosed" class="seg-btn active">
+                🔒 Position Fermée
+              </button>
+              <button type="button" id="btnElevOpen" class="seg-btn">
+                🔓 Position Ouverte (+48" Course)
+              </button>
+            </div>
+          </div>
+        </div>
+
+        <!-- Zone Canvas 2D Coupe d'élévation Z -->
+        <div class="canvas-wrapper h-[340px] w-full relative">
+          <canvas id="elevationCanvas" class="w-full h-full block"></canvas>
+        </div>
+
+      </div>
+
+    </section>
+
+  </main>
+
+  <!-- ====================================================================
+       MODALE : BASE DE DONNÉES TECHNIQUE COMPLÈTE (`data/models.json`)
+       ==================================================================== -->
+  <div id="dbModal" class="fixed inset-0 z-50 hidden bg-slate-950/80 backdrop-blur-sm flex items-center justify-center p-4">
+    <div class="bg-slate-900 border border-slate-700 rounded-2xl max-w-6xl w-full max-h-[85vh] flex flex-col shadow-2xl overflow-hidden">
+      <div class="px-6 py-4 border-b border-slate-800 flex items-center justify-between">
+        <div>
+          <h3 class="text-base font-bold text-white">
+            Base de Données Réconciliée (`data/models.json`) — Extraction Globale CAO / PDF / Excel
+          </h3>
+          <p class="text-xs text-slate-400">
+            Architecture extensible : Seule la gamme <strong>Oasis</strong> a le drapeau <code class="text-sky-400">active_in_ui: true</code> pour ce configurateur initial.
+          </p>
+        </div>
+        <button type="button" id="btnCloseDbModal" class="px-3 py-1.5 rounded-lg bg-slate-800 hover:bg-slate-700 text-slate-300 text-xs font-semibold">
+          Fermer ✕
+        </button>
+      </div>
+      <div class="p-6 overflow-y-auto flex-1">
+        <div class="overflow-x-auto">
+          <table class="w-full text-left border-collapse text-xs">
+            <thead>
+              <tr class="border-b border-slate-700 text-slate-400 uppercase">
+                <th class="py-2 px-3">UI</th>
+                <th class="py-2 px-3">Gamme</th>
+                <th class="py-2 px-3">Modèle</th>
+                <th class="py-2 px-3">Dégagement Colonnes (L × l)</th>
+                <th class="py-2 px-3">Plage Joint (L × l)</th>
+                <th class="py-2 px-3">Hauteur Spa</th>
+                <th class="py-2 px-3">Course / Toit</th>
+                <th class="py-2 px-3">Toit Hors-Tout</th>
+                <th class="py-2 px-3">Sources</th>
+              </tr>
+            </thead>
+            <tbody id="dbModalTableBody" class="divide-y divide-slate-800/70 font-mono">
+              <!-- Peuplé dynamiquement -->
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

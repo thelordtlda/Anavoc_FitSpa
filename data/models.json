@@ -1,0 +1,1436 @@
+[
+  {
+    "id": "oasis-std-8x8",
+    "nom": "Oasis — Standard 8' (Short Side / Entrée 93\")",
+    "code_interne": "8' S/S (3D: D-000122)",
+    "gamme": "Oasis",
+    "active_in_ui": true,
+    "type": "hot_tub",
+    "orientation_entree": "Short Side (Côté 93 po)",
+    "unite": "po",
+    "source_fichiers": [
+      "OASIS FOOTPRINT AND ELEVATION.pdf",
+      "Overall Dimensions - 2026-04-24.xlsx",
+      "Revision mesures legend, Endless Pools, Oasis, Evolution, et Oasis XL V3.xlsx",
+      "./assets/_COVER_CAD/3d/OASIS-2.STEP"
+    ],
+    "degagement_colonnes": {
+      "longueur": 98.0,
+      "largeur": 93.0,
+      "longueur_cao": 98.32,
+      "largeur_cao": 92.98,
+      "diagonale": 130.75,
+      "largeur_entree": 52.0
+    },
+    "joint_etancheite": {
+      "longueur_min": 75.0,
+      "longueur_max": 97.0,
+      "largeur_min": 70.0,
+      "largeur_max": 92.0,
+      "rayon_min": 4.0,
+      "rayon_recommande": 8.0,
+      "largeur_bande": 3.5,
+      "surface_plane_min": 1.25,
+      "coquille_min_longueur": 74.0,
+      "coquille_min_largeur": 69.0
+    },
+    "hauteur": {
+      "spa_min": 34.0,
+      "spa_max": 48.0,
+      "poteau_fixe": 76.0,
+      "poteau_deploye": 92.125,
+      "epaisseur_toit": 22.875,
+      "epaisseur_cadre_u": 4.0,
+      "course_elevation": 48.0,
+      "hauteur_max_hors_tout": 115.0
+    },
+    "toit_hors_tout": {
+      "longueur": 105.75,
+      "largeur": 100.5,
+      "longueur_avec_operateur": 112.0,
+      "fondation_longueur": 118.0,
+      "fondation_largeur": 106.0,
+      "c_position_moteur": 36.1,
+      "roller_shade_longueur": 100.57,
+      "roller_shade_largeur": 95.2
+    },
+    "degagement_installation": {
+      "maintenance_moteur_entree": 24.0,
+      "maintenance_cotes": 6.0,
+      "poteau_patio_min": 0.5
+    },
+    "validation_cao": {
+      "fichier": "OASIS-2.STEP",
+      "assemblage_racine": "OASIS-2",
+      "unite_native": "po",
+      "nb_composants_assemblage": 1214,
+      "nb_produits_uniques": 265,
+      "poteaux_detectes": 4,
+      "entraxe_poteaux_x_po": 99.813,
+      "entraxe_poteaux_z_po": 94.48,
+      "entraxe_equerres_toit_x_po": 103.44,
+      "entraxe_equerres_toit_z_po": 98.21
+    },
+    "model_step_file": "./assets/_COVER_CAD/3d/OASIS-2.STEP"
+  },
+  {
+    "id": "oasis-std-ls",
+    "nom": "Oasis — Standard 8' (Long Side / Entrée 98\")",
+    "code_interne": "8' L/S (3D: D-000122)",
+    "gamme": "Oasis",
+    "active_in_ui": true,
+    "type": "hot_tub",
+    "orientation_entree": "Long Side (Côté 98 po)",
+    "unite": "po",
+    "source_fichiers": [
+      "OASIS FOOTPRINT AND ELEVATION.pdf",
+      "Overall Dimensions - 2026-04-24.xlsx",
+      "Revision mesures legend, Endless Pools, Oasis, Evolution, et Oasis XL V3.xlsx",
+      "./assets/_COVER_CAD/3d/OASIS-2.STEP"
+    ],
+    "degagement_colonnes": {
+      "longueur": 93.0,
+      "largeur": 98.0,
+      "longueur_cao": 92.98,
+      "largeur_cao": 98.32,
+      "diagonale": 130.75,
+      "largeur_entree": 57.0
+    },
+    "joint_etancheite": {
+      "longueur_min": 70.0,
+      "longueur_max": 92.0,
+      "largeur_min": 75.0,
+      "largeur_max": 97.0,
+      "rayon_min": 4.0,
+      "rayon_recommande": 8.0,
+      "largeur_bande": 3.5,
+      "surface_plane_min": 1.25,
+      "coquille_min_longueur": 69.0,
+      "coquille_min_largeur": 74.0
+    },
+    "hauteur": {
+      "spa_min": 34.0,
+      "spa_max": 48.0,
+      "poteau_fixe": 76.0,
+      "poteau_deploye": 92.125,
+      "epaisseur_toit": 22.875,
+      "epaisseur_cadre_u": 4.0,
+      "course_elevation": 48.0,
+      "hauteur_max_hors_tout": 115.0
+    },
+    "toit_hors_tout": {
+      "longueur": 100.5,
+      "largeur": 105.8,
+      "longueur_avec_operateur": 106.79,
+      "fondation_longueur": 112.0,
+      "fondation_largeur": 118.0,
+      "c_position_moteur": 38.7,
+      "roller_shade_longueur": 95.2,
+      "roller_shade_largeur": 100.57
+    },
+    "degagement_installation": {
+      "maintenance_moteur_entree": 24.0,
+      "maintenance_cotes": 6.0,
+      "poteau_patio_min": 0.5
+    },
+    "validation_cao": {
+      "fichier": "OASIS-2.STEP",
+      "assemblage_racine": "OASIS-2",
+      "unite_native": "po",
+      "nb_composants_assemblage": 1214,
+      "nb_produits_uniques": 265,
+      "poteaux_detectes": 4,
+      "entraxe_poteaux_x_po": 99.813,
+      "entraxe_poteaux_z_po": 94.48,
+      "entraxe_equerres_toit_x_po": 103.44,
+      "entraxe_equerres_toit_z_po": 98.21
+    },
+    "model_step_file": "./assets/_COVER_CAD/3d/OASIS-2.STEP"
+  },
+  {
+    "id": "oasis-midnight-xl",
+    "nom": "Oasis Midnight XL — Short Side (XL SM / 101.27\" × 92.75\")",
+    "code_interne": "XL SM (3D: D-006398)",
+    "gamme": "Oasis",
+    "active_in_ui": true,
+    "type": "hot_tub",
+    "orientation_entree": "Short Side (Côté 92.75 po)",
+    "unite": "po",
+    "source_fichiers": [
+      "OASIS FOOTPRINT AND ELEVATION.pdf",
+      "Overall Dimensions - 2026-04-24.xlsx",
+      "Revision mesures legend, Endless Pools, Oasis, Evolution, et Oasis XL V3.xlsx",
+      "./assets/_COVER_CAD/3d/OASIS MIDNIGHT XL (SHORT SIDE).STEP"
+    ],
+    "degagement_colonnes": {
+      "longueur": 101.27,
+      "largeur": 92.75,
+      "longueur_cao": 101.0,
+      "largeur_cao": 92.75,
+      "diagonale": 133.75,
+      "largeur_entree": 52.0
+    },
+    "joint_etancheite": {
+      "longueur_min": 75.0,
+      "longueur_max": 100.27,
+      "largeur_min": 70.0,
+      "largeur_max": 91.75,
+      "rayon_min": 4.0,
+      "rayon_recommande": 8.0,
+      "largeur_bande": 3.5,
+      "surface_plane_min": 1.25,
+      "coquille_min_longueur": 74.0,
+      "coquille_min_largeur": 69.0
+    },
+    "hauteur": {
+      "spa_min": 34.0,
+      "spa_max": 48.0,
+      "poteau_fixe": 76.0,
+      "poteau_deploye": 92.125,
+      "epaisseur_toit": 22.875,
+      "epaisseur_cadre_u": 4.0,
+      "course_elevation": 48.0,
+      "hauteur_max_hors_tout": 115.0
+    },
+    "toit_hors_tout": {
+      "longueur": 109.0,
+      "largeur": 100.5,
+      "longueur_avec_operateur": 115.3,
+      "fondation_longueur": 121.0,
+      "fondation_largeur": 106.0,
+      "c_position_moteur": 36.1,
+      "roller_shade_longueur": 100.5,
+      "roller_shade_largeur": 95.2
+    },
+    "degagement_installation": {
+      "maintenance_moteur_entree": 24.0,
+      "maintenance_cotes": 6.0,
+      "poteau_patio_min": 0.5
+    },
+    "validation_cao": {
+      "fichier": "OASIS MIDNIGHT XL (SHORT SIDE).STEP",
+      "assemblage_racine": "OASIS XL SHORT SIDE",
+      "unite_native": "mm",
+      "nb_composants_assemblage": 1204,
+      "nb_produits_uniques": 263,
+      "poteaux_detectes": 4,
+      "entraxe_poteaux_x_po": 94.48,
+      "entraxe_poteaux_z_po": 102.963,
+      "entraxe_equerres_toit_x_po": 98.234,
+      "entraxe_equerres_toit_z_po": 106.308
+    },
+    "model_step_file": "./assets/_COVER_CAD/3d/OASIS MIDNIGHT XL (SHORT SIDE).STEP"
+  },
+  {
+    "id": "oasis-midnight-plus",
+    "nom": "Oasis Midnight PLUS — Long Side (PLUS LM / 95.75\" × 98\")",
+    "code_interne": "PLUS LM (3D: D-006398)",
+    "gamme": "Oasis",
+    "active_in_ui": true,
+    "type": "hot_tub",
+    "orientation_entree": "Long Side (Côté 98 po)",
+    "unite": "po",
+    "source_fichiers": [
+      "OASIS FOOTPRINT AND ELEVATION.pdf",
+      "Overall Dimensions - 2026-04-24.xlsx",
+      "Revision mesures legend, Endless Pools, Oasis, Evolution, et Oasis XL V3.xlsx",
+      "./assets/_COVER_CAD/3d/OASIS MIDNIGHT PLUS (LONG SIDE).STEP"
+    ],
+    "degagement_colonnes": {
+      "longueur": 95.75,
+      "largeur": 98.0,
+      "longueur_cao": 96.0,
+      "largeur_cao": 98.0,
+      "diagonale": 133.75,
+      "largeur_entree": 57.0
+    },
+    "joint_etancheite": {
+      "longueur_min": 70.0,
+      "longueur_max": 94.75,
+      "largeur_min": 75.0,
+      "largeur_max": 97.0,
+      "rayon_min": 4.0,
+      "rayon_recommande": 8.0,
+      "largeur_bande": 3.5,
+      "surface_plane_min": 1.25,
+      "coquille_min_longueur": 69.0,
+      "coquille_min_largeur": 74.0
+    },
+    "hauteur": {
+      "spa_min": 34.0,
+      "spa_max": 48.0,
+      "poteau_fixe": 76.0,
+      "poteau_deploye": 92.125,
+      "epaisseur_toit": 22.875,
+      "epaisseur_cadre_u": 4.0,
+      "course_elevation": 48.0,
+      "hauteur_max_hors_tout": 115.0
+    },
+    "toit_hors_tout": {
+      "longueur": 103.5,
+      "largeur": 105.75,
+      "longueur_avec_operateur": 108.15,
+      "fondation_longueur": 116.0,
+      "fondation_largeur": 112.0,
+      "c_position_moteur": 39.0,
+      "roller_shade_longueur": 95.2,
+      "roller_shade_largeur": 100.5
+    },
+    "degagement_installation": {
+      "maintenance_moteur_entree": 24.0,
+      "maintenance_cotes": 6.0,
+      "poteau_patio_min": 0.5
+    },
+    "validation_cao": {
+      "fichier": "OASIS MIDNIGHT PLUS (LONG SIDE).STEP",
+      "assemblage_racine": "OASIS MIDNIGHT XL (LONG SIDE)",
+      "unite_native": "mm",
+      "nb_composants_assemblage": 1174,
+      "nb_produits_uniques": 261,
+      "poteaux_detectes": 4,
+      "entraxe_poteaux_x_po": 99.717,
+      "entraxe_poteaux_z_po": 97.766,
+      "entraxe_equerres_toit_x_po": 103.47,
+      "entraxe_equerres_toit_z_po": 101.133
+    },
+    "model_step_file": "./assets/_COVER_CAD/3d/OASIS MIDNIGHT PLUS (LONG SIDE).STEP"
+  },
+  {
+    "id": "evolution-8ft",
+    "nom": "Evolution — 8 FT (8' S/S)",
+    "code_interne": "EVOLUTION (3D: D-004507)",
+    "gamme": "Evolution",
+    "active_in_ui": true,
+    "type": "hot_tub",
+    "unite": "po",
+    "source_fichiers": [
+      "Evolution - Footprint and elevation.pdf",
+      "Overall Dimensions - 2026-04-24.xlsx",
+      "Revision mesures legend, Endless Pools, Oasis, Evolution, et Oasis XL V3.xlsx"
+    ],
+    "degagement_colonnes": {
+      "longueur": 98.0,
+      "largeur": 92.75,
+      "longueur_cao": 98.32,
+      "largeur_cao": 92.98,
+      "diagonale": 131.25,
+      "largeur_entree": 52.0
+    },
+    "joint_etancheite": {
+      "longueur_min": 75.0,
+      "longueur_max": 97.0,
+      "largeur_min": 70.0,
+      "largeur_max": 92.0,
+      "rayon_min": 4.0,
+      "rayon_recommande": 8.0,
+      "largeur_bande": 3.5,
+      "surface_plane_min": 1.25
+    },
+    "hauteur": {
+      "spa_min": 34.0,
+      "spa_max": 48.0,
+      "poteau_fixe": 76.0,
+      "poteau_deploye": 96.0,
+      "epaisseur_toit": 4.0,
+      "epaisseur_cadre_u": 4.0,
+      "course_elevation": 48.0,
+      "hauteur_max_hors_tout": 100.0
+    },
+    "toit_hors_tout": {
+      "longueur": 105.75,
+      "largeur": 100.5,
+      "longueur_avec_operateur": 112.0,
+      "fondation_longueur": 118.0,
+      "fondation_largeur": 106.0,
+      "c_position_moteur": 35.0
+    }
+  },
+  {
+    "id": "evolution-9ft",
+    "nom": "Evolution — 9 FT (9')",
+    "code_interne": "EVOLUTION (3D: D-004507)",
+    "gamme": "Evolution",
+    "active_in_ui": true,
+    "type": "hot_tub",
+    "unite": "po",
+    "source_fichiers": [
+      "Evolution - Footprint and elevation.pdf",
+      "Overall Dimensions - 2026-04-24.xlsx",
+      "Revision mesures legend, Endless Pools, Oasis, Evolution, et Oasis XL V3.xlsx"
+    ],
+    "degagement_colonnes": {
+      "longueur": 110.5,
+      "largeur": 92.75,
+      "longueur_cao": 110.5,
+      "largeur_cao": 92.98,
+      "diagonale": 140.5,
+      "largeur_entree": 52.0
+    },
+    "joint_etancheite": {
+      "longueur_min": 75.0,
+      "longueur_max": 109.5,
+      "largeur_min": 70.0,
+      "largeur_max": 92.0,
+      "rayon_min": 4.0,
+      "rayon_recommande": 8.0,
+      "largeur_bande": 3.5,
+      "surface_plane_min": 1.25
+    },
+    "hauteur": {
+      "spa_min": 34.0,
+      "spa_max": 48.0,
+      "poteau_fixe": 76.0,
+      "poteau_deploye": 96.0,
+      "epaisseur_toit": 4.0,
+      "epaisseur_cadre_u": 4.0,
+      "course_elevation": 48.0,
+      "hauteur_max_hors_tout": 100.0
+    },
+    "toit_hors_tout": {
+      "longueur": 118.25,
+      "largeur": 100.5,
+      "longueur_avec_operateur": 124.5,
+      "fondation_longueur": 130.5,
+      "fondation_largeur": 106.0,
+      "c_position_moteur": 35.0
+    }
+  },
+  {
+    "id": "evolution-10ft",
+    "nom": "Evolution — 10 FT (10')",
+    "code_interne": "EVOLUTION (3D: D-004507)",
+    "gamme": "Evolution",
+    "active_in_ui": true,
+    "type": "hot_tub",
+    "unite": "po",
+    "source_fichiers": [
+      "Evolution - Footprint and elevation.pdf",
+      "Overall Dimensions - 2026-04-24.xlsx",
+      "Revision mesures legend, Endless Pools, Oasis, Evolution, et Oasis XL V3.xlsx"
+    ],
+    "degagement_colonnes": {
+      "longueur": 122.5,
+      "largeur": 92.75,
+      "longueur_cao": 122.5,
+      "largeur_cao": 92.98,
+      "diagonale": 150.0,
+      "largeur_entree": 52.0
+    },
+    "joint_etancheite": {
+      "longueur_min": 75.0,
+      "longueur_max": 121.5,
+      "largeur_min": 70.0,
+      "largeur_max": 92.0,
+      "rayon_min": 4.0,
+      "rayon_recommande": 8.0,
+      "largeur_bande": 3.5,
+      "surface_plane_min": 1.25
+    },
+    "hauteur": {
+      "spa_min": 34.0,
+      "spa_max": 48.0,
+      "poteau_fixe": 76.0,
+      "poteau_deploye": 96.0,
+      "epaisseur_toit": 4.0,
+      "epaisseur_cadre_u": 4.0,
+      "course_elevation": 48.0,
+      "hauteur_max_hors_tout": 100.0
+    },
+    "toit_hors_tout": {
+      "longueur": 130.25,
+      "largeur": 100.5,
+      "longueur_avec_operateur": 136.5,
+      "fondation_longueur": 142.5,
+      "fondation_largeur": 106.0,
+      "c_position_moteur": 35.0
+    }
+  },
+  {
+    "id": "evolution-11ft",
+    "nom": "Evolution — 11 FT (11')",
+    "code_interne": "EVOLUTION (3D: D-004507)",
+    "gamme": "Evolution",
+    "active_in_ui": true,
+    "type": "hot_tub",
+    "unite": "po",
+    "source_fichiers": [
+      "Evolution - Footprint and elevation.pdf",
+      "Overall Dimensions - 2026-04-24.xlsx",
+      "Revision mesures legend, Endless Pools, Oasis, Evolution, et Oasis XL V3.xlsx"
+    ],
+    "degagement_colonnes": {
+      "longueur": 134.5,
+      "largeur": 92.75,
+      "longueur_cao": 134.5,
+      "largeur_cao": 92.98,
+      "diagonale": 159.75,
+      "largeur_entree": 52.0
+    },
+    "joint_etancheite": {
+      "longueur_min": 75.0,
+      "longueur_max": 133.5,
+      "largeur_min": 70.0,
+      "largeur_max": 92.0,
+      "rayon_min": 4.0,
+      "rayon_recommande": 8.0,
+      "largeur_bande": 3.5,
+      "surface_plane_min": 1.25
+    },
+    "hauteur": {
+      "spa_min": 34.0,
+      "spa_max": 48.0,
+      "poteau_fixe": 76.0,
+      "poteau_deploye": 96.0,
+      "epaisseur_toit": 4.0,
+      "epaisseur_cadre_u": 4.0,
+      "course_elevation": 48.0,
+      "hauteur_max_hors_tout": 100.0
+    },
+    "toit_hors_tout": {
+      "longueur": 142.25,
+      "largeur": 100.5,
+      "longueur_avec_operateur": 148.6,
+      "fondation_longueur": 154.5,
+      "fondation_largeur": 106.0,
+      "c_position_moteur": 35.0
+    }
+  },
+  {
+    "id": "legend-12",
+    "nom": "Legend — 12'",
+    "gamme": "Legend",
+    "active_in_ui": true,
+    "type": "swim_spa",
+    "unite": "po",
+    "source_fichiers": [
+      "Legend - Footprint and elevation.pdf",
+      "Overall Dimensions - 2026-04-24.xlsx",
+      "Revision mesures legend, Endless Pools, Oasis, Evolution, et Oasis XL V3.xlsx"
+    ],
+    "degagement_colonnes": {
+      "longueur": 146.25,
+      "largeur": 98.75,
+      "largeur_interieure_toit": 93.0,
+      "largeur_avec_wiper_bracket": 92.9
+    },
+    "joint_etancheite": {
+      "longueur_min": 134.25,
+      "longueur_max": 146.25,
+      "largeur_min": 90.0,
+      "largeur_max": 93.0,
+      "rayon_min": 4.0,
+      "rayon_recommande": 7.0,
+      "largeur_bande": 10.6
+    },
+    "hauteur": {
+      "spa_min": 46.5,
+      "spa_max": 62.0,
+      "poteau_fixe": 60.0,
+      "epaisseur_toit": 3.5,
+      "course_elevation": 60.0,
+      "hauteur_max_hors_tout": 120.0
+    },
+    "toit_hors_tout": {
+      "longueur": 150.0,
+      "largeur": 97.25,
+      "largeur_hors_tout_totale": 111.75,
+      "fondation_largeur": 117.0
+    }
+  },
+  {
+    "id": "legend-13",
+    "nom": "Legend — 13'",
+    "gamme": "Legend",
+    "active_in_ui": true,
+    "type": "swim_spa",
+    "unite": "po",
+    "source_fichiers": [
+      "Legend - Footprint and elevation.pdf",
+      "Overall Dimensions - 2026-04-24.xlsx",
+      "Revision mesures legend, Endless Pools, Oasis, Evolution, et Oasis XL V3.xlsx"
+    ],
+    "degagement_colonnes": {
+      "longueur": 158.25,
+      "largeur": 98.75,
+      "largeur_interieure_toit": 93.0,
+      "largeur_avec_wiper_bracket": 92.9
+    },
+    "joint_etancheite": {
+      "longueur_min": 146.25,
+      "longueur_max": 158.25,
+      "largeur_min": 90.0,
+      "largeur_max": 93.0,
+      "rayon_min": 4.0,
+      "rayon_recommande": 7.0,
+      "largeur_bande": 10.6
+    },
+    "hauteur": {
+      "spa_min": 46.5,
+      "spa_max": 62.0,
+      "poteau_fixe": 60.0,
+      "epaisseur_toit": 3.5,
+      "course_elevation": 60.0,
+      "hauteur_max_hors_tout": 120.0
+    },
+    "toit_hors_tout": {
+      "longueur": 162.0,
+      "largeur": 97.25,
+      "largeur_hors_tout_totale": 111.75,
+      "fondation_largeur": 117.0
+    }
+  },
+  {
+    "id": "legend-14",
+    "nom": "Legend — 14'",
+    "gamme": "Legend",
+    "active_in_ui": true,
+    "type": "swim_spa",
+    "unite": "po",
+    "source_fichiers": [
+      "Legend - Footprint and elevation.pdf",
+      "Overall Dimensions - 2026-04-24.xlsx",
+      "Revision mesures legend, Endless Pools, Oasis, Evolution, et Oasis XL V3.xlsx"
+    ],
+    "degagement_colonnes": {
+      "longueur": 170.25,
+      "largeur": 98.75,
+      "largeur_interieure_toit": 93.0,
+      "largeur_avec_wiper_bracket": 92.9
+    },
+    "joint_etancheite": {
+      "longueur_min": 158.25,
+      "longueur_max": 170.25,
+      "largeur_min": 90.0,
+      "largeur_max": 93.0,
+      "rayon_min": 4.0,
+      "rayon_recommande": 7.0,
+      "largeur_bande": 10.6
+    },
+    "hauteur": {
+      "spa_min": 46.5,
+      "spa_max": 62.0,
+      "poteau_fixe": 60.0,
+      "epaisseur_toit": 3.5,
+      "course_elevation": 60.0,
+      "hauteur_max_hors_tout": 120.0
+    },
+    "toit_hors_tout": {
+      "longueur": 174.0,
+      "largeur": 97.25,
+      "largeur_hors_tout_totale": 111.75,
+      "fondation_largeur": 117.0
+    }
+  },
+  {
+    "id": "legend-15",
+    "nom": "Legend — 15'",
+    "gamme": "Legend",
+    "active_in_ui": true,
+    "type": "swim_spa",
+    "unite": "po",
+    "source_fichiers": [
+      "Legend - Footprint and elevation.pdf",
+      "Overall Dimensions - 2026-04-24.xlsx",
+      "Revision mesures legend, Endless Pools, Oasis, Evolution, et Oasis XL V3.xlsx"
+    ],
+    "degagement_colonnes": {
+      "longueur": 182.25,
+      "largeur": 98.75,
+      "largeur_interieure_toit": 93.0,
+      "largeur_avec_wiper_bracket": 92.9
+    },
+    "joint_etancheite": {
+      "longueur_min": 170.25,
+      "longueur_max": 182.25,
+      "largeur_min": 90.0,
+      "largeur_max": 93.0,
+      "rayon_min": 4.0,
+      "rayon_recommande": 7.0,
+      "largeur_bande": 10.6
+    },
+    "hauteur": {
+      "spa_min": 46.5,
+      "spa_max": 62.0,
+      "poteau_fixe": 60.0,
+      "epaisseur_toit": 3.5,
+      "course_elevation": 60.0,
+      "hauteur_max_hors_tout": 120.0
+    },
+    "toit_hors_tout": {
+      "longueur": 186.0,
+      "largeur": 97.25,
+      "largeur_hors_tout_totale": 111.75,
+      "fondation_largeur": 117.0
+    }
+  },
+  {
+    "id": "legend-16",
+    "nom": "Legend — 16'",
+    "gamme": "Legend",
+    "active_in_ui": true,
+    "type": "swim_spa",
+    "unite": "po",
+    "source_fichiers": [
+      "Legend - Footprint and elevation.pdf",
+      "Overall Dimensions - 2026-04-24.xlsx",
+      "Revision mesures legend, Endless Pools, Oasis, Evolution, et Oasis XL V3.xlsx"
+    ],
+    "degagement_colonnes": {
+      "longueur": 194.25,
+      "largeur": 98.75,
+      "largeur_interieure_toit": 93.0,
+      "largeur_avec_wiper_bracket": 92.9
+    },
+    "joint_etancheite": {
+      "longueur_min": 182.25,
+      "longueur_max": 194.25,
+      "largeur_min": 90.0,
+      "largeur_max": 93.0,
+      "rayon_min": 4.0,
+      "rayon_recommande": 7.0,
+      "largeur_bande": 10.6
+    },
+    "hauteur": {
+      "spa_min": 46.5,
+      "spa_max": 62.0,
+      "poteau_fixe": 60.0,
+      "epaisseur_toit": 3.5,
+      "course_elevation": 60.0,
+      "hauteur_max_hors_tout": 120.0
+    },
+    "toit_hors_tout": {
+      "longueur": 198.0,
+      "largeur": 97.25,
+      "largeur_hors_tout_totale": 111.75,
+      "fondation_largeur": 117.0
+    }
+  },
+  {
+    "id": "legend-17",
+    "nom": "Legend — 17'",
+    "gamme": "Legend",
+    "active_in_ui": true,
+    "type": "swim_spa",
+    "unite": "po",
+    "source_fichiers": [
+      "Legend - Footprint and elevation.pdf",
+      "Overall Dimensions - 2026-04-24.xlsx",
+      "Revision mesures legend, Endless Pools, Oasis, Evolution, et Oasis XL V3.xlsx"
+    ],
+    "degagement_colonnes": {
+      "longueur": 206.25,
+      "largeur": 98.75,
+      "largeur_interieure_toit": 93.0,
+      "largeur_avec_wiper_bracket": 92.9
+    },
+    "joint_etancheite": {
+      "longueur_min": 194.25,
+      "longueur_max": 206.25,
+      "largeur_min": 90.0,
+      "largeur_max": 93.0,
+      "rayon_min": 4.0,
+      "rayon_recommande": 7.0,
+      "largeur_bande": 10.6
+    },
+    "hauteur": {
+      "spa_min": 46.5,
+      "spa_max": 62.0,
+      "poteau_fixe": 60.0,
+      "epaisseur_toit": 3.5,
+      "course_elevation": 60.0,
+      "hauteur_max_hors_tout": 120.0
+    },
+    "toit_hors_tout": {
+      "longueur": 210.0,
+      "largeur": 97.25,
+      "largeur_hors_tout_totale": 111.75,
+      "fondation_largeur": 117.0
+    }
+  },
+  {
+    "id": "legend-18",
+    "nom": "Legend — 18'",
+    "gamme": "Legend",
+    "active_in_ui": true,
+    "type": "swim_spa",
+    "unite": "po",
+    "source_fichiers": [
+      "Legend - Footprint and elevation.pdf",
+      "Overall Dimensions - 2026-04-24.xlsx",
+      "Revision mesures legend, Endless Pools, Oasis, Evolution, et Oasis XL V3.xlsx"
+    ],
+    "degagement_colonnes": {
+      "longueur": 218.25,
+      "largeur": 98.75,
+      "largeur_interieure_toit": 93.0,
+      "largeur_avec_wiper_bracket": 92.9
+    },
+    "joint_etancheite": {
+      "longueur_min": 206.25,
+      "longueur_max": 218.25,
+      "largeur_min": 90.0,
+      "largeur_max": 93.0,
+      "rayon_min": 4.0,
+      "rayon_recommande": 7.0,
+      "largeur_bande": 10.6
+    },
+    "hauteur": {
+      "spa_min": 46.5,
+      "spa_max": 62.0,
+      "poteau_fixe": 60.0,
+      "epaisseur_toit": 3.5,
+      "course_elevation": 60.0,
+      "hauteur_max_hors_tout": 120.0
+    },
+    "toit_hors_tout": {
+      "longueur": 222.0,
+      "largeur": 97.25,
+      "largeur_hors_tout_totale": 111.75,
+      "fondation_largeur": 117.0
+    }
+  },
+  {
+    "id": "legend-19",
+    "nom": "Legend — 19'",
+    "gamme": "Legend",
+    "active_in_ui": true,
+    "type": "swim_spa",
+    "unite": "po",
+    "source_fichiers": [
+      "Legend - Footprint and elevation.pdf",
+      "Overall Dimensions - 2026-04-24.xlsx",
+      "Revision mesures legend, Endless Pools, Oasis, Evolution, et Oasis XL V3.xlsx"
+    ],
+    "degagement_colonnes": {
+      "longueur": 230.25,
+      "largeur": 98.75,
+      "largeur_interieure_toit": 93.0,
+      "largeur_avec_wiper_bracket": 92.9
+    },
+    "joint_etancheite": {
+      "longueur_min": 218.25,
+      "longueur_max": 230.25,
+      "largeur_min": 90.0,
+      "largeur_max": 93.0,
+      "rayon_min": 4.0,
+      "rayon_recommande": 7.0,
+      "largeur_bande": 10.6
+    },
+    "hauteur": {
+      "spa_min": 46.5,
+      "spa_max": 62.0,
+      "poteau_fixe": 60.0,
+      "epaisseur_toit": 3.5,
+      "course_elevation": 60.0,
+      "hauteur_max_hors_tout": 120.0
+    },
+    "toit_hors_tout": {
+      "longueur": 234.0,
+      "largeur": 97.25,
+      "largeur_hors_tout_totale": 111.75,
+      "fondation_largeur": 117.0
+    }
+  },
+  {
+    "id": "legend-new-20-20-7",
+    "nom": "Legend — NEW 20' (20'7'')",
+    "gamme": "Legend",
+    "active_in_ui": true,
+    "type": "swim_spa",
+    "unite": "po",
+    "source_fichiers": [
+      "Legend - Footprint and elevation.pdf",
+      "Overall Dimensions - 2026-04-24.xlsx",
+      "Revision mesures legend, Endless Pools, Oasis, Evolution, et Oasis XL V3.xlsx"
+    ],
+    "degagement_colonnes": {
+      "longueur": 241.25,
+      "largeur": 98.75,
+      "largeur_interieure_toit": 93.0,
+      "largeur_avec_wiper_bracket": 92.9
+    },
+    "joint_etancheite": {
+      "longueur_min": 229.25,
+      "longueur_max": 241.25,
+      "largeur_min": 90.0,
+      "largeur_max": 93.0,
+      "rayon_min": 4.0,
+      "rayon_recommande": 7.0,
+      "largeur_bande": 10.6
+    },
+    "hauteur": {
+      "spa_min": 46.5,
+      "spa_max": 62.0,
+      "poteau_fixe": 60.0,
+      "epaisseur_toit": 3.5,
+      "course_elevation": 60.0,
+      "hauteur_max_hors_tout": 120.0
+    },
+    "toit_hors_tout": {
+      "longueur": 245.0,
+      "largeur": 97.25,
+      "largeur_hors_tout_totale": 111.75,
+      "fondation_largeur": 117.0
+    }
+  },
+  {
+    "id": "legend-21",
+    "nom": "Legend — 21'",
+    "gamme": "Legend",
+    "active_in_ui": true,
+    "type": "swim_spa",
+    "unite": "po",
+    "source_fichiers": [
+      "Legend - Footprint and elevation.pdf",
+      "Overall Dimensions - 2026-04-24.xlsx",
+      "Revision mesures legend, Endless Pools, Oasis, Evolution, et Oasis XL V3.xlsx"
+    ],
+    "degagement_colonnes": {
+      "longueur": 254.75,
+      "largeur": 98.75,
+      "largeur_interieure_toit": 93.0,
+      "largeur_avec_wiper_bracket": 92.9
+    },
+    "joint_etancheite": {
+      "longueur_min": 242.75,
+      "longueur_max": 254.75,
+      "largeur_min": 90.0,
+      "largeur_max": 93.0,
+      "rayon_min": 4.0,
+      "rayon_recommande": 7.0,
+      "largeur_bande": 10.6
+    },
+    "hauteur": {
+      "spa_min": 46.5,
+      "spa_max": 62.0,
+      "poteau_fixe": 60.0,
+      "epaisseur_toit": 3.5,
+      "course_elevation": 60.0,
+      "hauteur_max_hors_tout": 120.0
+    },
+    "toit_hors_tout": {
+      "longueur": 258.0,
+      "largeur": 97.25,
+      "largeur_hors_tout_totale": 111.75,
+      "fondation_largeur": 117.0
+    }
+  },
+  {
+    "id": "legend-24",
+    "nom": "Legend — 24'",
+    "gamme": "Legend",
+    "active_in_ui": true,
+    "type": "swim_spa",
+    "unite": "po",
+    "source_fichiers": [
+      "Legend - Footprint and elevation.pdf",
+      "Overall Dimensions - 2026-04-24.xlsx",
+      "Revision mesures legend, Endless Pools, Oasis, Evolution, et Oasis XL V3.xlsx"
+    ],
+    "degagement_colonnes": {
+      "longueur": 290.75,
+      "largeur": 98.75,
+      "largeur_interieure_toit": 93.0,
+      "largeur_avec_wiper_bracket": 92.9
+    },
+    "joint_etancheite": {
+      "longueur_min": 278.75,
+      "longueur_max": 290.75,
+      "largeur_min": 90.0,
+      "largeur_max": 93.0,
+      "rayon_min": 4.0,
+      "rayon_recommande": 7.0,
+      "largeur_bande": 10.6
+    },
+    "hauteur": {
+      "spa_min": 46.5,
+      "spa_max": 62.0,
+      "poteau_fixe": 60.0,
+      "epaisseur_toit": 3.5,
+      "course_elevation": 60.0,
+      "hauteur_max_hors_tout": 120.0
+    },
+    "toit_hors_tout": {
+      "longueur": 294.0,
+      "largeur": 97.25,
+      "largeur_hors_tout_totale": 111.75,
+      "fondation_largeur": 117.0
+    }
+  },
+  {
+    "id": "endless-pools-r200-cep1250",
+    "nom": "Legend for Endless Pools — R200 - CEP1250",
+    "gamme": "Endless Pools",
+    "active_in_ui": true,
+    "type": "swim_spa",
+    "unite": "po",
+    "source_fichiers": [
+      "Legend 89 and For Endless Pools.pdf",
+      "Overall Dimensions - 2026-04-24.xlsx",
+      "Revision mesures legend, Endless Pools, Oasis, Evolution, et Oasis XL V3.xlsx"
+    ],
+    "degagement_colonnes": {
+      "longueur": 143.25,
+      "largeur": 95.0,
+      "largeur_interieure_toit": 89.75,
+      "largeur_avec_wiper_bracket": 88.85
+    },
+    "joint_etancheite": {
+      "longueur_min": 131.25,
+      "longueur_max": 143.25,
+      "largeur_min": 87.0,
+      "largeur_max": 89.0,
+      "rayon_min": 4.0,
+      "rayon_recommande": 7.0,
+      "largeur_bande": 10.6
+    },
+    "hauteur": {
+      "spa_min": 50.0,
+      "spa_max": 58.0,
+      "poteau_fixe": 60.0,
+      "epaisseur_toit": 3.5,
+      "course_elevation": 60.0,
+      "hauteur_max_hors_tout": 120.0
+    },
+    "toit_hors_tout": {
+      "longueur": 147.0,
+      "largeur": 93.25,
+      "largeur_hors_tout_totale": 108.0,
+      "fondation_largeur": 113.0
+    }
+  },
+  {
+    "id": "endless-pools-r500-x500-cep1550",
+    "nom": "Legend for Endless Pools — R500 - X500  CEP1550",
+    "gamme": "Endless Pools",
+    "active_in_ui": true,
+    "type": "swim_spa",
+    "unite": "po",
+    "source_fichiers": [
+      "Legend 89 and For Endless Pools.pdf",
+      "Overall Dimensions - 2026-04-24.xlsx",
+      "Revision mesures legend, Endless Pools, Oasis, Evolution, et Oasis XL V3.xlsx"
+    ],
+    "degagement_colonnes": {
+      "longueur": 179.25,
+      "largeur": 95.0,
+      "largeur_interieure_toit": 89.75,
+      "largeur_avec_wiper_bracket": 88.85
+    },
+    "joint_etancheite": {
+      "longueur_min": 167.25,
+      "longueur_max": 179.25,
+      "largeur_min": 87.0,
+      "largeur_max": 89.0,
+      "rayon_min": 4.0,
+      "rayon_recommande": 7.0,
+      "largeur_bande": 10.6
+    },
+    "hauteur": {
+      "spa_min": 50.0,
+      "spa_max": 58.0,
+      "poteau_fixe": 60.0,
+      "epaisseur_toit": 3.5,
+      "course_elevation": 60.0,
+      "hauteur_max_hors_tout": 120.0
+    },
+    "toit_hors_tout": {
+      "longueur": 183.0,
+      "largeur": 93.25,
+      "largeur_hors_tout_totale": 108.0,
+      "fondation_largeur": 113.0
+    }
+  },
+  {
+    "id": "endless-pools-e550-legend-15-e550-harware-234768",
+    "nom": "Legend for Endless Pools — E550  LEGEND 15' + E550 HARWARE 234768",
+    "gamme": "Endless Pools",
+    "active_in_ui": true,
+    "type": "swim_spa",
+    "unite": "po",
+    "source_fichiers": [
+      "Legend 89 and For Endless Pools.pdf",
+      "Overall Dimensions - 2026-04-24.xlsx",
+      "Revision mesures legend, Endless Pools, Oasis, Evolution, et Oasis XL V3.xlsx"
+    ],
+    "degagement_colonnes": {
+      "longueur": 182.25,
+      "largeur": 95.0,
+      "largeur_interieure_toit": 92.9,
+      "largeur_avec_wiper_bracket": 92.9
+    },
+    "joint_etancheite": {
+      "longueur_min": 170.25,
+      "longueur_max": 182.25,
+      "largeur_min": 87.0,
+      "largeur_max": 93.0,
+      "rayon_min": 4.0,
+      "rayon_recommande": 7.0,
+      "largeur_bande": 10.6
+    },
+    "hauteur": {
+      "spa_min": 50.0,
+      "spa_max": 58.0,
+      "poteau_fixe": 60.0,
+      "epaisseur_toit": 3.5,
+      "course_elevation": 60.0,
+      "hauteur_max_hors_tout": 120.0
+    },
+    "toit_hors_tout": {
+      "longueur": 186.0,
+      "largeur": 97.25,
+      "largeur_hors_tout_totale": 111.75,
+      "fondation_largeur": 113.0
+    }
+  },
+  {
+    "id": "endless-pools-e500-cep1558",
+    "nom": "Legend for Endless Pools — E500 - CEP1558",
+    "gamme": "Endless Pools",
+    "active_in_ui": true,
+    "type": "swim_spa",
+    "unite": "po",
+    "source_fichiers": [
+      "Legend 89 and For Endless Pools.pdf",
+      "Overall Dimensions - 2026-04-24.xlsx",
+      "Revision mesures legend, Endless Pools, Oasis, Evolution, et Oasis XL V3.xlsx"
+    ],
+    "degagement_colonnes": {
+      "longueur": 179.25,
+      "largeur": 95.0,
+      "largeur_interieure_toit": 89.75,
+      "largeur_avec_wiper_bracket": 88.85
+    },
+    "joint_etancheite": {
+      "longueur_min": 167.25,
+      "longueur_max": 179.25,
+      "largeur_min": 87.0,
+      "largeur_max": 89.0,
+      "rayon_min": 4.0,
+      "rayon_recommande": 7.0,
+      "largeur_bande": 10.6
+    },
+    "hauteur": {
+      "spa_min": 50.0,
+      "spa_max": 58.0,
+      "poteau_fixe": 60.0,
+      "epaisseur_toit": 3.5,
+      "course_elevation": 60.0,
+      "hauteur_max_hors_tout": 120.0
+    },
+    "toit_hors_tout": {
+      "longueur": 183.0,
+      "largeur": 93.25,
+      "largeur_hors_tout_totale": 108.0,
+      "fondation_largeur": 113.0
+    }
+  },
+  {
+    "id": "endless-pools-e700-cep1758",
+    "nom": "Legend for Endless Pools — E700 - CEP1758",
+    "gamme": "Endless Pools",
+    "active_in_ui": true,
+    "type": "swim_spa",
+    "unite": "po",
+    "source_fichiers": [
+      "Legend 89 and For Endless Pools.pdf",
+      "Overall Dimensions - 2026-04-24.xlsx",
+      "Revision mesures legend, Endless Pools, Oasis, Evolution, et Oasis XL V3.xlsx"
+    ],
+    "degagement_colonnes": {
+      "longueur": 203.25,
+      "largeur": 95.0,
+      "largeur_interieure_toit": 89.75,
+      "largeur_avec_wiper_bracket": 88.85
+    },
+    "joint_etancheite": {
+      "longueur_min": 191.25,
+      "longueur_max": 203.25,
+      "largeur_min": 87.0,
+      "largeur_max": 89.0,
+      "rayon_min": 4.0,
+      "rayon_recommande": 7.0,
+      "largeur_bande": 10.6
+    },
+    "hauteur": {
+      "spa_min": 50.0,
+      "spa_max": 58.0,
+      "poteau_fixe": 60.0,
+      "epaisseur_toit": 3.5,
+      "course_elevation": 60.0,
+      "hauteur_max_hors_tout": 120.0
+    },
+    "toit_hors_tout": {
+      "longueur": 207.0,
+      "largeur": 93.25,
+      "largeur_hors_tout_totale": 108.0,
+      "fondation_largeur": 113.0
+    }
+  },
+  {
+    "id": "endless-pools-e2000-x2000-cep2058",
+    "nom": "Legend for Endless Pools — E2000 - X2000 CEP2058",
+    "gamme": "Endless Pools",
+    "active_in_ui": true,
+    "type": "swim_spa",
+    "unite": "po",
+    "source_fichiers": [
+      "Legend 89 and For Endless Pools.pdf",
+      "Overall Dimensions - 2026-04-24.xlsx",
+      "Revision mesures legend, Endless Pools, Oasis, Evolution, et Oasis XL V3.xlsx"
+    ],
+    "degagement_colonnes": {
+      "longueur": 239.25,
+      "largeur": 95.0,
+      "largeur_interieure_toit": 89.75,
+      "largeur_avec_wiper_bracket": 88.85
+    },
+    "joint_etancheite": {
+      "longueur_min": 227.25,
+      "longueur_max": 239.25,
+      "largeur_min": 87.0,
+      "largeur_max": 89.0,
+      "rayon_min": 4.0,
+      "rayon_recommande": 7.0,
+      "largeur_bande": 10.6
+    },
+    "hauteur": {
+      "spa_min": 50.0,
+      "spa_max": 58.0,
+      "poteau_fixe": 60.0,
+      "epaisseur_toit": 3.5,
+      "course_elevation": 60.0,
+      "hauteur_max_hors_tout": 120.0
+    },
+    "toit_hors_tout": {
+      "longueur": 243.0,
+      "largeur": 93.25,
+      "largeur_hors_tout_totale": 108.0,
+      "fondation_largeur": 113.0
+    }
+  },
+  {
+    "id": "legend-89-12",
+    "nom": "Legend 89 — 12'",
+    "gamme": "Legend 89",
+    "active_in_ui": true,
+    "type": "swim_spa",
+    "unite": "po",
+    "source_fichiers": [
+      "Legend 89 and For Endless Pools.pdf",
+      "Overall Dimensions - 2026-04-24.xlsx",
+      "Revision mesures legend, Endless Pools, Oasis, Evolution, et Oasis XL V3.xlsx"
+    ],
+    "degagement_colonnes": {
+      "longueur": 143.25,
+      "largeur": 95.0,
+      "largeur_interieure_toit": 89.75,
+      "largeur_avec_wiper_bracket": 88.85
+    },
+    "joint_etancheite": {
+      "longueur_min": 131.25,
+      "longueur_max": 143.25,
+      "largeur_min": 87.0,
+      "largeur_max": 89.0,
+      "rayon_min": 4.0,
+      "rayon_recommande": 7.0,
+      "largeur_bande": 10.6
+    },
+    "hauteur": {
+      "spa_min": 47.0,
+      "spa_max": 62.0,
+      "poteau_fixe": 60.0,
+      "epaisseur_toit": 3.5,
+      "course_elevation": 60.0,
+      "hauteur_max_hors_tout": 120.0
+    },
+    "toit_hors_tout": {
+      "longueur": 147.0,
+      "largeur": 93.25,
+      "largeur_hors_tout_totale": 108.0,
+      "fondation_largeur": 113.0
+    }
+  },
+  {
+    "id": "legend-89-15",
+    "nom": "Legend 89 — 15'",
+    "gamme": "Legend 89",
+    "active_in_ui": true,
+    "type": "swim_spa",
+    "unite": "po",
+    "source_fichiers": [
+      "Legend 89 and For Endless Pools.pdf",
+      "Overall Dimensions - 2026-04-24.xlsx",
+      "Revision mesures legend, Endless Pools, Oasis, Evolution, et Oasis XL V3.xlsx"
+    ],
+    "degagement_colonnes": {
+      "longueur": 179.25,
+      "largeur": 95.0,
+      "largeur_interieure_toit": 89.75,
+      "largeur_avec_wiper_bracket": 88.85
+    },
+    "joint_etancheite": {
+      "longueur_min": 167.25,
+      "longueur_max": 179.25,
+      "largeur_min": 87.0,
+      "largeur_max": 89.0,
+      "rayon_min": 4.0,
+      "rayon_recommande": 7.0,
+      "largeur_bande": 10.6
+    },
+    "hauteur": {
+      "spa_min": 47.0,
+      "spa_max": 62.0,
+      "poteau_fixe": 60.0,
+      "epaisseur_toit": 3.5,
+      "course_elevation": 60.0,
+      "hauteur_max_hors_tout": 120.0
+    },
+    "toit_hors_tout": {
+      "longueur": 183.0,
+      "largeur": 93.25,
+      "largeur_hors_tout_totale": 108.0,
+      "fondation_largeur": 113.0
+    }
+  },
+  {
+    "id": "legend-89-17",
+    "nom": "Legend 89 — 17'",
+    "gamme": "Legend 89",
+    "active_in_ui": true,
+    "type": "swim_spa",
+    "unite": "po",
+    "source_fichiers": [
+      "Legend 89 and For Endless Pools.pdf",
+      "Overall Dimensions - 2026-04-24.xlsx",
+      "Revision mesures legend, Endless Pools, Oasis, Evolution, et Oasis XL V3.xlsx"
+    ],
+    "degagement_colonnes": {
+      "longueur": 203.25,
+      "largeur": 95.0,
+      "largeur_interieure_toit": 89.75,
+      "largeur_avec_wiper_bracket": 88.85
+    },
+    "joint_etancheite": {
+      "longueur_min": 191.25,
+      "longueur_max": 203.25,
+      "largeur_min": 87.0,
+      "largeur_max": 89.0,
+      "rayon_min": 4.0,
+      "rayon_recommande": 7.0,
+      "largeur_bande": 10.6
+    },
+    "hauteur": {
+      "spa_min": 47.0,
+      "spa_max": 62.0,
+      "poteau_fixe": 60.0,
+      "epaisseur_toit": 3.5,
+      "course_elevation": 60.0,
+      "hauteur_max_hors_tout": 120.0
+    },
+    "toit_hors_tout": {
+      "longueur": 207.0,
+      "largeur": 93.25,
+      "largeur_hors_tout_totale": 108.0,
+      "fondation_largeur": 113.0
+    }
+  },
+  {
+    "id": "legend-89-20",
+    "nom": "Legend 89 — 20'",
+    "gamme": "Legend 89",
+    "active_in_ui": true,
+    "type": "swim_spa",
+    "unite": "po",
+    "source_fichiers": [
+      "Legend 89 and For Endless Pools.pdf",
+      "Overall Dimensions - 2026-04-24.xlsx",
+      "Revision mesures legend, Endless Pools, Oasis, Evolution, et Oasis XL V3.xlsx"
+    ],
+    "degagement_colonnes": {
+      "longueur": 239.25,
+      "largeur": 95.0,
+      "largeur_interieure_toit": 89.75,
+      "largeur_avec_wiper_bracket": 88.85
+    },
+    "joint_etancheite": {
+      "longueur_min": 227.25,
+      "longueur_max": 239.25,
+      "largeur_min": 87.0,
+      "largeur_max": 89.0,
+      "rayon_min": 4.0,
+      "rayon_recommande": 7.0,
+      "largeur_bande": 10.6
+    },
+    "hauteur": {
+      "spa_min": 47.0,
+      "spa_max": 62.0,
+      "poteau_fixe": 60.0,
+      "epaisseur_toit": 3.5,
+      "course_elevation": 60.0,
+      "hauteur_max_hors_tout": 120.0
+    },
+    "toit_hors_tout": {
+      "longueur": 243.0,
+      "largeur": 93.25,
+      "largeur_hors_tout_totale": 108.0,
+      "fondation_largeur": 113.0
+    }
+  },
+  {
+    "id": "horizon-std",
+    "nom": "Horizon — Standard (Toit Inclinable Panoramique)",
+    "code_interne": "HORIZON (Toit Incliné / Inclinable)",
+    "gamme": "Horizon",
+    "active_in_ui": true,
+    "type": "hot_tub",
+    "orientation_entree": "any",
+    "unite": "po",
+    "source_fichiers": [
+      "Horizon Gazebo - Architectural Specs and Clearance.pdf",
+      "Horizon Gazebo - Pre-Delivery Guide.pdf"
+    ],
+    "degagement_colonnes": {
+      "longueur": 98.0,
+      "largeur": 93.0,
+      "longueur_cao": 98.32,
+      "largeur_cao": 92.98,
+      "diagonale": 130.75,
+      "largeur_entree": 60.0
+    },
+    "joint_etancheite": {
+      "longueur_min": 72.0,
+      "longueur_max": 96.0,
+      "largeur_min": 70.0,
+      "largeur_max": 93.0,
+      "rayon_min": 4.0,
+      "rayon_max": 16.0,
+      "rayon_recommande": 8.0,
+      "largeur_bande": 3.5,
+      "surface_plane_min": 1.25,
+      "coquille_min_longueur": 70.0,
+      "coquille_min_largeur": 68.0
+    },
+    "hauteur": {
+      "spa_min": 32.0,
+      "spa_max": 44.0,
+      "poteau_fixe": 72.0,
+      "poteau_deploye": 92.0,
+      "course_elevation": 48.0,
+      "hauteur_max_hors_tout": 105.0
+    },
+    "toit_hors_tout": {
+      "longueur": 104.0,
+      "largeur": 99.0,
+      "type_toit": "incline_panoramique",
+      "angle_inclinaison_deg": 15.0
+    },
+    "degagement_installation": {
+      "degagement_arriere_pivot": 36.0,
+      "maintenance_moteur": 24.0,
+      "maintenance_cotes": 6.0,
+      "degagement_frontal": 0.0
+    },
+    "description": "Gazebo automatisé Horizon Gazebo à toit incliné escamotable à pivot arrière pour spas résidentiels jusqu'à 96\" x 93\"."
+  }
+]
